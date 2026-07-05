@@ -1,0 +1,86 @@
+{
+  "number": 97,
+  "date": "2026-10-05",
+  "link": "ORIGIN",
+  "compounds": "GENESIS · GERM · SEED · SOURCE",
+  "note": "GENESIS, GERM, SEED and SOURCE are all ORIGINS",
+  "clues": [
+    {
+      "answer": "GENESIS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Book",
+          "def"
+        ],
+        [
+          " is on units of heredity",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Book'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GERM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Article dismissed by a European ",
+          "ind"
+        ],
+        [
+          "source",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'source'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SEED",
+      "device": "Charade",
+      "parts": [
+        [
+          "Get diamonds for ",
+          "ind"
+        ],
+        [
+          "court favourite",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'court favourite'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SOURCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Turned to church as ",
+          "ind"
+        ],
+        [
+          "an authority",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'an authority'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

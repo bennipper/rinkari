@@ -1,0 +1,86 @@
+{
+  "number": 376,
+  "date": "2027-07-11",
+  "link": "ALOOF",
+  "compounds": "COOL · DISTANT · REMOTE · RESERVED",
+  "note": "COOL, DISTANT, REMOTE and RESERVED are all ALOOFS",
+  "clues": [
+    {
+      "answer": "COOL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Calm",
+          "def"
+        ],
+        [
+          " Scot, bold internally",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Calm'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DISTANT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stand it, working ",
+          "ind"
+        ],
+        [
+          "far away?",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'far away'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "REMOTE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Distant",
+          "def"
+        ],
+        [
+          " meteor disintegrated",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Distant'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RESERVED",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cool",
+          "def"
+        ],
+        [
+          " to pour in wine",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cool'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

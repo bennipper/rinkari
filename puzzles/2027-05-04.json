@@ -1,0 +1,86 @@
+{
+  "number": 308,
+  "date": "2027-05-04",
+  "link": "STEER",
+  "compounds": "DIRECT · GUIDE · LEAD · SHEPHERD",
+  "note": "DIRECT, GUIDE, LEAD and SHEPHERD are all STEERS",
+  "clues": [
+    {
+      "answer": "DIRECT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Frank",
+          "def"
+        ],
+        [
+          " having credit renewed",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Frank'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GUIDE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Reporter's sent up ",
+          "ind"
+        ],
+        [
+          "handbook",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'handbook'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LEAD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Perhaps metal from church roof ",
+          "ind"
+        ],
+        [
+          "in the van",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'in the van'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHEPHERD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tender",
+          "def"
+        ],
+        [
+          " and soft on that woman in shelter",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Tender'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

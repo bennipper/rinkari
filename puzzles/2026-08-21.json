@@ -1,0 +1,86 @@
+{
+  "number": 52,
+  "date": "2026-08-21",
+  "link": "MARSUPIALS",
+  "compounds": "KANGAROO · KOALA · WALLABY · WOMBAT",
+  "note": "KANGAROO, KOALA, WALLABY and WOMBAT are all MARSUPIALS",
+  "clues": [
+    {
+      "answer": "KANGAROO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Go out with Anorak ",
+          "ind"
+        ],
+        [
+          "Joey?",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Joey'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "KOALA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Put out a note for ",
+          "ind"
+        ],
+        [
+          "Aussie tree-climber",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Aussie tree-climber'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WALLABY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fool holding a head of balloon ",
+          "ind"
+        ],
+        [
+          "animal",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'animal'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WOMBAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Burrowing marsupial",
+          "def"
+        ],
+        [
+          " initially waiting for start of fight",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Burrowing marsupial'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

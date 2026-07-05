@@ -1,0 +1,86 @@
+{
+  "number": 34,
+  "date": "2026-08-03",
+  "link": "COFFEE",
+  "compounds": "AMERICANO · CAPPUCCINO · ESPRESSO · LATTE",
+  "note": "AMERICANO, CAPPUCCINO, ESPRESSO and LATTE are all COFFEE drinks",
+  "clues": [
+    {
+      "answer": "AMERICANO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Not oddly, David Cameron prepared ",
+          "ind"
+        ],
+        [
+          "a drink",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a drink'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CAPPUCCINO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mafia boss welcomes composer briefly for ",
+          "ind"
+        ],
+        [
+          "a drink",
+          "def"
+        ],
+        [
+          " (10)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a drink'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ESPRESSO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Journalists in tea-shop occasionally ",
+          "ind"
+        ],
+        [
+          "drink",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'drink'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LATTE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Beverage",
+          "def"
+        ],
+        [
+          " knocked back with others drinking what sounds like tea",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Beverage'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

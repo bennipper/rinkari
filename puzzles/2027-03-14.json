@@ -1,0 +1,86 @@
+{
+  "number": 257,
+  "date": "2027-03-14",
+  "link": "DEEM",
+  "compounds": "CONSIDER · COUNT · JUDGE · REGARD",
+  "note": "CONSIDER, COUNT, JUDGE and REGARD are all DEEMS",
+  "clues": [
+    {
+      "answer": "CONSIDER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Deliberate",
+          "def"
+        ],
+        [
+          " trick by team with little resistance",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Deliberate'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "COUNT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Limerick perhaps shortened ",
+          "ind"
+        ],
+        [
+          "to make an impression",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'to make an impression'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "JUDGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Critically examine",
+          "def"
+        ],
+        [
+          " subject of Hardy novel about Diggory’s heart",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Critically examine'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "REGARD",
+      "device": "Charade",
+      "parts": [
+        [
+          "On TV outfit's regressive ",
+          "ind"
+        ],
+        [
+          "look",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'look'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 107,
+  "date": "2026-10-15",
+  "link": "TABLEWARE",
+  "compounds": "BOWL · DISH · PLATE · SAUCER",
+  "note": "BOWL, DISH, PLATE and SAUCER are all TABLEWARES",
+  "clues": [
+    {
+      "answer": "BOWL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Black bird for ",
+          "ind"
+        ],
+        [
+          "pudding dish",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'pudding dish'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DISH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Daughter is wanting hot ",
+          "ind"
+        ],
+        [
+          "food",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'food'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PLATE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Helping",
+          "def"
+        ],
+        [
+          " head getting to grips with learner",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Helping'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SAUCER",
+      "device": "Charade",
+      "parts": [
+        [
+          "First person expelled from more forward ",
+          "ind"
+        ],
+        [
+          "part of China?",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'part of China?'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

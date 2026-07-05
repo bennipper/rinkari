@@ -1,0 +1,90 @@
+{
+  "number": 351,
+  "date": "2027-06-16",
+  "link": "DIVULGE",
+  "compounds": "BLAB · DISH · SPILL · TELL",
+  "note": "BLAB, DISH, SPILL and TELL are all DIVULGES",
+  "clues": [
+    {
+      "answer": "BLAB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Vestment returned by bishop ",
+          "ind"
+        ],
+        [
+          "let out",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'let out'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DISH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Daughter is wanting hot ",
+          "ind"
+        ],
+        [
+          "food",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'food'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPILL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Small tablet found in ",
+          "ind"
+        ],
+        [
+          "shed",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'shed'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TELL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Legendary marksman",
+          "def"
+        ],
+        [
+          "’s ",
+          ""
+        ],
+        [
+          "order",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: legendary marksman, and order."
+    }
+  ],
+  "linkType": "category"
+}

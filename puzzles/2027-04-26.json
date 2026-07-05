@@ -1,0 +1,86 @@
+{
+  "number": 300,
+  "date": "2027-04-26",
+  "link": "PUBLICITY",
+  "compounds": "ATTENTION · COVERAGE · EXPOSURE · PRESS",
+  "note": "ATTENTION, COVERAGE, EXPOSURE and PRESS are all PUBLICITIES",
+  "clues": [
+    {
+      "answer": "ATTENTION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Shelter received by people wanting new ",
+          "ind"
+        ],
+        [
+          "treatment",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'treatment'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "COVERAGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "All the press reports",
+          "def"
+        ],
+        [
+          " Conservative too old?",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'All the press reports'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EXPOSURE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Partner no longer certain about river ",
+          "ind"
+        ],
+        [
+          "outing",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'outing'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PRESS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Prioress denied port and ",
+          "ind"
+        ],
+        [
+          "jam",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'jam'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

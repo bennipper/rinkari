@@ -1,0 +1,86 @@
+{
+  "number": 25,
+  "date": "2026-07-25",
+  "link": "SPICE",
+  "compounds": "BABY · GINGER · POSH · SCARY",
+  "note": "BABY, GINGER, POSH and SCARY are all SPICE GIRLS",
+  "clues": [
+    {
+      "answer": "BABY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Very young child",
+          "def"
+        ],
+        [
+          " born in creek",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Very young child'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GINGER",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Staging erotic content, ",
+          "ind"
+        ],
+        [
+          "hot stuff",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'hot stuff'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "POSH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Smart",
+          "def"
+        ],
+        [
+          " shop fails",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Smart'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCARY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Appalling",
+          "def"
+        ],
+        [
+          " mark with you being denied Open University",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Appalling'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

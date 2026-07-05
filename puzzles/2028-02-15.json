@@ -1,0 +1,90 @@
+{
+  "number": 595,
+  "date": "2028-02-15",
+  "link": "ATTENDANTS",
+  "compounds": "COURT · ENTOURAGE · RETINUE · SUITE",
+  "note": "COURT, ENTOURAGE, RETINUE and SUITE are all ATTENDANTS",
+  "clues": [
+    {
+      "answer": "COURT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "What solicitors do",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "place of trials?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: what solicitors do, and place of trials."
+    },
+    {
+      "answer": "ENTOURAGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Company",
+          "def"
+        ],
+        [
+          " went without leader as old as you and I",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Company'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RETINUE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Recalled one joining European ",
+          "ind"
+        ],
+        [
+          "train",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'train'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SUITE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Heard of charming ",
+          "ind"
+        ],
+        [
+          "apartment!",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'apartment'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

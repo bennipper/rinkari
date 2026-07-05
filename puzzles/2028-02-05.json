@@ -1,0 +1,90 @@
+{
+  "number": 585,
+  "date": "2028-02-05",
+  "link": "GLASSWARE",
+  "compounds": "COUPE · FLUTE · STEIN · TUMBLER",
+  "note": "COUPE, FLUTE, STEIN and TUMBLER are all GLASSWARES",
+  "clues": [
+    {
+      "answer": "COUPE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Manage to snaffle last of tiramisu for ",
+          "ind"
+        ],
+        [
+          "dessert",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'dessert'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FLUTE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Instrument",
+          "def"
+        ],
+        [
+          " that’s made of glass",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Instrument'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STEIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mug",
+          "def"
+        ],
+        [
+          " in set gets smashed",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Mug'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TUMBLER",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Glass",
+          "def"
+        ],
+        [
+          " slipper may become ",
+          ""
+        ],
+        [
+          "this",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: glass, and this."
+    }
+  ],
+  "linkType": "category"
+}

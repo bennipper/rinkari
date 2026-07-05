@@ -1,0 +1,90 @@
+{
+  "number": 415,
+  "date": "2027-08-19",
+  "link": "STRICT",
+  "compounds": "FIRM · RIGID · STERN · TOUGH",
+  "note": "FIRM, RIGID, STERN and TOUGH are all STRICTS",
+  "clues": [
+    {
+      "answer": "FIRM",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Company",
+          "def"
+        ],
+        [
+          "   ",
+          ""
+        ],
+        [
+          "unlikely to collapse",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: company, and unlikely to collapse."
+    },
+    {
+      "answer": "RIGID",
+      "device": "Charade",
+      "parts": [
+        [
+          "Hard",
+          "def"
+        ],
+        [
+          " to tamper with identity",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Hard'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STERN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Letters from schoolmaster never ",
+          "ind"
+        ],
+        [
+          "enforcing discipline",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'enforcing discipline'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TOUGH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Demanding",
+          "def"
+        ],
+        [
+          " return of books: we’re disgusted",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Demanding'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

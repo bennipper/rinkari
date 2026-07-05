@@ -1,0 +1,86 @@
+{
+  "number": 271,
+  "date": "2027-03-28",
+  "link": "LOWDOWN",
+  "compounds": "DISH · DOPE · INFO · SCOOP",
+  "note": "DISH, DOPE, INFO and SCOOP are all LOWDOWNS",
+  "clues": [
+    {
+      "answer": "DISH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Daughter is wanting hot ",
+          "ind"
+        ],
+        [
+          "food",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'food'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DOPE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Perform sport, or ",
+          "ind"
+        ],
+        [
+          "cheat thereat?",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'cheat thereat?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "INFO",
+      "device": "Charade",
+      "parts": [
+        [
+          "News",
+          "def"
+        ],
+        [
+          " concerning most of Ulster sent up",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'News'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCOOP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Small company with work that’s ",
+          "ind"
+        ],
+        [
+          "exclusive",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'exclusive'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

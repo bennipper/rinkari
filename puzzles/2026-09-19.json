@@ -1,0 +1,94 @@
+{
+  "number": 81,
+  "date": "2026-09-19",
+  "link": "REPLACEMENT",
+  "compounds": "BACKUP · COPY · EXTRA · SPARE",
+  "note": "BACKUP, COPY, EXTRA and SPARE are all REPLACEMENTS",
+  "clues": [
+    {
+      "answer": "BACKUP",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Support",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "reverse",
+          "ind"
+        ],
+        [
+          " (4,2)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: support, and reverse."
+    },
+    {
+      "answer": "COPY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Imitate",
+          "def"
+        ],
+        [
+          " policeman going to Yard",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Imitate'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EXTRA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Rate adjusted to accommodate ten ",
+          "ind"
+        ],
+        [
+          "more",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'more'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPARE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Extra",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "frugal",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: extra, and frugal."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,90 @@
+{
+  "number": 348,
+  "date": "2027-06-13",
+  "link": "MAGNANIMOUS",
+  "compounds": "GRAND · GREAT · LOFTY · NOBLE",
+  "note": "GRAND, GREAT, LOFTY and NOBLE are all MAGNANIMOUS",
+  "clues": [
+    {
+      "answer": "GRAND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Finally obtaining foreign currency is ",
+          "ind"
+        ],
+        [
+          "splendid",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'splendid'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GREAT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Magic",
+          "def"
+        ],
+        [
+          " / ",
+          ""
+        ],
+        [
+          "giant",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: magic, and giant."
+    },
+    {
+      "answer": "LOFTY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Imposing",
+          "def"
+        ],
+        [
+          " spell of tyranny after cutbacks",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Imposing'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "NOBLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Peer",
+          "def"
+        ],
+        [
+          " shows no belief, oddly",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Peer'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

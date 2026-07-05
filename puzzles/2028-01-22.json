@@ -1,0 +1,90 @@
+{
+  "number": 571,
+  "date": "2028-01-22",
+  "link": "ZODIAC",
+  "compounds": "ARCHER · FISH · GOAT · RAM",
+  "note": "ARCHER, FISH, GOAT and RAM are all ZODIAC symbols",
+  "clues": [
+    {
+      "answer": "ARCHER",
+      "device": "Charade",
+      "parts": [
+        [
+          "A Catholic, the female ",
+          "ind"
+        ],
+        [
+          "who may have a quiver?",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'who may have a quiver'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FISH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fine, sort of, ",
+          "ind"
+        ],
+        [
+          "perhaps brill?",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'perhaps brill?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GOAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Get stuck into ",
+          "ind"
+        ],
+        [
+          "the butter!",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'the butter!'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RAM",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Stuff",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "farm animal",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: stuff, and farm animal."
+    }
+  ],
+  "linkType": "category"
+}

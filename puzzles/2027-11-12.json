@@ -1,0 +1,90 @@
+{
+  "number": 500,
+  "date": "2027-11-12",
+  "link": "TOLERATE",
+  "compounds": "BEAR · STAND · STOMACH · SWALLOW",
+  "note": "BEAR, STAND, STOMACH and SWALLOW are all TOLERATES",
+  "clues": [
+    {
+      "answer": "BEAR",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Put up with",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "huge beast",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: put up with, and huge beast."
+    },
+    {
+      "answer": "STAND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Good man meets with ",
+          "ind"
+        ],
+        [
+          "resistance",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'resistance'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STOMACH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bear",
+          "def"
+        ],
+        [
+          " cat in bag 4’s opening",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bear'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SWALLOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Believe",
+          "def"
+        ],
+        [
+          " what could be a sign of summer coming?",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Believe'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 14,
+  "date": "2026-07-14",
+  "link": "BLUE",
+  "compounds": "BABY · MIDNIGHT · POWDER · ROYAL",
+  "note": "BABY, MIDNIGHT, POWDER and ROYAL are all shades of BLUE",
+  "clues": [
+    {
+      "answer": "BABY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Very young child",
+          "def"
+        ],
+        [
+          " born in creek",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Very young child'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MIDNIGHT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Headliners in Miles Davis evening covering start of iconic ",
+          "ind"
+        ],
+        [
+          "A Kind of Blue?",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'A Kind of Blue'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POWDER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Authority to keep daughter’s ",
+          "ind"
+        ],
+        [
+          "cosmetic",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'cosmetic'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ROYAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Member of ruling family",
+          "def"
+        ],
+        [
+          " put up by Republican circle",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Member of ruling family'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

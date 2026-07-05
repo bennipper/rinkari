@@ -1,0 +1,86 @@
+{
+  "number": 359,
+  "date": "2027-06-24",
+  "link": "WANE",
+  "compounds": "DWINDLE · FADE · PETER · TAPER",
+  "note": "DWINDLE, FADE, PETER and TAPER are all WANES",
+  "clues": [
+    {
+      "answer": "DWINDLE",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Decrease",
+          "def"
+        ],
+        [
+          " in expected wind level",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Decrease'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "FADE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fashion house's finale, ",
+          "ind"
+        ],
+        [
+          "dull",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'dull'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PETER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Queen follows favourite ",
+          "ind"
+        ],
+        [
+          "saint",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'saint'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TAPER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Wax cylinder",
+          "def"
+        ],
+        [
+          " recorder",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Wax cylinder'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

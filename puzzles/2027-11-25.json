@@ -1,0 +1,86 @@
+{
+  "number": 513,
+  "date": "2027-11-25",
+  "link": "PROTAGONIST",
+  "compounds": "HERO · LEAD · PRINCIPAL · STAR",
+  "note": "HERO, LEAD, PRINCIPAL and STAR are all PROTAGONISTS",
+  "clues": [
+    {
+      "answer": "HERO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Champion",
+          "def"
+        ],
+        [
+          " cutting down murderous king",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Champion'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LEAD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Perhaps metal from church roof ",
+          "ind"
+        ],
+        [
+          "in the van",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'in the van'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PRINCIPAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cardinal",
+          "def"
+        ],
+        [
+          " and Canon speaking",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cardinal'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Briefly look for ",
+          "ind"
+        ],
+        [
+          "the Sun, say",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'the Sun, say'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

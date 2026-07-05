@@ -1,0 +1,90 @@
+{
+  "number": 444,
+  "date": "2027-09-17",
+  "link": "ORDINARY",
+  "compounds": "NORMAL · PLAIN · STANDARD · VANILLA",
+  "note": "NORMAL, PLAIN, STANDARD and VANILLA are all ORDINARIES",
+  "clues": [
+    {
+      "answer": "NORMAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Customary",
+          "def"
+        ],
+        [
+          " to see no Royal Marine with a student",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Customary'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PLAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sound of aircraft that’s ",
+          "ind"
+        ],
+        [
+          "quite visible",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'quite visible'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STANDARD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Stock",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "colours",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: stock, and colours."
+    },
+    {
+      "answer": "VANILLA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Article in large house ",
+          "ind"
+        ],
+        [
+          "that adds taste",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'that adds taste'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,90 @@
+{
+  "number": 298,
+  "date": "2027-04-24",
+  "link": "COMPLAIN",
+  "compounds": "BELLYACHE · CARP · CRAB · GRUMBLE",
+  "note": "BELLYACHE, CARP, CRAB and GRUMBLE are all COMPLAINS",
+  "clues": [
+    {
+      "answer": "BELLYACHE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Beef",
+          "def"
+        ],
+        [
+          " and ",
+          ""
+        ],
+        [
+          "possible result of gorging on it",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: beef, and possible result of gorging on it."
+    },
+    {
+      "answer": "CARP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Complain pettily",
+          "def"
+        ],
+        [
+          ", vehicle accommodation being out of ark",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Complain pettily'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CRAB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Seafood",
+          "def"
+        ],
+        [
+          ", cold, local sent back",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Seafood'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GRUMBLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dog's last to find out about ",
+          "ind"
+        ],
+        [
+          "bitch",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'bitch'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 460,
+  "date": "2027-10-03",
+  "link": "FINISHED",
+  "compounds": "COMPLETE · DONE · OVER · THROUGH",
+  "note": "COMPLETE, DONE, OVER and THROUGH are all FINISHEDS",
+  "clues": [
+    {
+      "answer": "COMPLETE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Struggle across line ",
+          "ind"
+        ],
+        [
+          "to finish",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'to finish'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DONE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Agreed",
+          "def"
+        ],
+        [
+          " to put on Shakespeare finally",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Agreed'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "OVER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Heading away from Channel port ",
+          "ind"
+        ],
+        [
+          "to the other side",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'to the other side'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "THROUGH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dropping ecstasy, bad place to be after driving ",
+          "ind"
+        ],
+        [
+          "by",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'by'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

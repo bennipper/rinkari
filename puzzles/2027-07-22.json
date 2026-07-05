@@ -1,0 +1,86 @@
+{
+  "number": 387,
+  "date": "2027-07-22",
+  "link": "GLIMPSE",
+  "compounds": "GANDER · GLANCE · LOOK · PEEP",
+  "note": "GANDER, GLANCE, LOOK and PEEP are all GLIMPSES",
+  "clues": [
+    {
+      "answer": "GANDER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Butcher's",
+          "def"
+        ],
+        [
+          " chestnut horse should be returned",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Butcher's'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GLANCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Good old weapon getting a ",
+          "ind"
+        ],
+        [
+          "quick look",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'quick look'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LOOK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Take a dekko",
+          "def"
+        ],
+        [
+          " — and see all right",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Take a dekko'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PEEP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Look slyly",
+          "def"
+        ],
+        [
+          " up and down",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Look slyly'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 288,
+  "date": "2027-04-14",
+  "link": "LINEUP",
+  "compounds": "BILL · PROGRAM · SCHEDULE · SLATE",
+  "note": "BILL, PROGRAM, SCHEDULE and SLATE are all LINEUPS",
+  "clues": [
+    {
+      "answer": "BILL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bachelor unwell, finding ",
+          "ind"
+        ],
+        [
+          "invoice",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'invoice'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PROGRAM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Set of instructions",
+          "def"
+        ],
+        [
+          " for scientific unit",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Set of instructions'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCHEDULE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Switch witless, regressive escape ",
+          "ind"
+        ],
+        [
+          "plan",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'plan'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SLATE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Rubbish",
+          "def"
+        ],
+        [
+          " head of state and others from the Right",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Rubbish'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

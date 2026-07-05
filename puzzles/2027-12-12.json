@@ -1,0 +1,86 @@
+{
+  "number": 530,
+  "date": "2027-12-12",
+  "link": "FIXED",
+  "compounds": "FAST · FIRM · SECURE · TIGHT",
+  "note": "FAST, FIRM, SECURE and TIGHT are all FIXEDS",
+  "clues": [
+    {
+      "answer": "FAST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Do this if latest of binges puts on weight",
+          "def"
+        ],
+        [
+          "?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Do this if latest of binges puts on weight'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FIRM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Strict",
+          "def"
+        ],
+        [
+          ", if retiring, resident magistrate",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Strict'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SECURE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Certain to keep city ",
+          "ind"
+        ],
+        [
+          "safe",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'safe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TIGHT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Trim",
+          "def"
+        ],
+        [
+          " short leggings",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Trim'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

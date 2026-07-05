@@ -1,0 +1,86 @@
+{
+  "number": 203,
+  "date": "2027-01-19",
+  "link": "INTERROGATE",
+  "compounds": "EXAMINE · GRILL · PROBE · QUESTION",
+  "note": "EXAMINE, GRILL, PROBE and QUESTION are all INTERROGATES",
+  "clues": [
+    {
+      "answer": "EXAMINE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Test",
+          "def"
+        ],
+        [
+          " area in former excavation site",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Test'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GRILL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Old King taking on difficult ",
+          "ind"
+        ],
+        [
+          "question",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'question'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PROBE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Examine",
+          "def"
+        ],
+        [
+          " front of pretty gown",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Examine'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "QUESTION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Item for discussion",
+          "def"
+        ],
+        [
+          " is not quite lacking it, somehow",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Item for discussion'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

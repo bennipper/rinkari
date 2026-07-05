@@ -1,0 +1,86 @@
+{
+  "number": 561,
+  "date": "2028-01-12",
+  "link": "MAGAZINES",
+  "compounds": "FORTUNE · PEOPLE · SPIN · TIME",
+  "note": "FORTUNE, PEOPLE, SPIN and TIME are all MAGAZINES",
+  "clues": [
+    {
+      "answer": "FORTUNE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Packet",
+          "def"
+        ],
+        [
+          " designed to hold air",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Packet'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PEOPLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "US writer in recording backing European ",
+          "ind"
+        ],
+        [
+          "nation",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'nation'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Wheel",
+          "def"
+        ],
+        [
+          " to fix on Sierra",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Wheel'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TIME",
+      "device": "Charade",
+      "parts": [
+        [
+          "Period",
+          "def"
+        ],
+        [
+          " when discharge comes up",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Period'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

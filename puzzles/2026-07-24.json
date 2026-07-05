@@ -1,0 +1,90 @@
+{
+  "number": 24,
+  "date": "2026-07-24",
+  "link": "WINGS",
+  "compounds": "AIRPLANE · ANGEL · BIRD · PEGASUS",
+  "note": "AIRPLANE, ANGEL, BIRD and PEGASUS are all THINGS WITH WINGS",
+  "clues": [
+    {
+      "answer": "AIRPLANE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Film",
+          "def"
+        ],
+        [
+          " character on top of tree",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Film'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ANGEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Kind woman",
+          "def"
+        ],
+        [
+          " in a Northern set",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Kind woman'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BIRD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Turkey, for example",
+          "def"
+        ],
+        [
+          ", that’s ",
+          ""
+        ],
+        [
+          "served in can",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: turkey, for example, and served in can."
+    },
+    {
+      "answer": "PEGASUS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Matter about wise man looking up ",
+          "ind"
+        ],
+        [
+          "constellation",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'constellation'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

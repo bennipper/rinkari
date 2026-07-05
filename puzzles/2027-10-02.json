@@ -1,0 +1,90 @@
+{
+  "number": 459,
+  "date": "2027-10-02",
+  "link": "PREDICT",
+  "compounds": "CALL · DIVINE · FORECAST · READ",
+  "note": "CALL, DIVINE, FORECAST and READ are all PREDICTS",
+  "clues": [
+    {
+      "answer": "CALL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Drop in",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "demand",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: drop in, and demand."
+    },
+    {
+      "answer": "DIVINE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Theologian",
+          "def"
+        ],
+        [
+          " at home visiting disreputable club",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Theologian'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FORECAST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Prediction",
+          "def"
+        ],
+        [
+          " supporting English players",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Prediction'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "READ",
+      "device": "Charade",
+      "parts": [
+        [
+          "Register",
+          "def"
+        ],
+        [
+          " money being in short supply",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Register'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

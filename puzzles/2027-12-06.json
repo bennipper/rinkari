@@ -1,0 +1,90 @@
+{
+  "number": 524,
+  "date": "2027-12-06",
+  "link": "SONOROUS",
+  "compounds": "CLEAR · DEEP · FULL · RICH",
+  "note": "CLEAR, DEEP, FULL and RICH are all SONOROUS",
+  "clues": [
+    {
+      "answer": "CLEAR",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Some letters from article are ",
+          "ind"
+        ],
+        [
+          "easily understood",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'easily understood'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "DEEP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bottomless",
+          "def"
+        ],
+        [
+          " river associated with Parana's source",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bottomless'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FULL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Comprehensive",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "with no spare places?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: comprehensive, and with no spare places."
+    },
+    {
+      "answer": "RICH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Lavish",
+          "def"
+        ],
+        [
+          " religious instruction supplied by church",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Lavish'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,94 @@
+{
+  "number": 451,
+  "date": "2027-09-24",
+  "link": "INDICATION",
+  "compounds": "CUE · NOD · PROMPT · SIGNAL",
+  "note": "CUE, NOD, PROMPT and SIGNAL are all INDICATIONS",
+  "clues": [
+    {
+      "answer": "CUE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Prompt for actor",
+          "def"
+        ],
+        [
+          " - line heard",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Prompt for actor'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "NOD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Encouraging sign",
+          "def"
+        ],
+        [
+          " from ",
+          ""
+        ],
+        [
+          "sleepy land?",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: encouraging sign, and sleepy land."
+    },
+    {
+      "answer": "PROMPT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Swift",
+          "def"
+        ],
+        [
+          " pint after BBC concert",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Swift'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SIGNAL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Noteworthy",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "contributor to rail safety",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: noteworthy, and contributor to rail safety."
+    }
+  ],
+  "linkType": "category"
+}

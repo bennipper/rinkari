@@ -1,0 +1,94 @@
+{
+  "number": 409,
+  "date": "2027-08-13",
+  "link": "PERSIST",
+  "compounds": "HOLD · LAST · STAND · STAY",
+  "note": "HOLD, LAST, STAND and STAY are all PERSISTS",
+  "clues": [
+    {
+      "answer": "HOLD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Believe",
+          "def"
+        ],
+        [
+          " house comes with vacant grounds",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Believe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LAST",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Survive",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "at the end",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: survive, and at the end."
+    },
+    {
+      "answer": "STAND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Good man meets with ",
+          "ind"
+        ],
+        [
+          "resistance",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'resistance'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STAY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Support",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "visit",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: support, and visit."
+    }
+  ],
+  "linkType": "category"
+}

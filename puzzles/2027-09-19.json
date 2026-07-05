@@ -1,0 +1,86 @@
+{
+  "number": 446,
+  "date": "2027-09-19",
+  "link": "CAPTIVATE",
+  "compounds": "CHARM · ENTRANCE · RIVET · THRILL",
+  "note": "CHARM, ENTRANCE, RIVET and THRILL are all CAPTIVATES",
+  "clues": [
+    {
+      "answer": "CHARM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Appeal",
+          "def"
+        ],
+        [
+          " made by church member",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Appeal'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ENTRANCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Run through new canteen ",
+          "ind"
+        ],
+        [
+          "doorway",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'doorway'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RIVET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Entrance",
+          "def"
+        ],
+        [
+          " has pollarded hedge",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Entrance'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "THRILL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Excitement",
+          "def"
+        ],
+        [
+          " until going round sides of helter-skelter",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Excitement'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

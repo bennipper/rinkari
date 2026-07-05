@@ -1,0 +1,86 @@
+{
+  "number": 15,
+  "date": "2026-07-15",
+  "link": "LEG",
+  "compounds": "ANKLE · KNEE · SHIN · THIGH",
+  "note": "ANKLE, KNEE, SHIN and THIGH are all parts of the LEG",
+  "clues": [
+    {
+      "answer": "ANKLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "A new venison supplier served up ",
+          "ind"
+        ],
+        [
+          "joint",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'joint'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "KNEE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Competitive, the last to move up, ",
+          "ind"
+        ],
+        [
+          "one of two that could be capped",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'one of two that could be capped'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Some beef",
+          "def"
+        ],
+        [
+          "? Wrong to eat horse",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Some beef'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "THIGH",
+      "device": "Charade",
+      "parts": [
+        [
+          "What's visible if bottom of skirt’s lifted",
+          "def"
+        ],
+        [
+          "?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'What's visible if bottom of skirt’s lifted'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

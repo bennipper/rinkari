@@ -1,0 +1,86 @@
+{
+  "number": 528,
+  "date": "2027-12-10",
+  "link": "PLUNGE",
+  "compounds": "CRASH · CRATER · DROP · TANK",
+  "note": "CRASH, CRATER, DROP and TANK are all PLUNGES",
+  "clues": [
+    {
+      "answer": "CRASH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Charlie spots ",
+          "ind"
+        ],
+        [
+          "accident",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'accident'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CRATER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Site of impact",
+          "def"
+        ],
+        [
+          " of old plane beside river",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Site of impact'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DROP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Collapse",
+          "def"
+        ],
+        [
+          " in road held up work",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Collapse'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TANK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bomb",
+          "def"
+        ],
+        [
+          " was humming — second to be dropped",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bomb'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,90 @@
+{
+  "number": 56,
+  "date": "2026-08-25",
+  "link": "COVERINGS",
+  "compounds": "CAP · COVER · LID · TOP",
+  "note": "CAP, COVER, LID and TOP are all COVERINGS",
+  "clues": [
+    {
+      "answer": "CAP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Gangster loses one ",
+          "ind"
+        ],
+        [
+          "item of clothing",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'item of clothing'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "COVER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Clubs finished ",
+          "ind"
+        ],
+        [
+          "top",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'top'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LID",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Upper crust",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "headgear?",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: upper crust, and headgear?."
+    },
+    {
+      "answer": "TOP",
+      "device": "Charade",
+      "parts": [
+        [
+          "First",
+          "def"
+        ],
+        [
+          " vessel to be capsized",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'First'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

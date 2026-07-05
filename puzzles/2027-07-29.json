@@ -1,0 +1,90 @@
+{
+  "number": 394,
+  "date": "2027-07-29",
+  "link": "GLIDE",
+  "compounds": "COAST · CRUISE · DRIFT · FLOAT",
+  "note": "COAST, CRUISE, DRIFT and FLOAT are all GLIDES",
+  "clues": [
+    {
+      "answer": "COAST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Freewheel",
+          "def"
+        ],
+        [
+          " when in bed",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Freewheel'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CRUISE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Travel",
+          "def"
+        ],
+        [
+          " game is taking place in Anglican church",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Travel'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DRIFT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Meaning",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "to float along",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: meaning, and to float along."
+    },
+    {
+      "answer": "FLOAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Rich fences look for ",
+          "ind"
+        ],
+        [
+          "cash in hand",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'cash in hand'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

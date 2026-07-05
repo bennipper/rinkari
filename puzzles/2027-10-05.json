@@ -1,0 +1,90 @@
+{
+  "number": 462,
+  "date": "2027-10-05",
+  "link": "ENTREATY",
+  "compounds": "APPEAL · BID · CALL · PETITION",
+  "note": "APPEAL, BID, CALL and PETITION are all ENTREATIES",
+  "clues": [
+    {
+      "answer": "APPEAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Attraction",
+          "def"
+        ],
+        [
+          " priests originally found in a set of bells",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Attraction'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BID",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tender",
+          "def"
+        ],
+        [
+          " chicken for one, not rook",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Tender'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CALL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Drop in",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "demand",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: drop in, and demand."
+    },
+    {
+      "answer": "PETITION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Formal request",
+          "def"
+        ],
+        [
+          " from favourite encountering opposition — not half!",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Formal request'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

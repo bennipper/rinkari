@@ -1,0 +1,12 @@
+{
+  "name": "Rinkari",
+  "short_name": "Rinkari",
+  "description": "Five cryptic clues. One word links every answer. A daily puzzle.",
+  "start_url": "./rinkari.html",
+  "display": "standalone",
+  "background_color": "#FDFDFB",
+  "theme_color": "#FF0000",
+  "icons": [
+    { "src": "rinkari_logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

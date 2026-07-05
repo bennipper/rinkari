@@ -1,0 +1,86 @@
+{
+  "number": 150,
+  "date": "2026-11-27",
+  "link": "PRIMARY",
+  "compounds": "CHIEF · FIRST · MAIN · PRINCIPAL",
+  "note": "CHIEF, FIRST, MAIN and PRINCIPAL are all PRIMARIES",
+  "clues": [
+    {
+      "answer": "CHIEF",
+      "device": "Charade",
+      "parts": [
+        [
+          "Head",
+          "def"
+        ],
+        [
+          " cook touring India",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Head'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FIRST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Initial",
+          "def"
+        ],
+        [
+          " \"R\" in one's own writing",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Initial'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Answer in half minute: ",
+          "ind"
+        ],
+        [
+          "pipe",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'pipe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PRINCIPAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cardinal",
+          "def"
+        ],
+        [
+          " and Canon speaking",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cardinal'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

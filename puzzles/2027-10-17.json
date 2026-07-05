@@ -1,0 +1,94 @@
+{
+  "number": 474,
+  "date": "2027-10-17",
+  "link": "SITUATED",
+  "compounds": "LEFT · PLACED · PUT · SET",
+  "note": "LEFT, PLACED, PUT and SET are all SITUATEDS",
+  "clues": [
+    {
+      "answer": "LEFT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Socially progressive",
+          "def"
+        ],
+        [
+          " article in French paper",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Socially progressive'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PLACED",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Put",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "third at worst",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: put, and third at worst."
+    },
+    {
+      "answer": "PUT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Place",
+          "def"
+        ],
+        [
+          " ram recalled?",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Place'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SET",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Ready",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "some tennis",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: ready, and some tennis."
+    }
+  ],
+  "linkType": "category"
+}

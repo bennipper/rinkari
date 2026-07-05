@@ -1,0 +1,90 @@
+{
+  "number": 21,
+  "date": "2026-07-21",
+  "link": "COUNTRIES",
+  "compounds": "CHAD · GEORGIA · JORDAN · TOGO",
+  "note": "CHAD, GEORGIA, JORDAN and TOGO are all COUNTRIES",
+  "clues": [
+    {
+      "answer": "CHAD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Blackguard besieging hot ",
+          "ind"
+        ],
+        [
+          "country",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'country'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GEORGIA",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Country",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "girl on my mind in old song",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: country, and girl on my mind in old song."
+    },
+    {
+      "answer": "JORDAN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Golden days during month in the ",
+          "ind"
+        ],
+        [
+          "country",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'country'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TOGO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Nation",
+          "def"
+        ],
+        [
+          " marked for deletion?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Nation'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

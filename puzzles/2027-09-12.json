@@ -1,0 +1,86 @@
+{
+  "number": 439,
+  "date": "2027-09-12",
+  "link": "ARTHROPODS",
+  "compounds": "APHID · BEETLE · MITE · TICK",
+  "note": "APHID, BEETLE, MITE and TICK are all ARTHROPODS",
+  "clues": [
+    {
+      "answer": "APHID",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pest",
+          "def"
+        ],
+        [
+          " upset Parliament, probing charity",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Pest'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BEETLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Scowling",
+          "def"
+        ],
+        [
+          " schoolboy",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Scowling'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MITE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Modest offering",
+          "def"
+        ],
+        [
+          " from overseas university: English",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Modest offering'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TICK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mark",
+          "def"
+        ],
+        [
+          " brought by corporal punishment? Son avoids that",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Mark'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

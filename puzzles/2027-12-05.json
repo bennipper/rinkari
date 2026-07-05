@@ -1,0 +1,94 @@
+{
+  "number": 523,
+  "date": "2027-12-05",
+  "link": "APARTMENT",
+  "compounds": "DIGS · FLAT · PAD · QUARTERS",
+  "note": "DIGS, FLAT, PAD and QUARTERS are all APARTMENTS",
+  "clues": [
+    {
+      "answer": "DIGS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Appreciates",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "what landlady provides?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: appreciates, and what landlady provides."
+    },
+    {
+      "answer": "FLAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Unqualified",
+          "def"
+        ],
+        [
+          " character on the staff",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Unqualified'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PAD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Father takes daughter ",
+          "ind"
+        ],
+        [
+          "home",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'home'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "QUARTERS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Equally divides",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "accommodation",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: equally divides, and accommodation."
+    }
+  ],
+  "linkType": "category"
+}

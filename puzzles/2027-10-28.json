@@ -1,0 +1,94 @@
+{
+  "number": 485,
+  "date": "2027-10-28",
+  "link": "WINNINGS",
+  "compounds": "KITTY · POT · PRIZE · PURSE",
+  "note": "KITTY, POT, PRIZE and PURSE are all WINNINGS",
+  "clues": [
+    {
+      "answer": "KITTY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Mog",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "kept rhino?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: mog, and kept rhino?."
+    },
+    {
+      "answer": "POT",
+      "device": "Charade",
+      "parts": [
+        [
+          "First to return this ",
+          "ind"
+        ],
+        [
+          "container",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'container'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PRIZE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Love",
+          "def"
+        ],
+        [
+          " the sound of noses",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Love'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PURSE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Contract",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "sporting prize",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: contract, and sporting prize."
+    }
+  ],
+  "linkType": "category"
+}

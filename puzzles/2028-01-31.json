@@ -1,0 +1,98 @@
+{
+  "number": 580,
+  "date": "2028-01-31",
+  "link": "FISH",
+  "compounds": "BAIT · HOOK · NET · ROD",
+  "note": "BAIT, HOOK, NET and ROD are all types of FISH",
+  "clues": [
+    {
+      "answer": "BAIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Used teeth to swallow a ",
+          "ind"
+        ],
+        [
+          "tempting item",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'tempting item'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HOOK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Trap",
+          "def"
+        ],
+        [
+          " / ",
+          ""
+        ],
+        [
+          "pirate chief",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: trap, and pirate chief."
+    },
+    {
+      "answer": "NET",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Clear",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "goal",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: clear, and goal."
+    },
+    {
+      "answer": "ROD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Imperial measure",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "that most anglers use",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: imperial measure, and that most anglers use."
+    }
+  ],
+  "linkType": "category"
+}

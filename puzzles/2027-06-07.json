@@ -1,0 +1,90 @@
+{
+  "number": 342,
+  "date": "2027-06-07",
+  "link": "VOCATION",
+  "compounds": "CRAFT · LINE · TRADE · WORK",
+  "note": "CRAFT, LINE, TRADE and WORK are all VOCATIONS",
+  "clues": [
+    {
+      "answer": "CRAFT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Ship, perhaps",
+          "def"
+        ],
+        [
+          ": empty chair to the back of it?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Ship, perhaps'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LINE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Business",
+          "def"
+        ],
+        [
+          " just ",
+          ""
+        ],
+        [
+          "one an actor must learn",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: business, and one an actor must learn."
+    },
+    {
+      "answer": "TRADE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Traffic",
+          "def"
+        ],
+        [
+          " needs to speed up heading for Edinburgh",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Traffic'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WORK",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Be employed",
+          "def"
+        ],
+        [
+          " in Hounslow or Kennington",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Be employed'; the answer is concealed in the surrounding wordplay."
+    }
+  ],
+  "linkType": "category"
+}

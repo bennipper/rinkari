@@ -1,0 +1,90 @@
+{
+  "number": 586,
+  "date": "2028-02-06",
+  "link": "CONDUIT",
+  "compounds": "DUCT · LINE · MAIN · PIPE",
+  "note": "DUCT, LINE, MAIN and PIPE are all CONDUITS",
+  "clues": [
+    {
+      "answer": "DUCT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pipe",
+          "def"
+        ],
+        [
+          " suddenly lowered for sounding",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Pipe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LINE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Business",
+          "def"
+        ],
+        [
+          " just ",
+          ""
+        ],
+        [
+          "one an actor must learn",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: business, and one an actor must learn."
+    },
+    {
+      "answer": "MAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Answer in half minute: ",
+          "ind"
+        ],
+        [
+          "pipe",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'pipe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PIPE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Piano that is swamping another piano and ",
+          "ind"
+        ],
+        [
+          "organ part",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'organ part'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

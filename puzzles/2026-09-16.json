@@ -1,0 +1,94 @@
+{
+  "number": 78,
+  "date": "2026-09-16",
+  "link": "BOVIDS",
+  "compounds": "BUFFALO · COW · GOAT · SHEEP",
+  "note": "BUFFALO, COW, GOAT and SHEEP are all BOVIDS",
+  "clues": [
+    {
+      "answer": "BUFFALO",
+      "device": "Double definition",
+      "parts": [
+        [
+          "New York city",
+          "def"
+        ],
+        [
+          "'s ",
+          ""
+        ],
+        [
+          "cheese supplier",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: new york city, and cheese supplier."
+    },
+    {
+      "answer": "COW",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Subdue",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "female elephant",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: subdue, and female elephant."
+    },
+    {
+      "answer": "GOAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Get stuck into ",
+          "ind"
+        ],
+        [
+          "the butter!",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'the butter!'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHEEP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Recalled games with the woman leading ",
+          "ind"
+        ],
+        [
+          "mindless followers",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'mindless followers'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

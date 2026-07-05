@@ -1,0 +1,90 @@
+{
+  "number": 437,
+  "date": "2027-09-10",
+  "link": "SPORTS",
+  "compounds": "CRICKET · GOLF · POLO · SQUASH",
+  "note": "CRICKET, GOLF, POLO and SQUASH are all SPORTS",
+  "clues": [
+    {
+      "answer": "CRICKET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Insect",
+          "def"
+        ],
+        [
+          " from another world found by DNA expert",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Insect'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GOLF",
+      "device": "Charade",
+      "parts": [
+        [
+          "Whip up ",
+          "ind"
+        ],
+        [
+          "gee",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'gee'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POLO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Game",
+          "def"
+        ],
+        [
+          " found by river — deep but not wide",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Game'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SQUASH",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Scotch",
+          "def"
+        ],
+        [
+          " or ",
+          ""
+        ],
+        [
+          "soft drink?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: scotch, and soft drink."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,90 @@
+{
+  "number": 584,
+  "date": "2028-02-04",
+  "link": "PRETEXT",
+  "compounds": "ARGUMENT · BASIS · CAUSE · GROUNDS",
+  "note": "ARGUMENT, BASIS, CAUSE and GROUNDS are all PRETEXTS",
+  "clues": [
+    {
+      "answer": "ARGUMENT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Row",
+          "def"
+        ],
+        [
+          " of pawns kept by instinct beside a rook",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Row'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BASIS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Current breaking up fish ",
+          "ind"
+        ],
+        [
+          "grounds",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'grounds'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CAUSE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Reason why",
+          "def"
+        ],
+        [
+          " Australian is in Church?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Reason why'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GROUNDS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Sediment",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "area around house",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: sediment, and area around house."
+    }
+  ],
+  "linkType": "category"
+}

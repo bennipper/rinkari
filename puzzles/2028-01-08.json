@@ -1,0 +1,98 @@
+{
+  "number": 557,
+  "date": "2028-01-08",
+  "link": "TARGET",
+  "compounds": "GOAL · MARK · OBJECT · POINT",
+  "note": "GOAL, MARK, OBJECT and POINT are all TARGETS",
+  "clues": [
+    {
+      "answer": "GOAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Girl secures ring in ",
+          "ind"
+        ],
+        [
+          "the end",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'the end'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MARK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Spot",
+          "def"
+        ],
+        [
+          " f",
+          ""
+        ],
+        [
+          "ormer European currency",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: spot, and ormer european currency."
+    },
+    {
+      "answer": "OBJECT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "End",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "part of sentence",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: end, and part of sentence."
+    },
+    {
+      "answer": "POINT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Direct",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "issue",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: direct, and issue."
+    }
+  ],
+  "linkType": "category"
+}

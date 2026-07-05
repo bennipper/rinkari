@@ -1,0 +1,90 @@
+{
+  "number": 551,
+  "date": "2028-01-02",
+  "link": "FREELOADER",
+  "compounds": "LEECH · MOOCH · PARASITE · SPONGE",
+  "note": "LEECH, MOOCH, PARASITE and SPONGE are all FREELOADERS",
+  "clues": [
+    {
+      "answer": "LEECH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Shelter chief ",
+          "ind"
+        ],
+        [
+          "doctor of old",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'doctor of old'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MOOCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Skulk around",
+          "def"
+        ],
+        [
+          ", not the first to kiss",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Skulk around'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PARASITE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Hanger-on",
+          "def"
+        ],
+        [
+          " in airborne soldiers’ base?",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Hanger-on'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPONGE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Cleaner",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "leech",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: cleaner, and leech."
+    }
+  ],
+  "linkType": "category"
+}

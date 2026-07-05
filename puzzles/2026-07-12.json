@@ -1,0 +1,90 @@
+{
+  "number": 12,
+  "date": "2026-07-12",
+  "link": "CONDIMENTS",
+  "compounds": "KETCHUP · MAYO · RELISH · TARTAR",
+  "note": "KETCHUP, MAYO, RELISH and TARTAR are all CONDIMENTS",
+  "clues": [
+    {
+      "answer": "KETCHUP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sauce",
+          "def"
+        ],
+        [
+          " boat lifted",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Sauce'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MAYO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Elected official finally dismissed for ",
+          "ind"
+        ],
+        [
+          "something saucy",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'something saucy'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RELISH",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Really enjoy",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "savoury stuff",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: really enjoy, and savoury stuff."
+    },
+    {
+      "answer": "TARTAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Seaman repeatedly seen as ",
+          "ind"
+        ],
+        [
+          "fearsome person",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'fearsome person'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

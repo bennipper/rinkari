@@ -1,0 +1,86 @@
+{
+  "number": 441,
+  "date": "2027-09-14",
+  "link": "TEASE",
+  "compounds": "BAIT · NEEDLE · RAG · RIB",
+  "note": "BAIT, NEEDLE, RAG and RIB are all TEASES",
+  "clues": [
+    {
+      "answer": "BAIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Used teeth to swallow a ",
+          "ind"
+        ],
+        [
+          "tempting item",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'tempting item'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "NEEDLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Conflict",
+          "def"
+        ],
+        [
+          " not required to see off a group of Nazis",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Conflict'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RAG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Occasionally arrange ",
+          "ind"
+        ],
+        [
+          "fundraising event",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'fundraising event'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RIB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Guy",
+          "def"
+        ],
+        [
+          " is vulgar and funny, not half",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Guy'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

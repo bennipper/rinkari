@@ -1,0 +1,94 @@
+{
+  "number": 135,
+  "date": "2026-11-12",
+  "link": "AVOID",
+  "compounds": "DODGE · DUCK · ESCAPE · SKIRT",
+  "note": "DODGE, DUCK, ESCAPE and SKIRT are all AVOIDS",
+  "clues": [
+    {
+      "answer": "DODGE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Get out of",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "a car",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: get out of, and a car."
+    },
+    {
+      "answer": "DUCK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "A batting failure",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "a famous Donald",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: a batting failure, and a famous donald."
+    },
+    {
+      "answer": "ESCAPE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Get away from",
+          "def"
+        ],
+        [
+          " ultimately remote southern headland",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Get away from'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SKIRT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Go around",
+          "def"
+        ],
+        [
+          " clubs banned from turning tricks",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Go around'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 498,
+  "date": "2027-11-10",
+  "link": "LENIENT",
+  "compounds": "EASY · LAX · LOOSE · SLACK",
+  "note": "EASY, LAX, LOOSE and SLACK are all LENIENTS",
+  "clues": [
+    {
+      "answer": "EASY",
+      "device": "Charade",
+      "parts": [
+        [
+          "What makes bone bony? ",
+          "ind"
+        ],
+        [
+          "Simple",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Simple'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LAX",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cross after the French becoming ",
+          "ind"
+        ],
+        [
+          "sloppy",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'sloppy'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LOOSE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fail to admit love, being ",
+          "ind"
+        ],
+        [
+          "vague",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'vague'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SLACK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dismissal involves 50 becoming ",
+          "ind"
+        ],
+        [
+          "careless",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'careless'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

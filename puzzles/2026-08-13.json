@@ -1,0 +1,90 @@
+{
+  "number": 44,
+  "date": "2026-08-13",
+  "link": "NOSE",
+  "compounds": "BEAK · MUZZLE · SNOUT · TRUNK",
+  "note": "BEAK, MUZZLE, SNOUT and TRUNK are all NOSES",
+  "clues": [
+    {
+      "answer": "BEAK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Bill",
+          "def"
+        ],
+        [
+          "’s ",
+          ""
+        ],
+        [
+          "the judge",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: bill, and the judge."
+    },
+    {
+      "answer": "MUZZLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cross when entertaining character at the end repeated ",
+          "ind"
+        ],
+        [
+          "gag",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'gag'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SNOUT",
+      "device": "Charade",
+      "parts": [
+        [
+          "From outskirts of Swindon, inaccurate ",
+          "ind"
+        ],
+        [
+          "informer",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'informer'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TRUNK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Chest",
+          "def"
+        ],
+        [
+          " beginning to throb, jog back in last place",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Chest'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

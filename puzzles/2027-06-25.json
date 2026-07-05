@@ -1,0 +1,94 @@
+{
+  "number": 360,
+  "date": "2027-06-25",
+  "link": "EMBLEM",
+  "compounds": "LABEL · MARK · SEAL · STAMP",
+  "note": "LABEL, MARK, SEAL and STAMP are all EMBLEMS",
+  "clues": [
+    {
+      "answer": "LABEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tag",
+          "def"
+        ],
+        [
+          " left next on murderee",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Tag'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MARK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Spot",
+          "def"
+        ],
+        [
+          " f",
+          ""
+        ],
+        [
+          "ormer European currency",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: spot, and ormer european currency."
+    },
+    {
+      "answer": "SEAL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Close",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "relative of the walrus",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: close, and relative of the walrus."
+    },
+    {
+      "answer": "STAMP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Characteristic feature",
+          "def"
+        ],
+        [
+          " of Society cheers politician",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Characteristic feature'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

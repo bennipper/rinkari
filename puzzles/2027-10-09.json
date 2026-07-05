@@ -1,0 +1,94 @@
+{
+  "number": 466,
+  "date": "2027-10-09",
+  "link": "CRAM",
+  "compounds": "JAM · SHOEHORN · STUFF · WEDGE",
+  "note": "JAM, SHOEHORN, STUFF and WEDGE are all CRAMS",
+  "clues": [
+    {
+      "answer": "JAM",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Pickle",
+          "def"
+        ],
+        [
+          " — or ",
+          ""
+        ],
+        [
+          "something sweeter",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: pickle, and something sweeter."
+    },
+    {
+      "answer": "SHOEHORN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Squeeze",
+          "def"
+        ],
+        [
+          " garden into trimmed surroundings",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Squeeze'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STUFF",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Completely pack up",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "belongings",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: completely pack up, and belongings."
+    },
+    {
+      "answer": "WEDGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Club",
+          "def"
+        ],
+        [
+          " where wife is on the brink",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Club'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

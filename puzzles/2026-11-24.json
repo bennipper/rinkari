@@ -1,0 +1,90 @@
+{
+  "number": 147,
+  "date": "2026-11-24",
+  "link": "CURMUDGEON",
+  "compounds": "CRAB · CRANK · GROUCH · GRUMP",
+  "note": "CRAB, CRANK, GROUCH and GRUMP are all CURMUDGEONS",
+  "clues": [
+    {
+      "answer": "CRAB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Seafood",
+          "def"
+        ],
+        [
+          ", cold, local sent back",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Seafood'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CRANK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Start with handle",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "possible conspiracy theorist",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: start with handle, and possible conspiracy theorist."
+    },
+    {
+      "answer": "GROUCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Shell from gunner that hurts, making us ",
+          "ind"
+        ],
+        [
+          "moan",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'moan'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GRUMP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Beef",
+          "def"
+        ],
+        [
+          ", good cut",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Beef'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

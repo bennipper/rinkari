@@ -1,0 +1,94 @@
+{
+  "number": 231,
+  "date": "2027-02-16",
+  "link": "FORTITUDE",
+  "compounds": "GRIT · RESOLVE · SPIRIT · WILL",
+  "note": "GRIT, RESOLVE, SPIRIT and WILL are all FORTITUDES",
+  "clues": [
+    {
+      "answer": "GRIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Guzzler emptied wine ",
+          "ind"
+        ],
+        [
+          "bottle",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'bottle'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RESOLVE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Decide",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "to do the crossword again?",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: decide, and to do the crossword again."
+    },
+    {
+      "answer": "SPIRIT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Possibly rum",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "type like Ariel?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: possibly rum, and type like ariel."
+    },
+    {
+      "answer": "WILL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Eventually leave",
+          "def"
+        ],
+        [
+          " wife suffering",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Eventually leave'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

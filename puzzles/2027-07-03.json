@@ -1,0 +1,90 @@
+{
+  "number": 368,
+  "date": "2027-07-03",
+  "link": "BAD-SMELLING",
+  "compounds": "FOUL · RANK · RIPE · SOUR",
+  "note": "FOUL, RANK, RIPE and SOUR are all BAD-SMELLINGS",
+  "clues": [
+    {
+      "answer": "FOUL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mucky",
+          "def"
+        ],
+        [
+          " duck possibly picked up?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Mucky'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RANK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Offensive",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "superiors may pull it",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: offensive, and superiors may pull it."
+    },
+    {
+      "answer": "RIPE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Ready to eat",
+          "def"
+        ],
+        [
+          "? Tear back from office",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Ready to eat'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SOUR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tart",
+          "def"
+        ],
+        [
+          ", small, for us",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Tart'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

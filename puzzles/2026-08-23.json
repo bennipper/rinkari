@@ -1,0 +1,86 @@
+{
+  "number": 54,
+  "date": "2026-08-23",
+  "link": "HAIRSTYLES",
+  "compounds": "BOB · CROP · PIXIE · SHAG",
+  "note": "BOB, CROP, PIXIE and SHAG are all HAIRSTYLES",
+  "clues": [
+    {
+      "answer": "BOB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Curtsey",
+          "def"
+        ],
+        [
+          " for your uncle?",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Curtsey'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CROP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Short cut",
+          "def"
+        ],
+        [
+          " police officer's taken across river",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Short cut'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PIXIE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Selects note in audition as ",
+          "ind"
+        ],
+        [
+          "fairy",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'fairy'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHAG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Diver",
+          "def"
+        ],
+        [
+          " has drunk gallons",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Diver'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

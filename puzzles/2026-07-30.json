@@ -1,0 +1,86 @@
+{
+  "number": 30,
+  "date": "2026-07-30",
+  "link": "HONDAS",
+  "compounds": "ACCORD · CIVIC · PASSPORT · PILOT",
+  "note": "ACCORD, CIVIC, PASSPORT and PILOT are all HONDAS",
+  "clues": [
+    {
+      "answer": "ACCORD",
+      "device": "Charade",
+      "parts": [
+        [
+          "A line about Churchill's first ",
+          "ind"
+        ],
+        [
+          "agreement",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'agreement'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CIVIC",
+      "device": "Charade",
+      "parts": [
+        [
+          "I regularly avoid being taken in by county council ",
+          "ind"
+        ],
+        [
+          "regarding citizens",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'regarding citizens'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PASSPORT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Travel document",
+          "def"
+        ],
+        [
+          " graduate left",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Travel document'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PILOT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sanctimonious bunch producing ",
+          "ind"
+        ],
+        [
+          "TV try-out?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'TV try-out'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

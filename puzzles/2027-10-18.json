@@ -1,0 +1,86 @@
+{
+  "number": 475,
+  "date": "2027-10-18",
+  "link": "ANAGRAMS",
+  "compounds": "ARTS · RATS · STAR · TSAR",
+  "note": "ARTS, RATS, STAR and TSAR are all ANAGRAMS",
+  "clues": [
+    {
+      "answer": "ARTS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Faculty",
+          "def"
+        ],
+        [
+          " splits when Pence disappears",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Faculty'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RATS",
+      "device": "Charade",
+      "parts": [
+        [
+          "S-sailor upset to see ",
+          "ind"
+        ],
+        [
+          "these leaving ship",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'these leaving ship'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Briefly look for ",
+          "ind"
+        ],
+        [
+          "the Sun, say",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'the Sun, say'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TSAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Russian leader",
+          "def"
+        ],
+        [
+          " succeeded in turning informer",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Russian leader'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

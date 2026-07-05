@@ -1,0 +1,94 @@
+{
+  "number": 383,
+  "date": "2027-07-18",
+  "link": "SUPPLY",
+  "compounds": "MINE · RESERVE · STORE · WELL",
+  "note": "MINE, RESERVE, STORE and WELL are all SUPPLIES",
+  "clues": [
+    {
+      "answer": "MINE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Excavation",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "belonging to the writer",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: excavation, and belonging to the writer."
+    },
+    {
+      "answer": "RESERVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Once again hand out ",
+          "ind"
+        ],
+        [
+          "book",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'book'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STORE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Upset about time in ",
+          "ind"
+        ],
+        [
+          "shop",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'shop'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WELL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Thriving",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "source of water",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: thriving, and source of water."
+    }
+  ],
+  "linkType": "category"
+}

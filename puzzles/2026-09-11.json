@@ -1,0 +1,94 @@
+{
+  "number": 73,
+  "date": "2026-09-11",
+  "link": "TINY",
+  "compounds": "MINUTE · SLIGHT · SMALL · WEE",
+  "note": "MINUTE, SLIGHT, SMALL and WEE are all TINIES",
+  "clues": [
+    {
+      "answer": "MINUTE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Little",
+          "def"
+        ],
+        [
+          " / ",
+          ""
+        ],
+        [
+          "bit of time",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: little, and bit of time."
+    },
+    {
+      "answer": "SLIGHT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Trivial",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "affront",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: trivial, and affront."
+    },
+    {
+      "answer": "SMALL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Southern shopping area ",
+          "ind"
+        ],
+        [
+          "less than normal size",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'less than normal size'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WEE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Small",
+          "def"
+        ],
+        [
+          " chocolate perhaps unwrapped",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Small'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 427,
+  "date": "2027-08-31",
+  "link": "SEQUENCE",
+  "compounds": "RUN · SERIES · STREAK · STRING",
+  "note": "RUN, SERIES, STREAK and STRING are all SEQUENCES",
+  "clues": [
+    {
+      "answer": "RUN",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Prune without its skin makes you ",
+          "ind"
+        ],
+        [
+          "go fast!",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'go fast'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "SERIES",
+      "device": "Charade",
+      "parts": [
+        [
+          "Run",
+          "def"
+        ],
+        [
+          " two sons across lake",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Run'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STREAK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mark",
+          "def"
+        ],
+        [
+          " runs animal food stores",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Mark'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STRING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Nothing overlooked in keeping ",
+          "ind"
+        ],
+        [
+          "yarn",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'yarn'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

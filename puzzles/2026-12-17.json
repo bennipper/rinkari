@@ -1,0 +1,86 @@
+{
+  "number": 170,
+  "date": "2026-12-17",
+  "link": "BROADCAST",
+  "compounds": "AIR · RUN · SCREEN · SHOW",
+  "note": "AIR, RUN, SCREEN and SHOW are all BROADCASTS",
+  "clues": [
+    {
+      "answer": "AIR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Song",
+          "def"
+        ],
+        [
+          " from duo without piano",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Song'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RUN",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Prune without its skin makes you ",
+          "ind"
+        ],
+        [
+          "go fast!",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'go fast'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "SCREEN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Strip of plaster duke exchanged for new ",
+          "ind"
+        ],
+        [
+          "partition",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'partition'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Playwright that’s taken round for a ",
+          "ind"
+        ],
+        [
+          "staged production",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'staged production'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

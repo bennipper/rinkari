@@ -1,0 +1,98 @@
+{
+  "number": 250,
+  "date": "2027-03-07",
+  "link": "BIOPICS",
+  "compounds": "BLONDE · JOBS · MILK · VICE",
+  "note": "BLONDE, JOBS, MILK and VICE are all BIOPICS",
+  "clues": [
+    {
+      "answer": "BLONDE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sort of noble word ultimately ",
+          "ind"
+        ],
+        [
+          "preferred by gentlemen?",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'preferred by gentlemen?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "JOBS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Positions",
+          "def"
+        ],
+        [
+          " offered by ",
+          ""
+        ],
+        [
+          "big name at Apple",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: positions, and big name at apple."
+    },
+    {
+      "answer": "MILK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Exploit",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "dairy produce",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: exploit, and dairy produce."
+    },
+    {
+      "answer": "VICE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Wrong",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "description of second-in-command?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: wrong, and description of second-in-command."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,98 @@
+{
+  "number": 254,
+  "date": "2027-03-11",
+  "link": "ROTATE",
+  "compounds": "CRANK · REEL · TURN · WIND",
+  "note": "CRANK, REEL, TURN and WIND are all ROTATES",
+  "clues": [
+    {
+      "answer": "CRANK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Start with handle",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "possible conspiracy theorist",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: start with handle, and possible conspiracy theorist."
+    },
+    {
+      "answer": "REEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Perth perv returned to ",
+          "ind"
+        ],
+        [
+          "dance",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'dance'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TURN",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Change",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "one’s act?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: change, and one’s act?."
+    },
+    {
+      "answer": "WIND",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Behave like a twister",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "a gale",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: behave like a twister, and a gale."
+    }
+  ],
+  "linkType": "category"
+}

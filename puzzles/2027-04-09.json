@@ -1,0 +1,94 @@
+{
+  "number": 283,
+  "date": "2027-04-09",
+  "link": "TOLERATE",
+  "compounds": "BEAR · STAND · SWALLOW · TAKE",
+  "note": "BEAR, STAND, SWALLOW and TAKE are all TOLERATES",
+  "clues": [
+    {
+      "answer": "BEAR",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Put up with",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "huge beast",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: put up with, and huge beast."
+    },
+    {
+      "answer": "STAND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Good man meets with ",
+          "ind"
+        ],
+        [
+          "resistance",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'resistance'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SWALLOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Believe",
+          "def"
+        ],
+        [
+          " what could be a sign of summer coming?",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Believe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TAKE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Appropriate",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "opinion",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: appropriate, and opinion."
+    }
+  ],
+  "linkType": "category"
+}

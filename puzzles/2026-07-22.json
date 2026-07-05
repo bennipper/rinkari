@@ -1,0 +1,90 @@
+{
+  "number": 22,
+  "date": "2026-07-22",
+  "link": "ZODIAC",
+  "compounds": "FISH · GOAT · SCALES · TWINS",
+  "note": "FISH, GOAT, SCALES and TWINS are all ZODIAC symbols",
+  "clues": [
+    {
+      "answer": "FISH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fine, sort of, ",
+          "ind"
+        ],
+        [
+          "perhaps brill?",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'perhaps brill?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GOAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Get stuck into ",
+          "ind"
+        ],
+        [
+          "the butter!",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'the butter!'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCALES",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Bits of fish",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "bits of music",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: bits of fish, and bits of music."
+    },
+    {
+      "answer": "TWINS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Simultaneous arrivals",
+          "def"
+        ],
+        [
+          " come first in empty trains",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Simultaneous arrivals'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

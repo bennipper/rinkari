@@ -1,0 +1,86 @@
+{
+  "number": 190,
+  "date": "2027-01-06",
+  "link": "EXITED",
+  "compounds": "DEPARTED · LEFT · SPLIT · WENT",
+  "note": "DEPARTED, LEFT, SPLIT and WENT are all EXITEDS",
+  "clues": [
+    {
+      "answer": "DEPARTED",
+      "device": "Charade",
+      "parts": [
+        [
+          "Left",
+          "def"
+        ],
+        [
+          " theatrical role in middle of act",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Left'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LEFT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Socially progressive",
+          "def"
+        ],
+        [
+          " article in French paper",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Socially progressive'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPLIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Scottish League One team’s first in ",
+          "ind"
+        ],
+        [
+          "division",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'division'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WENT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Travelled",
+          "def"
+        ],
+        [
+          ", heading away from Welsh area",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Travelled'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

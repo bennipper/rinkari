@@ -1,0 +1,86 @@
+{
+  "number": 554,
+  "date": "2028-01-05",
+  "link": "GROUP",
+  "compounds": "GAGGLE · PACK · POD · PRIDE",
+  "note": "GAGGLE, PACK, POD and PRIDE are all ANIMAL GROUP names",
+  "clues": [
+    {
+      "answer": "GAGGLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bunch of flyers",
+          "def"
+        ],
+        [
+          ", doubly good in strong wind",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bunch of flyers'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PACK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Put lots of people on ",
+          "ind"
+        ],
+        [
+          "deck",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'deck'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POD",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Shell",
+          "def"
+        ],
+        [
+          " in Aleppo detonates",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Shell'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "PRIDE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Quiet journey gives ",
+          "ind"
+        ],
+        [
+          "deeply satisfying feeling",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'deeply satisfying feeling'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

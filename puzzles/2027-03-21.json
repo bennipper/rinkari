@@ -1,0 +1,86 @@
+{
+  "number": 264,
+  "date": "2027-03-21",
+  "link": "INCIDENT",
+  "compounds": "AFFAIR · EPISODE · EVENT · MATTER",
+  "note": "AFFAIR, EPISODE, EVENT and MATTER are all INCIDENTS",
+  "clues": [
+    {
+      "answer": "AFFAIR",
+      "device": "Charade",
+      "parts": [
+        [
+          "A fine considerably limits current ",
+          "ind"
+        ],
+        [
+          "liaison",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'liaison'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EPISODE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Holy ground covered in East European ",
+          "ind"
+        ],
+        [
+          "event",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'event'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EVENT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Big match",
+          "def"
+        ],
+        [
+          ", perhaps, with no winner determined by end of it",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Big match'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MATTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Queen looked down upon by dull ",
+          "ind"
+        ],
+        [
+          "subject",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'subject'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

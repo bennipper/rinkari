@@ -1,0 +1,86 @@
+{
+  "number": 45,
+  "date": "2026-08-14",
+  "link": "SIGN",
+  "compounds": "DETOUR · SLOW · STOP · YIELD",
+  "note": "DETOUR, SLOW, STOP and YIELD are all TRAFFIC signs",
+  "clues": [
+    {
+      "answer": "DETOUR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Edward backed our ",
+          "ind"
+        ],
+        [
+          "diversion",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'diversion'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SLOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Far from Fleet",
+          "def"
+        ],
+        [
+          " Street's original base",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Far from Fleet'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STOP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cease",
+          "def"
+        ],
+        [
+          " work below street",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cease'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "YIELD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Product",
+          "def"
+        ],
+        [
+          " that’s widely drunk without whisky",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Product'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

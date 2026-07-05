@@ -1,0 +1,86 @@
+{
+  "number": 83,
+  "date": "2026-09-21",
+  "link": "MUPPETS",
+  "compounds": "ANIMAL · BEAKER · GONZO · SCOOTER",
+  "note": "ANIMAL, BEAKER, GONZO and SCOOTER are all MUPPETS",
+  "clues": [
+    {
+      "answer": "ANIMAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Creature",
+          "def"
+        ],
+        [
+          " portrayed in plate that’s mounted?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Creature'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BEAKER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tradesman swallowing last of coffee in ",
+          "ind"
+        ],
+        [
+          "cup",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'cup'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GONZO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Almost left magical place, back in ",
+          "ind"
+        ],
+        [
+          "wild",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'wild'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCOOTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Child’s toy",
+          "def"
+        ],
+        [
+          " duck containing what looks like an egg",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Child’s toy'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

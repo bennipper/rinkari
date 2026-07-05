@@ -1,0 +1,86 @@
+{
+  "number": 13,
+  "date": "2026-07-13",
+  "link": "CLUEDO",
+  "compounds": "GREEN · MUSTARD · PLUM · SCARLET",
+  "note": "GREEN, MUSTARD, PLUM and SCARLET are all CLUEDO characters",
+  "clues": [
+    {
+      "answer": "GREEN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Politician",
+          "def"
+        ],
+        [
+          " needing info about Religious Education",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Politician'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MUSTARD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Relish",
+          "def"
+        ],
+        [
+          " slander involving celebrity",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Relish'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PLUM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cracking",
+          "def"
+        ],
+        [
+          " sound you’ll hear",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cracking'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCARLET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Red",
+          "def"
+        ],
+        [
+          " vehicle learner, English, parked in street",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Red'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

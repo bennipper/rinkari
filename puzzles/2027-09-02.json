@@ -1,0 +1,90 @@
+{
+  "number": 429,
+  "date": "2027-09-02",
+  "link": "COLOSSAL",
+  "compounds": "GIANT · GREAT · MAMMOTH · TITANIC",
+  "note": "GIANT, GREAT, MAMMOTH and TITANIC are all COLOSSALS",
+  "clues": [
+    {
+      "answer": "GIANT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Two soldiers, ",
+          "ind"
+        ],
+        [
+          "one huge",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'one huge'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GREAT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Magic",
+          "def"
+        ],
+        [
+          " / ",
+          ""
+        ],
+        [
+          "giant",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: magic, and giant."
+    },
+    {
+      "answer": "MAMMOTH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Huge",
+          "def"
+        ],
+        [
+          " insect covers a small distance",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Huge'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TITANIC",
+      "device": "Charade",
+      "parts": [
+        [
+          "Big",
+          "def"
+        ],
+        [
+          " bird, head hidden in fear",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Big'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

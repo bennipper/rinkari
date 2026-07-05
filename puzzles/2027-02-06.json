@@ -1,0 +1,94 @@
+{
+  "number": 221,
+  "date": "2027-02-06",
+  "link": "GIST",
+  "compounds": "DRIFT · IDEA · MESSAGE · POINT",
+  "note": "DRIFT, IDEA, MESSAGE and POINT are all GISTS",
+  "clues": [
+    {
+      "answer": "DRIFT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Meaning",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "to float along",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: meaning, and to float along."
+    },
+    {
+      "answer": "IDEA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Concept",
+          "def"
+        ],
+        [
+          " everyone associated at first with papers",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Concept'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MESSAGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Almost engage with wise ",
+          "ind"
+        ],
+        [
+          "text",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'text'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POINT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Direct",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "issue",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: direct, and issue."
+    }
+  ],
+  "linkType": "category"
+}

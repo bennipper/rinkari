@@ -1,0 +1,86 @@
+{
+  "number": 491,
+  "date": "2027-11-03",
+  "link": "STEER",
+  "compounds": "DIRECT · DRIVE · GUIDE · PILOT",
+  "note": "DIRECT, DRIVE, GUIDE and PILOT are all STEERS",
+  "clues": [
+    {
+      "answer": "DIRECT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Frank",
+          "def"
+        ],
+        [
+          " having credit renewed",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Frank'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DRIVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Head of regiment drills joint ",
+          "ind"
+        ],
+        [
+          "force",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'force'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GUIDE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Reporter's sent up ",
+          "ind"
+        ],
+        [
+          "handbook",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'handbook'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PILOT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sanctimonious bunch producing ",
+          "ind"
+        ],
+        [
+          "TV try-out?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'TV try-out'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}
