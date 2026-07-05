@@ -1,0 +1,86 @@
+{
+  "number": 66,
+  "date": "2026-09-04",
+  "link": "TALENT",
+  "link_type": "category",
+  "compounds": "FACULTY · FLAIR · GENIUS · GIFT",
+  "note": "FACULTY, FLAIR, GENIUS and GIFT are all TALENTS",
+  "clues": [
+    {
+      "answer": "FACULTY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Memory possibly",
+          "def"
+        ],
+        [
+          " defective, Charlie admitted",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Memory possibly'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FLAIR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dash",
+          "def"
+        ],
+        [
+          " in radioed distress signal?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Dash'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GENIUS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Wizard",
+          "def"
+        ],
+        [
+          ", one in class",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Wizard'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GIFT",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Present",
+          "def"
+        ],
+        [
+          " in meeting, if tired",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Present'; the answer is concealed in the surrounding wordplay."
+    }
+  ]
+}

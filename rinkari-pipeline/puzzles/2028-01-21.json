@@ -1,0 +1,86 @@
+{
+  "number": 570,
+  "date": "2028-01-21",
+  "link": "OINTMENT",
+  "link_type": "category",
+  "compounds": "BALM · CREAM · PASTE · RUB",
+  "note": "BALM, CREAM, PASTE and RUB are all OINTMENTS",
+  "clues": [
+    {
+      "answer": "BALM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Comfort",
+          "def"
+        ],
+        [
+          " male dog from the east",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Comfort'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CREAM",
+      "device": "Charade",
+      "parts": [
+        [
+          "What‘s topping cake",
+          "def"
+        ],
+        [
+          " — really extravagant and mouth-watering?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'What‘s topping cake'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PASTE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stick",
+          "def"
+        ],
+        [
+          " English after History",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Stick'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RUB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Polish",
+          "def"
+        ],
+        [
+          " gemstone lacking finish",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Polish'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

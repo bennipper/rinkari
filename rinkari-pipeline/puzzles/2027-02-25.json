@@ -1,0 +1,90 @@
+{
+  "number": 240,
+  "date": "2027-02-25",
+  "link": "UTTERANCE",
+  "link_type": "category",
+  "compounds": "NOISE · PEEP · SOUND · WORD",
+  "note": "NOISE, PEEP, SOUND and WORD are all UTTERANCES",
+  "clues": [
+    {
+      "answer": "NOISE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Top seed's English ",
+          "ind"
+        ],
+        [
+          "racket",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'racket'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PEEP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Look slyly",
+          "def"
+        ],
+        [
+          " up and down",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Look slyly'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SOUND",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Secure",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "area of the sea",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: secure, and area of the sea."
+    },
+    {
+      "answer": "WORD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Controversy backing Duke’s ",
+          "ind"
+        ],
+        [
+          "command",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'command'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

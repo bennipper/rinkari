@@ -1,0 +1,133 @@
+{
+  "number": 3,
+  "date": "2026-07-03",
+  "link": "SHIP",
+  "compounds": "BATTLESHIP · MEMBERSHIP · FELLOWSHIP · FLAGSHIP · COURTSHIP",
+  "note": "Every answer boards the same vessel.",
+  "clues": [
+    {
+      "answer": "BATTLE",
+      "device": "Anagram",
+      "parts": [
+        [
+          "Tablet ",
+          ""
+        ],
+        [
+          "smashed",
+          "ind"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "conflict",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Anagram: TABLET, ‘smashed’, rebuilds as BATTLE."
+    },
+    {
+      "answer": "MEMBER",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Limb",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "some",
+          "ind"
+        ],
+        [
+          " remembered (6)",
+          ""
+        ]
+      ],
+      "parse": "Hidden: reMEMBERed. ‘Some’ points to the concealment."
+    },
+    {
+      "answer": "FELLOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Guy",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "cut down, crying out in pain",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Charade: FELL (cut down) + OW (the cry of pain)."
+    },
+    {
+      "answer": "FLAG",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Weaken",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "standard",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: to weaken, and a standard — the banner kind."
+    },
+    {
+      "answer": "COURT",
+      "device": "Container",
+      "parts": [
+        [
+          "Abrupt ",
+          ""
+        ],
+        [
+          "about",
+          "ind"
+        ],
+        [
+          " love — ",
+          ""
+        ],
+        [
+          "where matches are played",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Container: CURT (abrupt) around O (love, the tennis score). ‘Matches’ was pulling double duty."
+    }
+  ],
+  "linkType": "compound"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 195,
+  "date": "2027-01-11",
+  "link": "DISPUTE",
+  "link_type": "category",
+  "compounds": "CLASH · SCRAP · TANGLE · TIFF",
+  "note": "CLASH, SCRAP, TANGLE and TIFF are all DISPUTES",
+  "clues": [
+    {
+      "answer": "CLASH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Argue",
+          "def"
+        ],
+        [
+          " about pound coins",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Argue'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCRAP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Axe",
+          "def"
+        ],
+        [
+          " green areas of Paris to the north",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Axe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TANGLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Knot",
+          "def"
+        ],
+        [
+          " tied originally on slant",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Knot'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TIFF",
+      "device": "Charade",
+      "parts": [
+        [
+          "Demanding head should not be involved in ",
+          "ind"
+        ],
+        [
+          "quarrel",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'quarrel'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "number": 169,
+  "date": "2026-12-16",
+  "link": "WALLOP",
+  "link_type": "category",
+  "compounds": "BELT · CLOCK · DECK · SLUG",
+  "note": "BELT, CLOCK, DECK and SLUG are all WALLOPS",
+  "clues": [
+    {
+      "answer": "BELT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Energy-filled sandwich to make you ",
+          "ind"
+        ],
+        [
+          "move fast",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'move fast'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CLOCK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Hit",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "one displaying speed",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: hit, and one displaying speed."
+    },
+    {
+      "answer": "DECK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Embellish",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "pack of cards",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: embellish, and pack of cards."
+    },
+    {
+      "answer": "SLUG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bullet",
+          "def"
+        ],
+        [
+          " hit pest",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bullet'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

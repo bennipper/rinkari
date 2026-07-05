@@ -1,0 +1,90 @@
+{
+  "number": 207,
+  "date": "2027-01-23",
+  "link": "CHOICEST",
+  "link_type": "category",
+  "compounds": "BEST · CREAM · PICK · TOP",
+  "note": "BEST, CREAM, PICK and TOP are all CHOICESTS",
+  "clues": [
+    {
+      "answer": "BEST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Most successful",
+          "def"
+        ],
+        [
+          ", getting shilling in wager",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Most successful'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CREAM",
+      "device": "Charade",
+      "parts": [
+        [
+          "What‘s topping cake",
+          "def"
+        ],
+        [
+          " — really extravagant and mouth-watering?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'What‘s topping cake'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PICK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Choice",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "digging tool",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: choice, and digging tool."
+    },
+    {
+      "answer": "TOP",
+      "device": "Charade",
+      "parts": [
+        [
+          "First",
+          "def"
+        ],
+        [
+          " vessel to be capsized",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'First'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

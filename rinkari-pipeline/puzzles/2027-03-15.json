@@ -1,0 +1,102 @@
+{
+  "number": 258,
+  "date": "2027-03-15",
+  "link": "ASSIGNMENT",
+  "link_type": "category",
+  "compounds": "JOB · POSITION · POST · STATION",
+  "note": "JOB, POSITION, POST and STATION are all ASSIGNMENTS",
+  "clues": [
+    {
+      "answer": "JOB",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Patient man",
+          "def"
+        ],
+        [
+          "'s ",
+          ""
+        ],
+        [
+          "situation?",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: patient man, and situation."
+    },
+    {
+      "answer": "POSITION",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Job",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "status",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: job, and status."
+    },
+    {
+      "answer": "POST",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Job",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "found in the mail room?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: job, and found in the mail room?."
+    },
+    {
+      "answer": "STATION",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Eg Victoria",
+          "def"
+        ],
+        [
+          "'s ",
+          ""
+        ],
+        [
+          "position in life?",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: eg victoria, and position in life."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "number": 479,
+  "date": "2027-10-22",
+  "link": "EQUIPMENT",
+  "link_type": "category",
+  "compounds": "GEAR · KIT · STUFF · TACKLE",
+  "note": "GEAR, KIT, STUFF and TACKLE are all EQUIPMENTS",
+  "clues": [
+    {
+      "answer": "GEAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Clothes",
+          "def"
+        ],
+        [
+          " which can be changed",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Clothes'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "KIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Clothing",
+          "def"
+        ],
+        [
+          " used by ski team",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Clothing'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STUFF",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Completely pack up",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "belongings",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: completely pack up, and belongings."
+    },
+    {
+      "answer": "TACKLE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Deal with",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "fishing gear",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: deal with, and fishing gear."
+    }
+  ]
+}

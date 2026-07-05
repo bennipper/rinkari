@@ -1,0 +1,86 @@
+{
+  "number": 398,
+  "date": "2027-08-02",
+  "link": "REBOUND",
+  "link_type": "category",
+  "compounds": "BANK · BOUNCE · CAROM · RICOCHET",
+  "note": "BANK, BOUNCE, CAROM and RICOCHET are all REBOUNDS",
+  "clues": [
+    {
+      "answer": "BANK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Starts to boycott another North Korean ",
+          "ind"
+        ],
+        [
+          "financial institution",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'financial institution'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BOUNCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Doorman’s endless ",
+          "ind"
+        ],
+        [
+          "resilience",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'resilience'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CAROM",
+      "device": "Charade",
+      "parts": [
+        [
+          "American cannon",
+          "def"
+        ],
+        [
+          " got from vehicle when given order",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'American cannon'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RICOCHET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Glance",
+          "def"
+        ],
+        [
+          " from wealthy alien holding company",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Glance'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

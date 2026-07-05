@@ -1,0 +1,102 @@
+{
+  "number": 197,
+  "date": "2027-01-13",
+  "link": "ORDERLY",
+  "compounds": "CLEAN · NEAT · TIDY · TRIM",
+  "note": "CLEAN, NEAT, TIDY and TRIM are all ORDERLIES",
+  "clues": [
+    {
+      "answer": "CLEAN",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Quite",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "attentive to personal hygiene",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: quite, and attentive to personal hygiene."
+    },
+    {
+      "answer": "NEAT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Cattle",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "without water",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: cattle, and without water."
+    },
+    {
+      "answer": "TIDY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Large",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "receptacle for odds and ends",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: large, and receptacle for odds and ends."
+    },
+    {
+      "answer": "TRIM",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Shorten",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "spruce",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: shorten, and spruce."
+    }
+  ],
+  "linkType": "category"
+}

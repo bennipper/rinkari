@@ -1,0 +1,86 @@
+{
+  "number": 486,
+  "date": "2027-10-29",
+  "link": "CONFER",
+  "link_type": "category",
+  "compounds": "ACCORD · AWARD · GRANT · VEST",
+  "note": "ACCORD, AWARD, GRANT and VEST are all CONFERS",
+  "clues": [
+    {
+      "answer": "ACCORD",
+      "device": "Charade",
+      "parts": [
+        [
+          "A line about Churchill's first ",
+          "ind"
+        ],
+        [
+          "agreement",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'agreement'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "AWARD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Decoration",
+          "def"
+        ],
+        [
+          " in one room",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Decoration'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GRANT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Allow",
+          "def"
+        ],
+        [
+          " elderly relative time",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Allow'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "VEST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Most courageous removing bra, ",
+          "ind"
+        ],
+        [
+          "item of underwear",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'item of underwear'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

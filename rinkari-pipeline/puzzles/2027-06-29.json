@@ -1,0 +1,94 @@
+{
+  "number": 364,
+  "date": "2027-06-29",
+  "link": "SIGNIFY",
+  "link_type": "category",
+  "compounds": "CONVEY · EXPRESS · MEAN · SPELL",
+  "note": "CONVEY, EXPRESS, MEAN and SPELL are all SIGNIFIES",
+  "clues": [
+    {
+      "answer": "CONVEY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Transport",
+          "def"
+        ],
+        [
+          " prisoner, extremely volatile at end of day",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Transport'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EXPRESS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Old machine for printing ",
+          "ind"
+        ],
+        [
+          "newspaper",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'newspaper'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MEAN",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Average",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "is low",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: average, and is low."
+    },
+    {
+      "answer": "SPELL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Write letters in",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "work period",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: write letters in, and work period."
+    }
+  ]
+}

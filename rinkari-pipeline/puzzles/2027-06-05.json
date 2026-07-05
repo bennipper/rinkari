@@ -1,0 +1,90 @@
+{
+  "number": 340,
+  "date": "2027-06-05",
+  "link": "OUTDO",
+  "link_type": "category",
+  "compounds": "BETTER · ECLIPSE · SURPASS · TOP",
+  "note": "BETTER, ECLIPSE, SURPASS and TOP are all OUTDOS",
+  "clues": [
+    {
+      "answer": "BETTER",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Gambler",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "showing improvement",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: gambler, and showing improvement."
+    },
+    {
+      "answer": "ECLIPSE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Obscure",
+          "def"
+        ],
+        [
+          " snippets in the midst of tweets",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Obscure'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SURPASS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Do better than",
+          "def"
+        ],
+        [
+          " Spurs, say, almost unexpectedly",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Do better than'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TOP",
+      "device": "Charade",
+      "parts": [
+        [
+          "First",
+          "def"
+        ],
+        [
+          " vessel to be capsized",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'First'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

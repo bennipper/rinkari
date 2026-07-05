@@ -1,0 +1,90 @@
+{
+  "number": 256,
+  "date": "2027-03-13",
+  "link": "TIER",
+  "link_type": "category",
+  "compounds": "DECK · FLOOR · LEVEL · STORY",
+  "note": "DECK, FLOOR, LEVEL and STORY are all TIERS",
+  "clues": [
+    {
+      "answer": "DECK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Embellish",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "pack of cards",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: embellish, and pack of cards."
+    },
+    {
+      "answer": "FLOOR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sounds like a mistake ",
+          "ind"
+        ],
+        [
+          "on which to stand?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'on which to stand?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LEVEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "The French versus the Spanish, ",
+          "ind"
+        ],
+        [
+          "with neither side leading?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'with neither side leading'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STORY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Anecdote",
+          "def"
+        ],
+        [
+          " beginning to shock Conservative",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Anecdote'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

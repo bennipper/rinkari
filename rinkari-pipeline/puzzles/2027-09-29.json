@@ -1,0 +1,94 @@
+{
+  "number": 456,
+  "date": "2027-09-29",
+  "link": "PIQUANCY",
+  "link_type": "category",
+  "compounds": "KICK · PUNCH · ZEST · ZING",
+  "note": "KICK, PUNCH, ZEST and ZING are all PIQUANCIES",
+  "clues": [
+    {
+      "answer": "KICK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Feature of soccer game",
+          "def"
+        ],
+        [
+          ", ",
+          ""
+        ],
+        [
+          "something thrilling",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: feature of soccer game, and something thrilling."
+    },
+    {
+      "answer": "PUNCH",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Alcoholic drink",
+          "def"
+        ],
+        [
+          " is ",
+          ""
+        ],
+        [
+          "a hit",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: alcoholic drink, and a hit."
+    },
+    {
+      "answer": "ZEST",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Relish",
+          "def"
+        ],
+        [
+          " visiting Devizes tomorrow",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Relish'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "ZING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Vitality",
+          "def"
+        ],
+        [
+          " unknown in Grantchester at first",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Vitality'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

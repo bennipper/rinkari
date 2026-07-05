@@ -1,0 +1,90 @@
+{
+  "number": 202,
+  "date": "2027-01-18",
+  "link": "SUMMARY",
+  "compounds": "ABSTRACT · BRIEF · DIGEST · OUTLINE",
+  "note": "ABSTRACT, BRIEF, DIGEST and OUTLINE are all SUMMARIES",
+  "clues": [
+    {
+      "answer": "ABSTRACT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Steal",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "a Kandinsky painting, for example?",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: steal, and a kandinsky painting, for example?."
+    },
+    {
+      "answer": "BRIEF",
+      "device": "Charade",
+      "parts": [
+        [
+          "Short",
+          "def"
+        ],
+        [
+          " fibre spun",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Short'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DIGEST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fail to make joke, say, for ",
+          "ind"
+        ],
+        [
+          "periodical",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'periodical'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "OUTLINE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Plan",
+          "def"
+        ],
+        [
+          " unacceptable rail route",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Plan'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

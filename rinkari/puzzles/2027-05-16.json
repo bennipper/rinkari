@@ -1,0 +1,86 @@
+{
+  "number": 320,
+  "date": "2027-05-16",
+  "link": "PALINDROMES",
+  "compounds": "ABBA · KAYAK · NUN · STATS",
+  "note": "ABBA, KAYAK, NUN and STATS are all PALINDROMES",
+  "clues": [
+    {
+      "answer": "ABBA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Group",
+          "def"
+        ],
+        [
+          " of rhymes in Petrarchan sonnet",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Group'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "KAYAK",
+      "device": "Charade",
+      "parts": [
+        [
+          "King and leader of armada chat in ",
+          "ind"
+        ],
+        [
+          "boat",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'boat'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "NUN",
+      "device": "Charade",
+      "parts": [
+        [
+          "News about union leader’s ",
+          "ind"
+        ],
+        [
+          "sister?",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'sister?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STATS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pieces of information",
+          "def"
+        ],
+        [
+          ", whichever way you look",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Pieces of information'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

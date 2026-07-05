@@ -1,0 +1,86 @@
+{
+  "number": 432,
+  "date": "2027-09-05",
+  "link": "DISCOUNT",
+  "link_type": "category",
+  "compounds": "DEAL · PROMOTION · SALE · SPECIAL",
+  "note": "DEAL, PROMOTION, SALE and SPECIAL are all DISCOUNTS",
+  "clues": [
+    {
+      "answer": "DEAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Swap start and end of clue to get ",
+          "ind"
+        ],
+        [
+          "agreement",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'agreement'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PROMOTION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Reward for not standing still",
+          "def"
+        ],
+        [
+          "?",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Reward for not standing still'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SALE",
+      "device": "Charade",
+      "parts": [
+        [
+          "A form of willow",
+          "def"
+        ],
+        [
+          " selling in northern town",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'A form of willow'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPECIAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Small cooked plaice, ",
+          "ind"
+        ],
+        [
+          "dish of the day",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'dish of the day'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

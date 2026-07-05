@@ -1,0 +1,86 @@
+{
+  "number": 389,
+  "date": "2027-07-24",
+  "link": "WEARY",
+  "compounds": "BORE · DRAIN · EXHAUST · TIRE",
+  "note": "BORE, DRAIN, EXHAUST and TIRE are all WEARIES",
+  "clues": [
+    {
+      "answer": "BORE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stuck",
+          "def"
+        ],
+        [
+          " first of borrowed money in Oslo",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Stuck'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DRAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Duke drops ",
+          "ind"
+        ],
+        [
+          "pipe",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'pipe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EXHAUST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Run out",
+          "def"
+        ],
+        [
+          " of Gold Street going after former husband",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Run out'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TIRE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Part of American car — ",
+          "ind"
+        ],
+        [
+          "exhaust?",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'exhaust?'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

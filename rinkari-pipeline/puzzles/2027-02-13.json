@@ -1,0 +1,86 @@
+{
+  "number": 228,
+  "date": "2027-02-13",
+  "link": "TANGIBLE",
+  "link_type": "category",
+  "compounds": "CONCRETE · MATERIAL · REAL · SOLID",
+  "note": "CONCRETE, MATERIAL, REAL and SOLID are all TANGIBLES",
+  "clues": [
+    {
+      "answer": "CONCRETE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Material",
+          "def"
+        ],
+        [
+          " giving firm centre when poured",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Material'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MATERIAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Familiar with animal's home around ",
+          "ind"
+        ],
+        [
+          "lawn, say",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'lawn, say'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "REAL",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Some are altogether ",
+          "ind"
+        ],
+        [
+          "genuine",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'genuine'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "SOLID",
+      "device": "Charade",
+      "parts": [
+        [
+          "Firm",
+          "def"
+        ],
+        [
+          " one enters changed hands",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Firm'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "number": 23,
+  "date": "2026-07-23",
+  "link": "LOVE",
+  "compounds": "BOO · HONEY · SUGAR · SWEETIE",
+  "note": "BOO, HONEY, SUGAR and SWEETIE are all TERMS OF ENDEARMENT",
+  "clues": [
+    {
+      "answer": "BOO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Expression of dissent",
+          "def"
+        ],
+        [
+          " forbidden? No thanks!",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Expression of dissent'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HONEY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Keen Yankee gets ",
+          "ind"
+        ],
+        [
+          "treasure or similar",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'treasure or similar'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SUGAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tease American over ",
+          "ind"
+        ],
+        [
+          "sweetheart",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'sweetheart'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SWEETIE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Son — little couple’s ",
+          "ind"
+        ],
+        [
+          "beloved one",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'beloved one'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

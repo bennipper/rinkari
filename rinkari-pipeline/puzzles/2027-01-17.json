@@ -1,0 +1,98 @@
+{
+  "number": 201,
+  "date": "2027-01-17",
+  "link": "STUBBLE",
+  "link_type": "category",
+  "compounds": "FUZZ · SCRUFF · SHADOW · WHISKERS",
+  "note": "FUZZ, SCRUFF, SHADOW and WHISKERS are all STUBBLES",
+  "clues": [
+    {
+      "answer": "FUZZ",
+      "device": "Double definition",
+      "parts": [
+        [
+          "The Boys in Blue",
+          "def"
+        ],
+        [
+          ", or ",
+          ""
+        ],
+        [
+          "Blur?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: the boys in blue, and blur."
+    },
+    {
+      "answer": "SCRUFF",
+      "device": "Double definition",
+      "parts": [
+        [
+          "One probably wouldn't wash",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "the back of the neck",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: one probably wouldn't wash, and the back of the neck."
+    },
+    {
+      "answer": "SHADOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Closely follow",
+          "def"
+        ],
+        [
+          " play, having to put in notice",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Closely follow'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WHISKERS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Very small amounts",
+          "def"
+        ],
+        [
+          " of ",
+          ""
+        ],
+        [
+          "facial hair",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: very small amounts, and facial hair."
+    }
+  ]
+}

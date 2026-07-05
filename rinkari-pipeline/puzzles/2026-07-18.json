@@ -1,0 +1,90 @@
+{
+  "number": 18,
+  "date": "2026-07-18",
+  "link": "MATTRESS",
+  "link_type": "category",
+  "compounds": "FULL · KING · QUEEN · TWIN",
+  "note": "FULL, KING, QUEEN and TWIN are all MATTRESS sizes",
+  "clues": [
+    {
+      "answer": "FULL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Comprehensive",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "with no spare places?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: comprehensive, and with no spare places."
+    },
+    {
+      "answer": "KING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Family joined by grand ",
+          "ind"
+        ],
+        [
+          "royal personage",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'royal personage'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "QUEEN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Piece",
+          "def"
+        ],
+        [
+          ", central to, or on the far side of, banner",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Piece'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TWIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Time to secure ",
+          "ind"
+        ],
+        [
+          "such a hotel room?",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'such a hotel room'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

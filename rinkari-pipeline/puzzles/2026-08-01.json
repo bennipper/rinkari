@@ -1,0 +1,86 @@
+{
+  "number": 32,
+  "date": "2026-08-01",
+  "link": "COLORS",
+  "link_type": "category",
+  "compounds": "BROWN · PINK · TURQUOISE · VIOLET",
+  "note": "BROWN, PINK, TURQUOISE and VIOLET are all COLORS",
+  "clues": [
+    {
+      "answer": "BROWN",
+      "device": "Charade",
+      "parts": [
+        [
+          "With starter portions of breakfast, have ",
+          "ind"
+        ],
+        [
+          "toast",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'toast'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PINK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Colour",
+          "def"
+        ],
+        [
+          " proposal — is not keen initially",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Colour'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TURQUOISE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Quite sour nuts, ",
+          "ind"
+        ],
+        [
+          "greenish-blue",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'greenish-blue'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "VIOLET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Girl",
+          "def"
+        ],
+        [
+          " to live recklessly",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Girl'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

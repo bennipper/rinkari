@@ -1,0 +1,98 @@
+{
+  "number": 488,
+  "date": "2027-10-31",
+  "link": "FORTITUDE",
+  "link_type": "category",
+  "compounds": "BACKBONE · COURAGE · HEART · SPIRIT",
+  "note": "BACKBONE, COURAGE, HEART and SPIRIT are all FORTITUDES",
+  "clues": [
+    {
+      "answer": "BACKBONE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Resolution",
+          "def"
+        ],
+        [
+          " from British, united after reverse",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Resolution'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "COURAGE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Bottle",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "Brecht's mother",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: bottle, and brecht's mother."
+    },
+    {
+      "answer": "HEART",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Middle",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "card",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: middle, and card."
+    },
+    {
+      "answer": "SPIRIT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Possibly rum",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "type like Ariel?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: possibly rum, and type like ariel."
+    }
+  ]
+}

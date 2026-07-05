@@ -1,0 +1,86 @@
+{
+  "number": 307,
+  "date": "2027-05-03",
+  "link": "ANNOUNCE",
+  "compounds": "BROADCAST · DECLARE · HERALD · TRUMPET",
+  "note": "BROADCAST, DECLARE, HERALD and TRUMPET are all ANNOUNCES",
+  "clues": [
+    {
+      "answer": "BROADCAST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Extensive batch of hams to be ",
+          "ind"
+        ],
+        [
+          "distributed by hand",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'distributed by hand'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DECLARE",
+      "device": "Charade",
+      "parts": [
+        [
+          "State",
+          "def"
+        ],
+        [
+          " capital in Delaware joining English and Irish county",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'State'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HERALD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Argentina featuring in bound ",
+          "ind"
+        ],
+        [
+          "newspaper",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'newspaper'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TRUMPET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mutter in agitation about parking for ",
+          "ind"
+        ],
+        [
+          "orchestra member",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'orchestra member'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

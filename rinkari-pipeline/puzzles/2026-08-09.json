@@ -1,0 +1,90 @@
+{
+  "number": 40,
+  "date": "2026-08-09",
+  "link": "ARGUE",
+  "link_type": "category",
+  "compounds": "ROW · QUARREL · SPAT · TIFF",
+  "note": "ROW, QUARREL, SPAT and TIFF are all synonyms for ARGUE",
+  "clues": [
+    {
+      "answer": "ROW",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Argument",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "bank",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: argument, and bank."
+    },
+    {
+      "answer": "QUARREL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Argument",
+          "def"
+        ],
+        [
+          " that has a point",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Argument'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Second man or woman joining in ",
+          "ind"
+        ],
+        [
+          "quarrel",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'quarrel'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TIFF",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dispute",
+          "def"
+        ],
+        [
+          " ignoring opening of firm",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Dispute'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

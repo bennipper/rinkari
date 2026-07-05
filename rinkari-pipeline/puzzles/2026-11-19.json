@@ -1,0 +1,90 @@
+{
+  "number": 142,
+  "date": "2026-11-19",
+  "link": "EXPRESS",
+  "link_type": "category",
+  "compounds": "AIR · SPEAK · STATE · VOICE",
+  "note": "AIR, SPEAK, STATE and VOICE are all EXPRESS",
+  "clues": [
+    {
+      "answer": "AIR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Song",
+          "def"
+        ],
+        [
+          " from duo without piano",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Song'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPEAK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Second top, ",
+          "ind"
+        ],
+        [
+          "say",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'say'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STATE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Body politic",
+          "def"
+        ],
+        [
+          ", ",
+          ""
+        ],
+        [
+          "say",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: body politic, and say."
+    },
+    {
+      "answer": "VOICE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Weakness about love, ",
+          "ind"
+        ],
+        [
+          "say",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'say'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

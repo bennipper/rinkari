@@ -1,0 +1,90 @@
+{
+  "number": 182,
+  "date": "2026-12-29",
+  "link": "BACKSIDE",
+  "link_type": "category",
+  "compounds": "BOOTY · BUM · CAN · REAR",
+  "note": "BOOTY, BUM, CAN and REAR are all BACKSIDES",
+  "clues": [
+    {
+      "answer": "BOOTY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Beyoncé’s bottom",
+          "def"
+        ],
+        [
+          " getting ",
+          ""
+        ],
+        [
+          "the prize?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: beyoncé’s bottom, and the prize?."
+    },
+    {
+      "answer": "BUM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Poor",
+          "def"
+        ],
+        [
+          " in Knock denied pence",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Poor'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CAN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stick, almost all, in ",
+          "ind"
+        ],
+        [
+          "tin",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'tin'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "REAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Behind",
+          "def"
+        ],
+        [
+          " Republican listener",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Behind'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

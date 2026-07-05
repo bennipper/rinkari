@@ -1,0 +1,90 @@
+{
+  "number": 168,
+  "date": "2026-12-15",
+  "link": "ENTHUSIAST",
+  "link_type": "category",
+  "compounds": "BUFF · FAN · LOVER · NUT",
+  "note": "BUFF, FAN, LOVER and NUT are all ENTHUSIASTS",
+  "clues": [
+    {
+      "answer": "BUFF",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Expert",
+          "def"
+        ],
+        [
+          "'s ",
+          ""
+        ],
+        [
+          "device for adding polish",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: expert, and device for adding polish."
+    },
+    {
+      "answer": "FAN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Article by female ",
+          "ind"
+        ],
+        [
+          "supporter",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'supporter'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LOVER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Somewhat uplifted future volleyball ",
+          "ind"
+        ],
+        [
+          "fan",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'fan'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "NUT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Devotee",
+          "def"
+        ],
+        [
+          " regularly in cult",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Devotee'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

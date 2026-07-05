@@ -1,0 +1,86 @@
+{
+  "number": 241,
+  "date": "2027-02-26",
+  "link": "BABY",
+  "link_type": "category",
+  "compounds": "CALF · CUB · FAWN · KIT",
+  "note": "CALF, CUB, FAWN and KIT are all BABY animals",
+  "clues": [
+    {
+      "answer": "CALF",
+      "device": "Charade",
+      "parts": [
+        [
+          "Young trumpeter",
+          "def"
+        ],
+        [
+          "’s signal that’s short and loud",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Young trumpeter'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CUB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Large island, not a ",
+          "ind"
+        ],
+        [
+          "little one",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'little one'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FAWN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Wife wears cool ",
+          "ind"
+        ],
+        [
+          "light brown",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'light brown'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "KIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Clothing",
+          "def"
+        ],
+        [
+          " used by ski team",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Clothing'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

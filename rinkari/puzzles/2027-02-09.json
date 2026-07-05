@@ -1,0 +1,86 @@
+{
+  "number": 224,
+  "date": "2027-02-09",
+  "link": "DIVIDE",
+  "compounds": "BRANCH · FORK · PART · SPLIT",
+  "note": "BRANCH, FORK, PART and SPLIT are all DIVIDES",
+  "clues": [
+    {
+      "answer": "BRANCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bishop organised church's ",
+          "ind"
+        ],
+        [
+          "regional office",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'regional office'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FORK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Choice of temperature scale in ",
+          "ind"
+        ],
+        [
+          "two-way split",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'two-way split'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PART",
+      "device": "Charade",
+      "parts": [
+        [
+          "Not all",
+          "def"
+        ],
+        [
+          " catch up",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Not all'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPLIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Scottish League One team’s first in ",
+          "ind"
+        ],
+        [
+          "division",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'division'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

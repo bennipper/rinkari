@@ -1,0 +1,86 @@
+{
+  "number": 550,
+  "date": "2028-01-01",
+  "link": "SPORTSMANLIKE",
+  "link_type": "category",
+  "compounds": "FAIR · HONEST · SPORTING · SQUARE",
+  "note": "FAIR, HONEST, SPORTING and SQUARE are all SPORTSMANLIKES",
+  "clues": [
+    {
+      "answer": "FAIR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Reasonable",
+          "def"
+        ],
+        [
+          " travel cost announced",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Reasonable'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HONEST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Decent",
+          "def"
+        ],
+        [
+          " hotel on East Street",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Decent'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPORTING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Just like rugby players, say",
+          "def"
+        ],
+        [
+          ", to belt out full of alcohol",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Just like rugby players, say'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SQUARE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Old fogey",
+          "def"
+        ],
+        [
+          ", eighty-one perhaps?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Old fogey'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

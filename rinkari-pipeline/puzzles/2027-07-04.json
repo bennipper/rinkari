@@ -1,0 +1,86 @@
+{
+  "number": 369,
+  "date": "2027-07-04",
+  "link": "UNFLUCTUATING",
+  "link_type": "category",
+  "compounds": "CONSTANT · LEVEL · STABLE · UNIFORM",
+  "note": "CONSTANT, LEVEL, STABLE and UNIFORM are all UNFLUCTUATINGS",
+  "clues": [
+    {
+      "answer": "CONSTANT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Loyal",
+          "def"
+        ],
+        [
+          " worker upholding Conservative way",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Loyal'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LEVEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "The French versus the Spanish, ",
+          "ind"
+        ],
+        [
+          "with neither side leading?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'with neither side leading'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STABLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fast",
+          "def"
+        ],
+        [
+          " turning the Spanish mad",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Fast'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "UNIFORM",
+      "device": "Charade",
+      "parts": [
+        [
+          "College class’s ",
+          "ind"
+        ],
+        [
+          "prescribed clothing",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'prescribed clothing'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "number": 504,
+  "date": "2027-11-16",
+  "link": "NORM",
+  "link_type": "category",
+  "compounds": "AVERAGE · MEAN · PAR · STANDARD",
+  "note": "AVERAGE, MEAN, PAR and STANDARD are all NORMS",
+  "clues": [
+    {
+      "answer": "AVERAGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mean",
+          "def"
+        ],
+        [
+          " to declare silver, English",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Mean'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MEAN",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Average",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "is low",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: average, and is low."
+    },
+    {
+      "answer": "PAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Standard",
+          "def"
+        ],
+        [
+          " cut reduced",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Standard'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STANDARD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Stock",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "colours",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: stock, and colours."
+    }
+  ]
+}

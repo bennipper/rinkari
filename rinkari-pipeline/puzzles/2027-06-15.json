@@ -1,0 +1,90 @@
+{
+  "number": 350,
+  "date": "2027-06-15",
+  "link": "WREST",
+  "link_type": "category",
+  "compounds": "JERK · TUG · WRENCH · YANK",
+  "note": "JERK, TUG, WRENCH and YANK are all WRESTS",
+  "clues": [
+    {
+      "answer": "JERK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Yank",
+          "def"
+        ],
+        [
+          " is ",
+          ""
+        ],
+        [
+          "fool",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: yank, and fool."
+    },
+    {
+      "answer": "TUG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Remove contents of round ",
+          "ind"
+        ],
+        [
+          "tower",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'tower'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WRENCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Wife and daughter leaving soak — it's a ",
+          "ind"
+        ],
+        [
+          "hard decision",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'hard decision'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "YANK",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "American",
+          "def"
+        ],
+        [
+          " entering Malayan kingdom",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'American'; the answer is concealed in the surrounding wordplay."
+    }
+  ]
+}

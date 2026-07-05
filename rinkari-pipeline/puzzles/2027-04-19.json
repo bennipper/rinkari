@@ -1,0 +1,94 @@
+{
+  "number": 293,
+  "date": "2027-04-19",
+  "link": "EQUIP",
+  "link_type": "category",
+  "compounds": "FURNISH · OUTFIT · PROVISION · STOCK",
+  "note": "FURNISH, OUTFIT, PROVISION and STOCK are all EQUIPS",
+  "clues": [
+    {
+      "answer": "FURNISH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Supply",
+          "def"
+        ],
+        [
+          " source of tea during course",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Supply'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "OUTFIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Issued suitable ",
+          "ind"
+        ],
+        [
+          "clothes",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'clothes'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PROVISION",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Delivering",
+          "def"
+        ],
+        [
+          " the ",
+          ""
+        ],
+        [
+          "ophthalmologist's stance?",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: delivering, and ophthalmologist's stance?."
+    },
+    {
+      "answer": "STOCK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Cattle",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "displaying little imagination?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: cattle, and displaying little imagination."
+    }
+  ]
+}

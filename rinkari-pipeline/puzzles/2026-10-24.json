@@ -1,0 +1,90 @@
+{
+  "number": 116,
+  "date": "2026-10-24",
+  "link": "FLOWERS",
+  "link_type": "category",
+  "compounds": "DAISY · ROSE · TULIP · VIOLET",
+  "note": "DAISY, ROSE, TULIP and VIOLET are all FLOWERS",
+  "clues": [
+    {
+      "answer": "DAISY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Girl",
+          "def"
+        ],
+        [
+          " is in time",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Girl'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ROSE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Got up",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "pink",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: got up, and pink."
+    },
+    {
+      "answer": "TULIP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Plant that flowers",
+          "def"
+        ],
+        [
+          ", ending around the middle of July",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Plant that flowers'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "VIOLET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Girl",
+          "def"
+        ],
+        [
+          " to live recklessly",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Girl'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

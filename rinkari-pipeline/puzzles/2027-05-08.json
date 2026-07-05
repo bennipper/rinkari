@@ -1,0 +1,90 @@
+{
+  "number": 312,
+  "date": "2027-05-08",
+  "link": "CRAM",
+  "link_type": "category",
+  "compounds": "SANDWICH · SHOEHORN · SQUEEZE · WEDGE",
+  "note": "SANDWICH, SHOEHORN, SQUEEZE and WEDGE are all CRAMS",
+  "clues": [
+    {
+      "answer": "SANDWICH",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Type of course",
+          "def"
+        ],
+        [
+          "   ",
+          ""
+        ],
+        [
+          "where golf played",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: type of course, and where golf played."
+    },
+    {
+      "answer": "SHOEHORN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Squeeze",
+          "def"
+        ],
+        [
+          " garden into trimmed surroundings",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Squeeze'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SQUEEZE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Hug",
+          "def"
+        ],
+        [
+          " cat mostly unknown in Kent area?",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Hug'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WEDGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Club",
+          "def"
+        ],
+        [
+          " where wife is on the brink",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Club'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

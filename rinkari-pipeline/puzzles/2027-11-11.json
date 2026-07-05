@@ -1,0 +1,86 @@
+{
+  "number": 499,
+  "date": "2027-11-11",
+  "link": "FITTING",
+  "link_type": "category",
+  "compounds": "FAIR · JUST · PROPER · RIGHT",
+  "note": "FAIR, JUST, PROPER and RIGHT are all FITTINGS",
+  "clues": [
+    {
+      "answer": "FAIR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Reasonable",
+          "def"
+        ],
+        [
+          " travel cost announced",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Reasonable'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "JUST",
+      "device": "Charade",
+      "parts": [
+        [
+          "It’s ",
+          "ind"
+        ],
+        [
+          "only fair",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'only fair'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PROPER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Decorous",
+          "def"
+        ],
+        [
+          " publicity about string of pearls, perhaps",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Decorous'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RIGHT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Just",
+          "def"
+        ],
+        [
+          " clever, having no need of book",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Just'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

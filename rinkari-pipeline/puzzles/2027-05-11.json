@@ -1,0 +1,94 @@
+{
+  "number": 315,
+  "date": "2027-05-11",
+  "link": "INTREPIDITY",
+  "link_type": "category",
+  "compounds": "GRIT · HEART · NERVE · PLUCK",
+  "note": "GRIT, HEART, NERVE and PLUCK are all INTREPIDITIES",
+  "clues": [
+    {
+      "answer": "GRIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Guzzler emptied wine ",
+          "ind"
+        ],
+        [
+          "bottle",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'bottle'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HEART",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Middle",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "card",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: middle, and card."
+    },
+    {
+      "answer": "NERVE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Sauce",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "bottle?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: sauce, and bottle."
+    },
+    {
+      "answer": "PLUCK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Line included by Shakespearean character shows ",
+          "ind"
+        ],
+        [
+          "courage",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'courage'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

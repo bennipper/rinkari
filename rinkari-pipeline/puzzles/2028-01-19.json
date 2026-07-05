@@ -1,0 +1,86 @@
+{
+  "number": 568,
+  "date": "2028-01-19",
+  "link": "COMPETITION",
+  "link_type": "category",
+  "compounds": "BATTLE · CLASH · CONTEST · MATCH",
+  "note": "BATTLE, CLASH, CONTEST and MATCH are all COMPETITIONS",
+  "clues": [
+    {
+      "answer": "BATTLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Free tablet in ",
+          "ind"
+        ],
+        [
+          "Waterloo?",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Waterloo?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CLASH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Argue",
+          "def"
+        ],
+        [
+          " about pound coins",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Argue'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CONTEST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Challenge",
+          "def"
+        ],
+        [
+          " wrongdoer put on trial",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Challenge'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MATCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "One struck perhaps in ",
+          "ind"
+        ],
+        [
+          "game",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'game'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

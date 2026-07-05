@@ -1,0 +1,90 @@
+{
+  "number": 259,
+  "date": "2027-03-16",
+  "link": "ABSOLVE",
+  "compounds": "EXCUSE · PARDON · SAVE · SPARE",
+  "note": "EXCUSE, PARDON, SAVE and SPARE are all ABSOLVES",
+  "clues": [
+    {
+      "answer": "EXCUSE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Former copper initially suspended and partner gets ",
+          "ind"
+        ],
+        [
+          "pardon",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'pardon'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PARDON",
+      "device": "Charade",
+      "parts": [
+        [
+          "I didn't catch that",
+          "def"
+        ],
+        [
+          " mafioso after a number of shots",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'I didn't catch that'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SAVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Deal with five o'clock shadow? Not hard for ",
+          "ind"
+        ],
+        [
+          "husband",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'husband'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPARE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Extra",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "frugal",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: extra, and frugal."
+    }
+  ],
+  "linkType": "category"
+}

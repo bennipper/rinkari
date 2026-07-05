@@ -1,0 +1,86 @@
+{
+  "number": 74,
+  "date": "2026-09-12",
+  "link": "PURSUE",
+  "link_type": "category",
+  "compounds": "DOG · FOLLOW · TAIL · TRACK",
+  "note": "DOG, FOLLOW, TAIL and TRACK are all PURSUES",
+  "clues": [
+    {
+      "answer": "DOG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Setter perhaps",
+          "def"
+        ],
+        [
+          " is to make good",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Setter perhaps'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FOLLOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Touring lochs, picked up something from dog ",
+          "ind"
+        ],
+        [
+          "track",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'track'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TAIL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Last few batsmen",
+          "def"
+        ],
+        [
+          " lie, so they say",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Last few batsmen'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TRACK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dog",
+          "def"
+        ],
+        [
+          " food without flavour ultimately",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Dog'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

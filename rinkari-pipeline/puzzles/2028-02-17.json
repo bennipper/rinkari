@@ -1,0 +1,86 @@
+{
+  "number": 597,
+  "date": "2028-02-17",
+  "link": "DEMEANOR",
+  "link_type": "category",
+  "compounds": "ATTITUDE · BEARING · CARRIAGE · PRESENCE",
+  "note": "ATTITUDE, BEARING, CARRIAGE and PRESENCE are all DEMEANORS",
+  "clues": [
+    {
+      "answer": "ATTITUDE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Insolent manner",
+          "def"
+        ],
+        [
+          " of singer Smith knocking off piano duet badly",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Insolent manner'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BEARING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Small sphere",
+          "def"
+        ],
+        [
+          " or circle?",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Small sphere'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CARRIAGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Rig a race corruptly for ",
+          "ind"
+        ],
+        [
+          "coach?",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'coach'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PRESENCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Spirit",
+          "def"
+        ],
+        [
+          " of quiet home this writer had abandoned",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Spirit'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

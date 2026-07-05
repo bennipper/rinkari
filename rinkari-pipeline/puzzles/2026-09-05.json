@@ -1,0 +1,90 @@
+{
+  "number": 67,
+  "date": "2026-09-05",
+  "link": "PERCEIVE",
+  "link_type": "category",
+  "compounds": "CATCH · NOTICE · OBSERVE · SEE",
+  "note": "CATCH, NOTICE, OBSERVE and SEE are all PERCEIVES",
+  "clues": [
+    {
+      "answer": "CATCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Trap",
+          "def"
+        ],
+        [
+          " feline near church",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Trap'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "NOTICE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Spot",
+          "def"
+        ],
+        [
+          " water that's still liquid?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Spot'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "OBSERVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Watch",
+          "def"
+        ],
+        [
+          " ever so unreliable, black inside",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Watch'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SEE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Spend time with someone",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "diocese",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: spend time with someone, and diocese."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "number": 423,
+  "date": "2027-08-27",
+  "link": "DETAILED",
+  "link_type": "category",
+  "compounds": "ELABORATE · MINUTE · PARTICULAR · THOROUGH",
+  "note": "ELABORATE, MINUTE, PARTICULAR and THOROUGH are all DETAILEDS",
+  "clues": [
+    {
+      "answer": "ELABORATE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Far from simple",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "to explain",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: far from simple, and to explain."
+    },
+    {
+      "answer": "MINUTE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tiny",
+          "def"
+        ],
+        [
+          " child receiving letter in Greece",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Tiny'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PARTICULAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Specific",
+          "def"
+        ],
+        [
+          " rail-car put out",
+          "ind"
+        ],
+        [
+          " (10)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Specific'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "THOROUGH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Meticulous",
+          "def"
+        ],
+        [
+          " from beginning to end, assuming nothing",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Meticulous'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

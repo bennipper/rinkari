@@ -1,0 +1,90 @@
+{
+  "number": 469,
+  "date": "2027-10-12",
+  "link": "STREW",
+  "link_type": "category",
+  "compounds": "LITTER · PEPPER · SCATTER · SPRINKLE",
+  "note": "LITTER, PEPPER, SCATTER and SPRINKLE are all STREWS",
+  "clues": [
+    {
+      "answer": "LITTER",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Young family",
+          "def"
+        ],
+        [
+          " making ",
+          ""
+        ],
+        [
+          "a mess",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: young family, and a mess."
+    },
+    {
+      "answer": "PEPPER",
+      "device": "Charade",
+      "parts": [
+        [
+          "A spice",
+          "def"
+        ],
+        [
+          " very quietly eaten by noble",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'A spice'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCATTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Broadcast",
+          "def"
+        ],
+        [
+          " exotic arts etc",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Broadcast'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPRINKLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Spray",
+          "def"
+        ],
+        [
+          " knocks antelope back after short jump",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Spray'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

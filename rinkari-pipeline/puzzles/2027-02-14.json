@@ -1,0 +1,90 @@
+{
+  "number": 229,
+  "date": "2027-02-14",
+  "link": "YEARN",
+  "link_type": "category",
+  "compounds": "DESIRE · LONG · PINE · YEN",
+  "note": "DESIRE, LONG, PINE and YEN are all YEARNS",
+  "clues": [
+    {
+      "answer": "DESIRE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Lust",
+          "def"
+        ],
+        [
+          " is urgent outside English society",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Lust'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LONG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Marathon",
+          "def"
+        ],
+        [
+          " record broken by Briton at last",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Marathon'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PINE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Long",
+          "def"
+        ],
+        [
+          "  ",
+          ""
+        ],
+        [
+          "evergreen tree",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: long, and evergreen tree."
+    },
+    {
+      "answer": "YEN",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Desire",
+          "def"
+        ],
+        [
+          " conveyed in estuary English",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Desire'; the answer is concealed in the surrounding wordplay."
+    }
+  ]
+}

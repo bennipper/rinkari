@@ -1,0 +1,90 @@
+{
+  "number": 593,
+  "date": "2028-02-13",
+  "link": "SPEAK",
+  "link_type": "category",
+  "compounds": "EXPRESS · STATE · UTTER · VOICE",
+  "note": "EXPRESS, STATE, UTTER and VOICE are all SPEAKS",
+  "clues": [
+    {
+      "answer": "EXPRESS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Old machine for printing ",
+          "ind"
+        ],
+        [
+          "newspaper",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'newspaper'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STATE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Body politic",
+          "def"
+        ],
+        [
+          ", ",
+          ""
+        ],
+        [
+          "say",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: body politic, and say."
+    },
+    {
+      "answer": "UTTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Speak indistinctly, losing marks at first, ",
+          "ind"
+        ],
+        [
+          "say",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'say'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "VOICE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Weakness about love, ",
+          "ind"
+        ],
+        [
+          "say",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'say'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

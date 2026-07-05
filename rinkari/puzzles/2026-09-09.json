@@ -1,0 +1,94 @@
+{
+  "number": 71,
+  "date": "2026-09-09",
+  "link": "SHOES",
+  "compounds": "CLOG · PUMP · SLIDE · WEDGE",
+  "note": "CLOG, PUMP, SLIDE and WEDGE are all SHOES",
+  "clues": [
+    {
+      "answer": "CLOG",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Choker",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "that may be worn to dance",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: choker, and that may be worn to dance."
+    },
+    {
+      "answer": "PUMP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Source of inflation",
+          "def"
+        ],
+        [
+          " turned back by politician",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Source of inflation'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SLIDE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Lock-keeper",
+          "def"
+        ],
+        [
+          "’s ",
+          ""
+        ],
+        [
+          "slow decline",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: lock-keeper, and slow decline."
+    },
+    {
+      "answer": "WEDGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Club",
+          "def"
+        ],
+        [
+          " where wife is on the brink",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Club'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 508,
+  "date": "2027-11-20",
+  "link": "ANAGRAMS",
+  "link_type": "category",
+  "compounds": "ARES · EARS · SEAR · SERA",
+  "note": "ARES, EARS, SEAR and SERA are all ANAGRAMS",
+  "clues": [
+    {
+      "answer": "ARES",
+      "device": "Charade",
+      "parts": [
+        [
+          "“Stars” would exclude one ",
+          "ind"
+        ],
+        [
+          "the equivalent of Mars",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'the equivalent of Mars'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EARS",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Rehearsals in part for ",
+          "ind"
+        ],
+        [
+          "organs",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'organs'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "SEAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Catch",
+          "def"
+        ],
+        [
+          " the utterance of a wise person",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Catch'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SERA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Hospital supplies",
+          "def"
+        ],
+        [
+          " coming from Sweden are defective",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Hospital supplies'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

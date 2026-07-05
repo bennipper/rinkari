@@ -1,0 +1,86 @@
+{
+  "number": 419,
+  "date": "2027-08-23",
+  "link": "PARTICLE",
+  "link_type": "category",
+  "compounds": "CRUMB · GRAIN · MORSEL · SHRED",
+  "note": "CRUMB, GRAIN, MORSEL and SHRED are all PARTICLES",
+  "clues": [
+    {
+      "answer": "CRUMB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Starts in college bar, swallowing liquor, getting ",
+          "ind"
+        ],
+        [
+          "small amount of comfort?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'small amount of comfort?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GRAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Farm crop",
+          "def"
+        ],
+        [
+          " may be good with wet weather",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Farm crop'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MORSEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Endeavour:  learner displays ",
+          "ind"
+        ],
+        [
+          "a bit",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a bit'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHRED",
+      "device": "Charade",
+      "parts": [
+        [
+          "Divided among several people, except for a ",
+          "ind"
+        ],
+        [
+          "small amount",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'small amount'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

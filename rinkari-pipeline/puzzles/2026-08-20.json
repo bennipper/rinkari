@@ -1,0 +1,86 @@
+{
+  "number": 51,
+  "date": "2026-08-20",
+  "link": "SANDWICHES",
+  "link_type": "category",
+  "compounds": "CLUB · CUBAN · MELT · SUB",
+  "note": "CLUB, CUBAN, MELT and SUB are all SANDWICHES",
+  "clues": [
+    {
+      "answer": "CLUB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Novice boxes in learner ",
+          "ind"
+        ],
+        [
+          "driver?",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'driver'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CUBAN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Copper bar ",
+          "ind"
+        ],
+        [
+          "from a Caribbean island",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'from a Caribbean island'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MELT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Soften",
+          "def"
+        ],
+        [
+          ", ultimately calm, English Lieutenant",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Soften'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SUB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Form of transport coming up, ",
+          "ind"
+        ],
+        [
+          "one has a periscope",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'one has a periscope'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

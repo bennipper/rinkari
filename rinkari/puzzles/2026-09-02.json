@@ -1,0 +1,90 @@
+{
+  "number": 64,
+  "date": "2026-09-02",
+  "link": "FISH",
+  "compounds": "CHAR · EEL · PERCH · SHARK",
+  "note": "CHAR, EEL, PERCH and SHARK are all types of FISH",
+  "clues": [
+    {
+      "answer": "CHAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Daily",
+          "def"
+        ],
+        [
+          " charge reduced by a third",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Daily'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Slippery customer",
+          "def"
+        ],
+        [
+          " starts to explain: evident lies",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Slippery customer'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PERCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Resting place",
+          "def"
+        ],
+        [
+          " by church",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Resting place'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHARK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Shear",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "predator",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: shear, and predator."
+    }
+  ],
+  "linkType": "category"
+}

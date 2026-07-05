@@ -1,0 +1,90 @@
+{
+  "number": 148,
+  "date": "2026-11-25",
+  "link": "SWINDLER",
+  "link_type": "category",
+  "compounds": "CHEAT · CROOK · QUACK · SHARK",
+  "note": "CHEAT, CROOK, QUACK and SHARK are all SWINDLERS",
+  "clues": [
+    {
+      "answer": "CHEAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fiddle",
+          "def"
+        ],
+        [
+          " about, in need of passion",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Fiddle'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CROOK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fence, perhaps",
+          "def"
+        ],
+        [
+          ", close to historic castle",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Fence, perhaps'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "QUACK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Cry coming from Donald",
+          "def"
+        ],
+        [
+          ", ",
+          ""
+        ],
+        [
+          "possibly a charlatan",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: cry coming from donald, and possibly a charlatan."
+    },
+    {
+      "answer": "SHARK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Quiet refuge for animals and ",
+          "ind"
+        ],
+        [
+          "fish",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'fish'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

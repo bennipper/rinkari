@@ -1,0 +1,86 @@
+{
+  "number": 156,
+  "date": "2026-12-03",
+  "link": "SEQUENCE",
+  "compounds": "CHAIN · SERIES · STRING · TRAIN",
+  "note": "CHAIN, SERIES, STRING and TRAIN are all SEQUENCES",
+  "clues": [
+    {
+      "answer": "CHAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Friend promoting a ",
+          "ind"
+        ],
+        [
+          "group of associated stores",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'group of associated stores'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SERIES",
+      "device": "Charade",
+      "parts": [
+        [
+          "Run",
+          "def"
+        ],
+        [
+          " two sons across lake",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Run'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STRING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Nothing overlooked in keeping ",
+          "ind"
+        ],
+        [
+          "yarn",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'yarn'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TRAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Exercise",
+          "def"
+        ],
+        [
+          " time, then shower",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Exercise'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

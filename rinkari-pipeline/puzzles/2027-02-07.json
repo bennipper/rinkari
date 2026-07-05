@@ -1,0 +1,90 @@
+{
+  "number": 222,
+  "date": "2027-02-07",
+  "link": "CORE",
+  "link_type": "category",
+  "compounds": "CRUX · ESSENCE · HEART · SUBSTANCE",
+  "note": "CRUX, ESSENCE, HEART and SUBSTANCE are all CORES",
+  "clues": [
+    {
+      "answer": "CRUX",
+      "device": "Charade",
+      "parts": [
+        [
+          "Puzzle",
+          "def"
+        ],
+        [
+          " presented by roof supports, we hear",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Puzzle'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ESSENCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Vital part",
+          "def"
+        ],
+        [
+          " of German city church",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Vital part'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HEART",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Middle",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "card",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: middle, and card."
+    },
+    {
+      "answer": "SUBSTANCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Replacement policy and ",
+          "ind"
+        ],
+        [
+          "stuff",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'stuff'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

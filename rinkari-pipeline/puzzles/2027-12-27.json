@@ -1,0 +1,90 @@
+{
+  "number": 545,
+  "date": "2027-12-27",
+  "link": "EXPERIENCE",
+  "link_type": "category",
+  "compounds": "BACKGROUND · HISTORY · LIFE · PAST",
+  "note": "BACKGROUND, HISTORY, LIFE and PAST are all EXPERIENCES",
+  "clues": [
+    {
+      "answer": "BACKGROUND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Rock band’s performance includes both good and acceptable ",
+          "ind"
+        ],
+        [
+          "kind of music",
+          "def"
+        ],
+        [
+          " (10)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'kind of music'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HISTORY",
+      "device": "Charade",
+      "parts": [
+        [
+          "The man’s Conservative ",
+          "ind"
+        ],
+        [
+          "past",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'past'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LIFE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Very long sentence",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "biography",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: very long sentence, and biography."
+    },
+    {
+      "answer": "PAST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Rather glib about Society in ",
+          "ind"
+        ],
+        [
+          "historical times",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'historical times'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

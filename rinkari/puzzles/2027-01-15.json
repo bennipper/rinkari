@@ -1,0 +1,90 @@
+{
+  "number": 199,
+  "date": "2027-01-15",
+  "link": "ALLOTMENT",
+  "compounds": "INTEREST · PERCENTAGE · SHARE · STAKE",
+  "note": "INTEREST, PERCENTAGE, SHARE and STAKE are all ALLOTMENTS",
+  "clues": [
+    {
+      "answer": "INTEREST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Money to be made",
+          "def"
+        ],
+        [
+          " in half-term holiday",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Money to be made'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PERCENTAGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "For instance, at exhibition centre, salesperson returned ",
+          "ind"
+        ],
+        [
+          "profit",
+          "def"
+        ],
+        [
+          " (10)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'profit'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHARE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Move fast chasing second ",
+          "ind"
+        ],
+        [
+          "allocation",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'allocation'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STAKE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Interest",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "post",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: interest, and post."
+    }
+  ],
+  "linkType": "category"
+}

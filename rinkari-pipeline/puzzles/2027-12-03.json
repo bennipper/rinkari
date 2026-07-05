@@ -1,0 +1,94 @@
+{
+  "number": 521,
+  "date": "2027-12-03",
+  "link": "BENCHMARK",
+  "link_type": "category",
+  "compounds": "BAR · EXAMPLE · METRIC · STANDARD",
+  "note": "BAR, EXAMPLE, METRIC and STANDARD are all BENCHMARKS",
+  "clues": [
+    {
+      "answer": "BAR",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Place selling drinks",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "Prohibition",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: place selling drinks, and prohibition."
+    },
+    {
+      "answer": "EXAMPLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Instance",
+          "def"
+        ],
+        [
+          " of former politician overwhelmed by drink",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Instance'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "METRIC",
+      "device": "Charade",
+      "parts": [
+        [
+          "Following decimal system",
+          "def"
+        ],
+        [
+          " satisfied monarch in charge",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Following decimal system'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STANDARD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Stock",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "colours",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: stock, and colours."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "number": 89,
+  "date": "2026-09-27",
+  "link": "HUDSONS",
+  "link_type": "category",
+  "compounds": "HENRY · JENNIFER · KATE · ROCK",
+  "note": "HENRY, JENNIFER, KATE and ROCK are all HUDSONS",
+  "clues": [
+    {
+      "answer": "HENRY",
+      "device": "Charade",
+      "parts": [
+        [
+          "One laying track for ",
+          "ind"
+        ],
+        [
+          "a green engine",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a green engine'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "JENNIFER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Some mocking hosts repelled European ",
+          "ind"
+        ],
+        [
+          "girl",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'girl'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "KATE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Lass",
+          "def"
+        ],
+        [
+          " finishes off black tea: not nice",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Lass'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ROCK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Reliable type",
+          "def"
+        ],
+        [
+          " of ",
+          ""
+        ],
+        [
+          "souvenir from Blackpool?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: reliable type, and souvenir from blackpool."
+    }
+  ]
+}

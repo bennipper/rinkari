@@ -1,0 +1,90 @@
+{
+  "number": 244,
+  "date": "2027-03-01",
+  "link": "FINGERS",
+  "link_type": "category",
+  "compounds": "LITTLE · MIDDLE · POINTER · RING",
+  "note": "LITTLE, MIDDLE, POINTER and RING are all FINGERS",
+  "clues": [
+    {
+      "answer": "LITTLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Small",
+          "def"
+        ],
+        [
+          " untruth about teetotal Liberal",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Small'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MIDDLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Intermediate",
+          "def"
+        ],
+        [
+          " puzzle with intro replaced",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Intermediate'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POINTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Playwright Harold kennels old ",
+          "ind"
+        ],
+        [
+          "dog",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'dog'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RING",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Phone",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "band",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: phone, and band."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "number": 37,
+  "date": "2026-08-06",
+  "link": "NFL",
+  "compounds": "BEAR · BILL · BROWN · COMMANDER",
+  "note": "BEAR, BILL, BROWN and COMMANDER are all NFL players",
+  "clues": [
+    {
+      "answer": "BEAR",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Tolerate",
+          "def"
+        ],
+        [
+          " a ",
+          ""
+        ],
+        [
+          "beast",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: tolerate, and beast."
+    },
+    {
+      "answer": "BILL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bachelor unwell, finding ",
+          "ind"
+        ],
+        [
+          "invoice",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'invoice'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BROWN",
+      "device": "Charade",
+      "parts": [
+        [
+          "With starter portions of breakfast, have ",
+          "ind"
+        ],
+        [
+          "toast",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'toast'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "COMMANDER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Someone who arrives holding mike, with ",
+          "ind"
+        ],
+        [
+          "officer in charge?",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'officer in charge'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

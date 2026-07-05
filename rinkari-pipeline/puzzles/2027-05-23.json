@@ -1,0 +1,90 @@
+{
+  "number": 327,
+  "date": "2027-05-23",
+  "link": "WOO",
+  "link_type": "category",
+  "compounds": "CHARM · COURT · PURSUE · ROMANCE",
+  "note": "CHARM, COURT, PURSUE and ROMANCE are all WOOS",
+  "clues": [
+    {
+      "answer": "CHARM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Appeal",
+          "def"
+        ],
+        [
+          " made by church member",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Appeal'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "COURT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "What solicitors do",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "place of trials?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: what solicitors do, and place of trials."
+    },
+    {
+      "answer": "PURSUE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Follow",
+          "def"
+        ],
+        [
+          " United, again in the money for winning",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Follow'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ROMANCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Churches in schism in ",
+          "ind"
+        ],
+        [
+          "medieval narrative?",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'medieval narrative?'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

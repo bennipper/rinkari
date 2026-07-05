@@ -1,0 +1,86 @@
+{
+  "number": 541,
+  "date": "2027-12-23",
+  "link": "METHOD",
+  "compounds": "APPROACH · MANNER · STYLE · WAY",
+  "note": "APPROACH, MANNER, STYLE and WAY are all METHODS",
+  "clues": [
+    {
+      "answer": "APPROACH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Near",
+          "def"
+        ],
+        [
+          " a very quiet fish",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Near'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MANNER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fashion",
+          "def"
+        ],
+        [
+          " house, we hear?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Fashion'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STYLE",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "It bears a stigma",
+          "def"
+        ],
+        [
+          ", part of nasty lesion",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'It bears a stigma'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "WAY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Route",
+          "def"
+        ],
+        [
+          " ends in New Guinea possibly",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Route'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

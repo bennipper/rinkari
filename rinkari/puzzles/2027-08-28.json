@@ -1,0 +1,90 @@
+{
+  "number": 424,
+  "date": "2027-08-28",
+  "link": "ERA",
+  "compounds": "AGE · DAY · PERIOD · TIME",
+  "note": "AGE, DAY, PERIOD and TIME are all ERAS",
+  "clues": [
+    {
+      "answer": "AGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "What begins as ",
+          "ind"
+        ],
+        [
+          "getting elderly?",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'getting elderly'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DAY",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Period of time",
+          "def"
+        ],
+        [
+          " in Chad, a year",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Period of time'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "PERIOD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Part of school day",
+          "def"
+        ],
+        [
+          " — ",
+          ""
+        ],
+        [
+          "full stop!",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: part of school day, and full stop."
+    },
+    {
+      "answer": "TIME",
+      "device": "Charade",
+      "parts": [
+        [
+          "Period",
+          "def"
+        ],
+        [
+          " when discharge comes up",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Period'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

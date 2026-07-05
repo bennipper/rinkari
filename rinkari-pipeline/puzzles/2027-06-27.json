@@ -1,0 +1,86 @@
+{
+  "number": 362,
+  "date": "2027-06-27",
+  "link": "PARTIALITY",
+  "link_type": "category",
+  "compounds": "ANGLE · BIAS · SLANT · SPIN",
+  "note": "ANGLE, BIAS, SLANT and SPIN are all PARTIALITIES",
+  "clues": [
+    {
+      "answer": "ANGLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Standpoint",
+          "def"
+        ],
+        [
+          " that is often right",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Standpoint'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BIAS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Prejudice",
+          "def"
+        ],
+        [
+          " from another time restricting author initially",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Prejudice'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SLANT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Corbyn’s end in last catastrophic ",
+          "ind"
+        ],
+        [
+          "dip",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'dip'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Wheel",
+          "def"
+        ],
+        [
+          " to fix on Sierra",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Wheel'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

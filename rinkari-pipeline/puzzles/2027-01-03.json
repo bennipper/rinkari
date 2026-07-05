@@ -1,0 +1,90 @@
+{
+  "number": 187,
+  "date": "2027-01-03",
+  "link": "PALINDROMES",
+  "link_type": "category",
+  "compounds": "BIB · EYE · GAG · POP",
+  "note": "BIB, EYE, GAG and POP are all PALINDROMES",
+  "clues": [
+    {
+      "answer": "BIB",
+      "device": "Charade",
+      "parts": [
+        [
+          "One catching dinner",
+          "def"
+        ],
+        [
+          " running this way and that?",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'One catching dinner'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EYE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Odd pieces removed from very new ",
+          "ind"
+        ],
+        [
+          "organ",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'organ'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GAG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Joke",
+          "def"
+        ],
+        [
+          " that may backfire just the same?",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Joke'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POP",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Dad",
+          "def"
+        ],
+        [
+          "’s ",
+          ""
+        ],
+        [
+          "sort of music?",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: dad, and sort of music."
+    }
+  ]
+}

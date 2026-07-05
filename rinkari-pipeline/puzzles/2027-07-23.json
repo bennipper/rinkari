@@ -1,0 +1,94 @@
+{
+  "number": 388,
+  "date": "2027-07-23",
+  "link": "AUSTERE",
+  "link_type": "category",
+  "compounds": "BARE · PLAIN · SIMPLE · SPARE",
+  "note": "BARE, PLAIN, SIMPLE and SPARE are all AUSTERES",
+  "clues": [
+    {
+      "answer": "BARE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Expose",
+          "def"
+        ],
+        [
+          " stomach, reportedly",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Expose'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PLAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sound of aircraft that’s ",
+          "ind"
+        ],
+        [
+          "quite visible",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'quite visible'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SIMPLE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Like Simon",
+          "def"
+        ],
+        [
+          " or ",
+          ""
+        ],
+        [
+          "Herb",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: like simon, and herb."
+    },
+    {
+      "answer": "SPARE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Extra",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "frugal",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: extra, and frugal."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "number": 345,
+  "date": "2027-06-10",
+  "link": "CONSERVE",
+  "link_type": "category",
+  "compounds": "KEEP · PRESERVE · SAVE · STORE",
+  "note": "KEEP, PRESERVE, SAVE and STORE are all CONSERVES",
+  "clues": [
+    {
+      "answer": "KEEP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pay due regard to",
+          "def"
+        ],
+        [
+          " board",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Pay due regard to'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PRESERVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Keep",
+          "def"
+        ],
+        [
+          " page at front of book",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Keep'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SAVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Deal with five o'clock shadow? Not hard for ",
+          "ind"
+        ],
+        [
+          "husband",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'husband'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STORE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Upset about time in ",
+          "ind"
+        ],
+        [
+          "shop",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'shop'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

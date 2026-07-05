@@ -1,0 +1,86 @@
+{
+  "number": 55,
+  "date": "2026-08-24",
+  "link": "WOODWINDS",
+  "compounds": "BASSOON · CLARINET · FLUTE · OBOE",
+  "note": "BASSOON, CLARINET, FLUTE and OBOE are all WOODWINDS",
+  "clues": [
+    {
+      "answer": "BASSOON",
+      "device": "Charade",
+      "parts": [
+        [
+          "Instrument",
+          "def"
+        ],
+        [
+          " produced by graduates thus performing",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Instrument'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CLARINET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Wine to carry in for ",
+          "ind"
+        ],
+        [
+          "a member of the orchestra",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a member of the orchestra'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FLUTE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Instrument",
+          "def"
+        ],
+        [
+          " that’s made of glass",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Instrument'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "OBOE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Order parts for old ",
+          "ind"
+        ],
+        [
+          "instrument",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'instrument'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

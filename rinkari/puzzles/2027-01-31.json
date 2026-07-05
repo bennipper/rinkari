@@ -1,0 +1,86 @@
+{
+  "number": 215,
+  "date": "2027-01-31",
+  "link": "ANAGRAMS",
+  "compounds": "EVIL · LIVE · VEIL · VILE",
+  "note": "EVIL, LIVE, VEIL and VILE are all ANAGRAMS",
+  "clues": [
+    {
+      "answer": "EVIL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Wickedness",
+          "def"
+        ],
+        [
+          " not recorded after revolution",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Wickedness'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LIVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Recant sin ",
+          "ind"
+        ],
+        [
+          "in front of audience",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'in front of audience'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "VEIL",
+      "device": "Charade",
+      "parts": [
+        [
+          "This conceals",
+          "def"
+        ],
+        [
+          " sound from valley",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'This conceals'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "VILE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Base",
+          "def"
+        ],
+        [
+          " in small community from which convict’s escaped",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Base'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

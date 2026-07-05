@@ -1,0 +1,86 @@
+{
+  "number": 108,
+  "date": "2026-10-16",
+  "link": "ACRONYMS",
+  "link_type": "category",
+  "compounds": "LASER · RADAR · SCUBA · SPAM",
+  "note": "LASER, RADAR, SCUBA and SPAM are all ACRONYMS",
+  "clues": [
+    {
+      "answer": "LASER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Large ears reshaped in ",
+          "ind"
+        ],
+        [
+          "surgical beam",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'surgical beam'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RADAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Actors relieved initially, ",
+          "ind"
+        ],
+        [
+          "finding system",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'finding system'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCUBA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Diving apparatus",
+          "def"
+        ],
+        [
+          " son got on Caribbean island",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Diving apparatus'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPAM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Junk",
+          "def"
+        ],
+        [
+          " plans to head west",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Junk'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

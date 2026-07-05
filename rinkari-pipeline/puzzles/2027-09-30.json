@@ -1,0 +1,90 @@
+{
+  "number": 457,
+  "date": "2027-09-30",
+  "link": "AVAILABLE",
+  "link_type": "category",
+  "compounds": "FREE · SINGLE · SOLO · STAG",
+  "note": "FREE, SINGLE, SOLO and STAG are all AVAILABLES",
+  "clues": [
+    {
+      "answer": "FREE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Release",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "without charge",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: release, and without charge."
+    },
+    {
+      "answer": "SINGLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Carol wants love first and last, being ",
+          "ind"
+        ],
+        [
+          "unattached",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'unattached'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SOLO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Performance",
+          "def"
+        ],
+        [
+          " in Oslo slammed",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Performance'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STAG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cut theatre ",
+          "ind"
+        ],
+        [
+          "for men only",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'for men only'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

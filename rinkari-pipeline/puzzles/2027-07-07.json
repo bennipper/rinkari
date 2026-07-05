@@ -1,0 +1,98 @@
+{
+  "number": 372,
+  "date": "2027-07-07",
+  "link": "ILK",
+  "link_type": "category",
+  "compounds": "KIND · LIKE · SORT · TYPE",
+  "note": "KIND, LIKE, SORT and TYPE are all ILKS",
+  "clues": [
+    {
+      "answer": "KIND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Nice",
+          "def"
+        ],
+        [
+          " day with family members",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Nice'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LIKE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Enjoy",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "corresponding",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: enjoy, and corresponding."
+    },
+    {
+      "answer": "SORT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Put in order",
+          "def"
+        ],
+        [
+          "? That’s ",
+          ""
+        ],
+        [
+          "kind!",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: put in order, and kind."
+    },
+    {
+      "answer": "TYPE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Class",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "write using keyboard",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: class, and write using keyboard."
+    }
+  ]
+}

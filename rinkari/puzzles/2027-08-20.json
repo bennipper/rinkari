@@ -1,0 +1,98 @@
+{
+  "number": 416,
+  "date": "2027-08-20",
+  "link": "DAPPER",
+  "compounds": "NEAT · SHARP · SMART · TIDY",
+  "note": "NEAT, SHARP, SMART and TIDY are all DAPPERS",
+  "clues": [
+    {
+      "answer": "NEAT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Cattle",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "without water",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: cattle, and without water."
+    },
+    {
+      "answer": "SHARP",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Quick-witted",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "character on the staff",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: quick-witted, and character on the staff."
+    },
+    {
+      "answer": "SMART",
+      "device": "Charade",
+      "parts": [
+        [
+          "Well-kept",
+          "def"
+        ],
+        [
+          " small trading centre",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Well-kept'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TIDY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Large",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "receptacle for odds and ends",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: large, and receptacle for odds and ends."
+    }
+  ],
+  "linkType": "category"
+}

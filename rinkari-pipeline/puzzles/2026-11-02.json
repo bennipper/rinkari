@@ -1,0 +1,86 @@
+{
+  "number": 125,
+  "date": "2026-11-02",
+  "link": "BALDERDASH",
+  "link_type": "category",
+  "compounds": "BULL · HOGWASH · NONSENSE · ROT",
+  "note": "BULL, HOGWASH, NONSENSE and ROT are all BALDERDASHS",
+  "clues": [
+    {
+      "answer": "BULL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Back off cow or ",
+          "ind"
+        ],
+        [
+          "its mate",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'its mate'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HOGWASH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Young sheep used to be hardy at first? ",
+          "ind"
+        ],
+        [
+          "Nonsense",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Nonsense'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "NONSENSE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bunk",
+          "def"
+        ],
+        [
+          ", not a single one, in which briefly to dispatch son",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bunk'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ROT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Rocky outcrop stuck up? ",
+          "ind"
+        ],
+        [
+          "Nonsense!",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Nonsense!'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

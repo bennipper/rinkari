@@ -1,0 +1,86 @@
+{
+  "number": 591,
+  "date": "2028-02-11",
+  "link": "ESPRIT",
+  "compounds": "GUSTO · PANACHE · VERVE · VINEGAR",
+  "note": "GUSTO, PANACHE, VERVE and VINEGAR are all ESPRITS",
+  "clues": [
+    {
+      "answer": "GUSTO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Travel round America, having time and ",
+          "ind"
+        ],
+        [
+          "energy",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'energy'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PANACHE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Criticise a revolutionary's ",
+          "ind"
+        ],
+        [
+          "swagger",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'swagger'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "VERVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Animation",
+          "def"
+        ],
+        [
+          " shown where monkey loses tail",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Animation'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "VINEGAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Source of grapes, fish and ",
+          "ind"
+        ],
+        [
+          "sour-tasting liquid",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'sour-tasting liquid'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

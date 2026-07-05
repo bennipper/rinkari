@@ -1,0 +1,94 @@
+{
+  "number": 448,
+  "date": "2027-09-21",
+  "link": "SPLENDID",
+  "compounds": "BRILLIANT · CAPITAL · FINE · GRAND",
+  "note": "BRILLIANT, CAPITAL, FINE and GRAND are all SPLENDIDS",
+  "clues": [
+    {
+      "answer": "BRILLIANT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Brainy",
+          "def"
+        ],
+        [
+          " chap with temperature, sick internally",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Brainy'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CAPITAL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Super",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "money",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: super, and money."
+    },
+    {
+      "answer": "FINE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Acceptable",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "penalty",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: acceptable, and penalty."
+    },
+    {
+      "answer": "GRAND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Thousand pounds",
+          "def"
+        ],
+        [
+          " in good currency",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Thousand pounds'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 48,
+  "date": "2026-08-17",
+  "link": "EUROPE",
+  "link_type": "category",
+  "compounds": "DENMARK · GREECE · POLAND · PORTUGAL",
+  "note": "DENMARK, GREECE, POLAND and PORTUGAL are all EUROPEAN countries",
+  "clues": [
+    {
+      "answer": "DENMARK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Country",
+          "def"
+        ],
+        [
+          " retreat, note",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Country'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GREECE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Country",
+          "def"
+        ],
+        [
+          " match starting late by church",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Country'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POLAND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Italian river joins lake with ",
+          "ind"
+        ],
+        [
+          "country",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'country'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PORTUGAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Nation",
+          "def"
+        ],
+        [
+          " left by reformation of Gaul",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Nation'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "number": 522,
+  "date": "2027-12-04",
+  "link": "SPOOL",
+  "link_type": "category",
+  "compounds": "COIL · CRANK · REEL · WIND",
+  "note": "COIL, CRANK, REEL and WIND are all SPOOLS",
+  "clues": [
+    {
+      "answer": "COIL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Around middle of recital, pass ",
+          "ind"
+        ],
+        [
+          "wind",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'wind'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CRANK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Start with handle",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "possible conspiracy theorist",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: start with handle, and possible conspiracy theorist."
+    },
+    {
+      "answer": "REEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Perth perv returned to ",
+          "ind"
+        ],
+        [
+          "dance",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'dance'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WIND",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Behave like a twister",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "a gale",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: behave like a twister, and a gale."
+    }
+  ]
+}

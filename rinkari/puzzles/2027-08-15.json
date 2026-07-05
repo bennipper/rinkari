@@ -1,0 +1,86 @@
+{
+  "number": 411,
+  "date": "2027-08-15",
+  "link": "GODDESS",
+  "compounds": "DIVA · ICON · LEGEND · QUEEN",
+  "note": "DIVA, ICON, LEGEND and QUEEN are all GODDESS",
+  "clues": [
+    {
+      "answer": "DIVA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Singer",
+          "def"
+        ],
+        [
+          " keen to make a comeback",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Singer'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ICON",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Sacred image",
+          "def"
+        ],
+        [
+          " — basic one, to some extent",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Sacred image'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "LEGEND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Aim to follow member’s ",
+          "ind"
+        ],
+        [
+          "story",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'story'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "QUEEN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Piece",
+          "def"
+        ],
+        [
+          ", central to, or on the far side of, banner",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Piece'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,90 @@
+{
+  "number": 552,
+  "date": "2028-01-03",
+  "link": "CITIES",
+  "link_type": "category",
+  "compounds": "LIMA · NICE · OSAKA · PHOENIX",
+  "note": "LIMA, NICE, OSAKA and PHOENIX are all CITIES",
+  "clues": [
+    {
+      "answer": "LIMA",
+      "device": "Charade",
+      "parts": [
+        [
+          "City",
+          "def"
+        ],
+        [
+          " just to the west of delta in ricefields",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'City'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "NICE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Delightful",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "place in the South of France",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: delightful, and place in the south of france."
+    },
+    {
+      "answer": "OSAKA",
+      "device": "Charade",
+      "parts": [
+        [
+          "City",
+          "def"
+        ],
+        [
+          " lack passion going forward, oddly? The very opposite",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'City'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PHOENIX",
+      "device": "Charade",
+      "parts": [
+        [
+          "Hope to organise veto for ",
+          "ind"
+        ],
+        [
+          "US city",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'US city'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

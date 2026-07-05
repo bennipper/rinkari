@@ -1,0 +1,86 @@
+{
+  "number": 426,
+  "date": "2027-08-30",
+  "link": "BLUE",
+  "compounds": "BABY · ICE · POWDER · SKY",
+  "note": "BABY, ICE, POWDER and SKY are all shades of BLUE",
+  "clues": [
+    {
+      "answer": "BABY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Very young child",
+          "def"
+        ],
+        [
+          " born in creek",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Very young child'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ICE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cooler",
+          "def"
+        ],
+        [
+          " that is cold inside",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cooler'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POWDER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Authority to keep daughter’s ",
+          "ind"
+        ],
+        [
+          "cosmetic",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'cosmetic'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SKY",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Heavens",
+          "def"
+        ],
+        [
+          ", that’s risky, losing leading pair!",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Heavens'; the answer is concealed in the surrounding wordplay."
+    }
+  ],
+  "linkType": "category"
+}

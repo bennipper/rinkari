@@ -1,0 +1,90 @@
+{
+  "number": 435,
+  "date": "2027-09-08",
+  "link": "APTITUDE",
+  "link_type": "category",
+  "compounds": "BENT · FACULTY · FLAIR · GIFT",
+  "note": "BENT, FACULTY, FLAIR and GIFT are all APTITUDES",
+  "clues": [
+    {
+      "answer": "BENT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Inclination",
+          "def"
+        ],
+        [
+          " to be ",
+          ""
+        ],
+        [
+          "crooked",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: inclination, and crooked."
+    },
+    {
+      "answer": "FACULTY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Memory possibly",
+          "def"
+        ],
+        [
+          " defective, Charlie admitted",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Memory possibly'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FLAIR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dash",
+          "def"
+        ],
+        [
+          " in radioed distress signal?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Dash'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GIFT",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Present",
+          "def"
+        ],
+        [
+          " in meeting, if tired",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Present'; the answer is concealed in the surrounding wordplay."
+    }
+  ]
+}

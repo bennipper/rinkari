@@ -1,0 +1,90 @@
+{
+  "number": 102,
+  "date": "2026-10-10",
+  "link": "TOOLS",
+  "link_type": "category",
+  "compounds": "FILE · HAMMER · LEVEL · SAW",
+  "note": "FILE, HAMMER, LEVEL and SAW are all TOOLS",
+  "clues": [
+    {
+      "answer": "FILE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Something woodworker can hold",
+          "def"
+        ],
+        [
+          ": ",
+          ""
+        ],
+        [
+          "not rank?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: something woodworker can hold, and not rank?."
+    },
+    {
+      "answer": "HAMMER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Slate",
+          "def"
+        ],
+        [
+          " someone acting ineptly?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Slate'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LEVEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "The French versus the Spanish, ",
+          "ind"
+        ],
+        [
+          "with neither side leading?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'with neither side leading'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SAW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Gnome",
+          "def"
+        ],
+        [
+          " used to be upside down",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Gnome'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

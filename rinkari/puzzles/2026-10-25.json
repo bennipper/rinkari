@@ -1,0 +1,94 @@
+{
+  "number": 117,
+  "date": "2026-10-25",
+  "link": "IGNITE",
+  "compounds": "BURN · KINDLE · LIGHT · TORCH",
+  "note": "BURN, KINDLE, LIGHT and TORCH are all IGNITES",
+  "clues": [
+    {
+      "answer": "BURN",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Feel very hot",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "running water?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: feel very hot, and running water?."
+    },
+    {
+      "answer": "KINDLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Arouse",
+          "def"
+        ],
+        [
+          " class with article in French",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Arouse'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LIGHT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Amusing",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "free gift from The Sun",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: amusing, and free gift from the sun."
+    },
+    {
+      "answer": "TORCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Light",
+          "def"
+        ],
+        [
+          " Muscat or Chablis bottles",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Light'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

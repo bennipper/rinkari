@@ -1,0 +1,90 @@
+{
+  "number": 196,
+  "date": "2027-01-12",
+  "link": "BREADTH",
+  "compounds": "EXTENT · RANGE · REACH · SCOPE",
+  "note": "EXTENT, RANGE, REACH and SCOPE are all BREADTHS",
+  "clues": [
+    {
+      "answer": "EXTENT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Size",
+          "def"
+        ],
+        [
+          " of old canvas shelter",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Size'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RANGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Collection of products",
+          "def"
+        ],
+        [
+          " chimed with English",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Collection of products'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "REACH",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Arrive at",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "stretch of river",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: arrive at, and stretch of river."
+    },
+    {
+      "answer": "SCOPE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Son to manage ",
+          "ind"
+        ],
+        [
+          "range",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'range'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

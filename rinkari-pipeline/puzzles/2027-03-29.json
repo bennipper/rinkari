@@ -1,0 +1,86 @@
+{
+  "number": 272,
+  "date": "2027-03-29",
+  "link": "PRESUME",
+  "link_type": "category",
+  "compounds": "FIGURE · IMAGINE · SUSPECT · THINK",
+  "note": "FIGURE, IMAGINE, SUSPECT and THINK are all PRESUMES",
+  "clues": [
+    {
+      "answer": "FIGURE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Illustration",
+          "def"
+        ],
+        [
+          " of tree overlooking northern river",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Illustration'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "IMAGINE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Envisage",
+          "def"
+        ],
+        [
+          " instruments originally employed in Enigma variation",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Envisage'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SUSPECT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dodgy",
+          "def"
+        ],
+        [
+          " American pastor's leader in religious group",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Dodgy'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "THINK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Feeble king ",
+          "ind"
+        ],
+        [
+          "to use his brain",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'to use his brain'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

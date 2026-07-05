@@ -1,0 +1,86 @@
+{
+  "number": 128,
+  "date": "2026-11-05",
+  "link": "VENERABLE",
+  "compounds": "AUGUST · GRAND · NOBLE · REGAL",
+  "note": "AUGUST, GRAND, NOBLE and REGAL are all VENERABLES",
+  "clues": [
+    {
+      "answer": "AUGUST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Imposing",
+          "def"
+        ],
+        [
+          " jiujitsu – guards to mount displays",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Imposing'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GRAND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Finally obtaining foreign currency is ",
+          "ind"
+        ],
+        [
+          "splendid",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'splendid'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "NOBLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Peer",
+          "def"
+        ],
+        [
+          " shows no belief, oddly",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Peer'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "REGAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Majestic",
+          "def"
+        ],
+        [
+          " new composition of Elgar",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Majestic'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

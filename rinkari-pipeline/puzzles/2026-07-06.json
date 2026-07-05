@@ -1,0 +1,90 @@
+{
+  "number": 6,
+  "date": "2026-07-06",
+  "link": "WEATHER",
+  "link_type": "category",
+  "compounds": "HAIL · RAIN · SLEET · SNOW",
+  "note": "HAIL, RAIN, SLEET and SNOW are all types of WET WEATHER",
+  "clues": [
+    {
+      "answer": "HAIL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Icy shower",
+          "def"
+        ],
+        [
+          " is ",
+          ""
+        ],
+        [
+          "welcome",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: icy shower, and welcome."
+    },
+    {
+      "answer": "RAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Reportedly, be in power ",
+          "ind"
+        ],
+        [
+          "shower",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'shower'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SLEET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Form of precipitation",
+          "def"
+        ],
+        [
+          " making sesame plants shoot up",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Form of precipitation'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SNOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Precipitation",
+          "def"
+        ],
+        [
+          " small, at the moment",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Precipitation'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

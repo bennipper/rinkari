@@ -1,0 +1,94 @@
+{
+  "number": 520,
+  "date": "2027-12-02",
+  "link": "WRITE",
+  "compounds": "JOT · LOG · NOTE · RECORD",
+  "note": "JOT, LOG, NOTE and RECORD are all WRITES",
+  "clues": [
+    {
+      "answer": "JOT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Judge turned to ",
+          "ind"
+        ],
+        [
+          "note",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'note'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LOG",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Record",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "mathematical operation",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: record, and mathematical operation."
+    },
+    {
+      "answer": "NOTE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mark",
+          "def"
+        ],
+        [
+          " in college raised",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Mark'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RECORD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Best ever",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "album chart entry",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: best ever, and album chart entry."
+    }
+  ],
+  "linkType": "category"
+}

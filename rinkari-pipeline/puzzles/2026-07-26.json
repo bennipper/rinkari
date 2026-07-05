@@ -1,0 +1,90 @@
+{
+  "number": 26,
+  "date": "2026-07-26",
+  "link": "GROUP",
+  "link_type": "category",
+  "compounds": "FLOCK · PACK · POD · SCHOOL",
+  "note": "FLOCK, PACK, POD and SCHOOL are all ANIMAL GROUP names",
+  "clues": [
+    {
+      "answer": "FLOCK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fine hair and ",
+          "ind"
+        ],
+        [
+          "waste wool",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'waste wool'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PACK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Put lots of people on ",
+          "ind"
+        ],
+        [
+          "deck",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'deck'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POD",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Shell",
+          "def"
+        ],
+        [
+          " in Aleppo detonates",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Shell'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "SCHOOL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Train",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "group of dolphins",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: train, and group of dolphins."
+    }
+  ]
+}

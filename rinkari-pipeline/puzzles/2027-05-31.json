@@ -1,0 +1,86 @@
+{
+  "number": 335,
+  "date": "2027-05-31",
+  "link": "BARB",
+  "link_type": "category",
+  "compounds": "SPINE · SPUR · STICKER · THORN",
+  "note": "SPINE, SPUR, STICKER and THORN are all BARBS",
+  "clues": [
+    {
+      "answer": "SPINE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Leaders of strong parties, if necessary, exhibit ",
+          "ind"
+        ],
+        [
+          "backbone",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'backbone'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPUR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stimulus",
+          "def"
+        ],
+        [
+          " almost certain to overcome pressure",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Stimulus'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STICKER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Label",
+          "def"
+        ],
+        [
+          " from opening of stopwatch?",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Label'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "THORN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tree",
+          "def"
+        ],
+        [
+          " thriving initially on S American cape",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Tree'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

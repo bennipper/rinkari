@@ -1,0 +1,54 @@
+{
+  "number": 5,
+  "date": "2026-07-05",
+  "link": "TRIG",
+  "link_type": "category",
+  "compounds": "COT · SEC · SIN · TAN",
+  "note": "Each answer is clued on an everyday sense — the trig-function link only surfaces once all four are solved.",
+  "clues": [
+    {
+      "answer": "COT",
+      "device": "Double definition",
+      "parts": [
+        ["Nursery item", "def"],
+        ["’s ", ""],
+        ["function", "ind"],
+        [" (3)", ""]
+      ],
+      "parse": "Double definition: a baby's bed, and the trigonometric function (cotangent)."
+    },
+    {
+      "answer": "SEC",
+      "device": "Double definition",
+      "parts": [
+        ["Dry", "def"],
+        [" ", ""],
+        ["a very short time", "ind"],
+        [" (3)", ""]
+      ],
+      "parse": "Double definition: dry (as of wine), and a very short time."
+    },
+    {
+      "answer": "SIN",
+      "device": "Charade",
+      "parts": [
+        ["Evil", "def"],
+        [" ", ""],
+        ["is returning with nefarious leader", "ind"],
+        [" (3)", ""]
+      ],
+      "parse": "Charade: IS reversed (returning) gives SI, plus N (nefarious's leader) = SIN."
+    },
+    {
+      "answer": "TAN",
+      "device": "Double definition",
+      "parts": [
+        ["Brown", "def"],
+        [" ", ""],
+        ["belt", "ind"],
+        [" (3)", ""]
+      ],
+      "parse": "Double definition: to brown in the sun, and to belt/thrash someone."
+    }
+  ]
+}

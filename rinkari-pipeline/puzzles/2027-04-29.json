@@ -1,0 +1,86 @@
+{
+  "number": 303,
+  "date": "2027-04-29",
+  "link": "DISREGARD",
+  "link_type": "category",
+  "compounds": "DISCOUNT · FORGET · IGNORE · OVERLOOK",
+  "note": "DISCOUNT, FORGET, IGNORE and OVERLOOK are all DISREGARDS",
+  "clues": [
+    {
+      "answer": "DISCOUNT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Take off",
+          "def"
+        ],
+        [
+          " slight peer",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Take off'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FORGET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Overlook",
+          "def"
+        ],
+        [
+          " leading pair of generals in stronghold",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Overlook'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "IGNORE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pay no attention to",
+          "def"
+        ],
+        [
+          " region on travels",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Pay no attention to'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "OVERLOOK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fail to notice",
+          "def"
+        ],
+        [
+          " finished appearance",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Fail to notice'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "number": 336,
+  "date": "2027-06-01",
+  "link": "FUND",
+  "compounds": "KITTY · POOL · POT · PURSE",
+  "note": "KITTY, POOL, POT and PURSE are all FUNDS",
+  "clues": [
+    {
+      "answer": "KITTY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Mog",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "kept rhino?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: mog, and kept rhino?."
+    },
+    {
+      "answer": "POOL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mere ",
+          "ind"
+        ],
+        [
+          "share",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'share'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POT",
+      "device": "Charade",
+      "parts": [
+        [
+          "First to return this ",
+          "ind"
+        ],
+        [
+          "container",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'container'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PURSE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Contract",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "sporting prize",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: contract, and sporting prize."
+    }
+  ],
+  "linkType": "category"
+}

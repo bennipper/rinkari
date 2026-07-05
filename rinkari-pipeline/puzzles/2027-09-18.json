@@ -1,0 +1,90 @@
+{
+  "number": 445,
+  "date": "2027-09-18",
+  "link": "ABANDON",
+  "link_type": "category",
+  "compounds": "DESERT · DUMP · MAROON · STRAND",
+  "note": "DESERT, DUMP, MAROON and STRAND are all ABANDONS",
+  "clues": [
+    {
+      "answer": "DESERT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Walk out on",
+          "def"
+        ],
+        [
+          " expanse of land without water",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Walk out on'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DUMP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Chuck",
+          "def"
+        ],
+        [
+          " and Mike gate-crashing party in NI",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Chuck'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MAROON",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Desert",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "shade",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: desert, and shade."
+    },
+    {
+      "answer": "STRAND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Ply",
+          "def"
+        ],
+        [
+          " a street in London.",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Ply'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

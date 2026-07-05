@@ -1,0 +1,86 @@
+{
+  "number": 594,
+  "date": "2028-02-14",
+  "link": "DEMOLISH",
+  "link_type": "category",
+  "compounds": "GUT · LEVEL · TOTAL · TRASH",
+  "note": "GUT, LEVEL, TOTAL and TRASH are all DEMOLISHS",
+  "clues": [
+    {
+      "answer": "GUT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Turning over towing vessel in ",
+          "ind"
+        ],
+        [
+          "a narrow strait",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a narrow strait'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LEVEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "The French versus the Spanish, ",
+          "ind"
+        ],
+        [
+          "with neither side leading?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'with neither side leading'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TOTAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Complete",
+          "def"
+        ],
+        [
+          " stop as outsiders leave — speech unfinished",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Complete'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TRASH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Scraps",
+          "def"
+        ],
+        [
+          " expert conclusion? Unwise",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Scraps'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

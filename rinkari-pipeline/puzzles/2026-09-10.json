@@ -1,0 +1,94 @@
+{
+  "number": 72,
+  "date": "2026-09-10",
+  "link": "INSULT",
+  "link_type": "category",
+  "compounds": "BARB · DIG · DISS · JAB",
+  "note": "BARB, DIG, DISS and JAB are all INSULTS",
+  "clues": [
+    {
+      "answer": "BARB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pub bore at first provokes ",
+          "ind"
+        ],
+        [
+          "sharp comment",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'sharp comment'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DIG",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Like",
+          "def"
+        ],
+        [
+          " an ",
+          ""
+        ],
+        [
+          "archaeological excavation",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: like, and archaeological excavation."
+    },
+    {
+      "answer": "DISS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Speak impolitely about",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "Norfolk town",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: speak impolitely about, and norfolk town."
+    },
+    {
+      "answer": "JAB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sailor supporting Judge in ",
+          "ind"
+        ],
+        [
+          "critical comment",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'critical comment'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

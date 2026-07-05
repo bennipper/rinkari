@@ -1,0 +1,86 @@
+{
+  "number": 546,
+  "date": "2027-12-28",
+  "link": "BACKSTABBER",
+  "compounds": "JUDAS · SNAKE · TRAITOR · TURNCOAT",
+  "note": "JUDAS, SNAKE, TRAITOR and TURNCOAT are all BACKSTABBERS",
+  "clues": [
+    {
+      "answer": "JUDAS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Traitor",
+          "def"
+        ],
+        [
+          " not quite right to frame lawyer",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Traitor'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SNAKE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Meander",
+          "def"
+        ],
+        [
+          " in South with no clothes on cut short",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Meander'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TRAITOR",
+      "device": "Charade",
+      "parts": [
+        [
+          "One might betray",
+          "def"
+        ],
+        [
+          " characteristic worry, oddly overlooked",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'One might betray'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TURNCOAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Move round bed to corner a ",
+          "ind"
+        ],
+        [
+          "rat",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'rat'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 572,
+  "date": "2028-01-23",
+  "link": "BENEFACTOR",
+  "link_type": "category",
+  "compounds": "ANGEL · CHAMPION · PATRON · SPONSOR",
+  "note": "ANGEL, CHAMPION, PATRON and SPONSOR are all BENEFACTORS",
+  "clues": [
+    {
+      "answer": "ANGEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Kind woman",
+          "def"
+        ],
+        [
+          " in a Northern set",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Kind woman'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CHAMPION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Back",
+          "def"
+        ],
+        [
+          " from church with claim to devotion -- touching!",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Back'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PATRON",
+      "device": "Charade",
+      "parts": [
+        [
+          "Customer,",
+          "def"
+        ],
+        [
+          " old man, at marketplace",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Customer,'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPONSOR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Promoter",
+          "def"
+        ],
+        [
+          " of scent containing even pieces of anise",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Promoter'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

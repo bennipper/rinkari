@@ -1,0 +1,90 @@
+{
+  "number": 461,
+  "date": "2027-10-04",
+  "link": "BEHEMOTH",
+  "compounds": "COLOSSUS · MAMMOTH · WHALE · WHOPPER",
+  "note": "COLOSSUS, MAMMOTH, WHALE and WHOPPER are all BEHEMOTHS",
+  "clues": [
+    {
+      "answer": "COLOSSUS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Giant",
+          "def"
+        ],
+        [
+          " company supported by America admits defeat",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Giant'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MAMMOTH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Huge",
+          "def"
+        ],
+        [
+          " insect covers a small distance",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Huge'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WHALE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Thrash",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "one with large appetite",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: thrash, and one with large appetite."
+    },
+    {
+      "answer": "WHOPPER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Women's jumper is ",
+          "ind"
+        ],
+        [
+          "unusually large one",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'unusually large one'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

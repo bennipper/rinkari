@@ -1,0 +1,94 @@
+{
+  "number": 490,
+  "date": "2027-11-02",
+  "link": "BLACK",
+  "compounds": "INKY · JET · PITCH · RAVEN",
+  "note": "INKY, JET, PITCH and RAVEN are all BLACKS",
+  "clues": [
+    {
+      "answer": "INKY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Very dark",
+          "def"
+        ],
+        [
+          " in Kentucky",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Very dark'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "JET",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Mineral",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "stream",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: mineral, and stream."
+    },
+    {
+      "answer": "PITCH",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Playing area",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "perfect for some musicians",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: playing area, and perfect for some musicians."
+    },
+    {
+      "answer": "RAVEN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bird",
+          "def"
+        ],
+        [
+          " that’s black and yellow, not caught",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bird'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 400,
+  "date": "2027-08-04",
+  "link": "DISCONTINUE",
+  "link_type": "category",
+  "compounds": "DISSOLVE · END · SCRAP · SUNSET",
+  "note": "DISSOLVE, END, SCRAP and SUNSET are all DISCONTINUES",
+  "clues": [
+    {
+      "answer": "DISSOLVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sid’s love unfortunately is to ",
+          "ind"
+        ],
+        [
+          "disappear",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'disappear'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "END",
+      "device": "Charade",
+      "parts": [
+        [
+          "Objective",
+          "def"
+        ],
+        [
+          " conclusions from the prosecution heard",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Objective'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCRAP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Axe",
+          "def"
+        ],
+        [
+          " green areas of Paris to the north",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Axe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SUNSET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Lighter and firm ",
+          "ind"
+        ],
+        [
+          "dip at the end of the day?",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'dip at the end of the day'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

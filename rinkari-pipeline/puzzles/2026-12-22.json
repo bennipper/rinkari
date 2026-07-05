@@ -1,0 +1,86 @@
+{
+  "number": 175,
+  "date": "2026-12-22",
+  "link": "PROCESSION",
+  "link_type": "category",
+  "compounds": "CARAVAN · FLEET · PARADE · TRAIN",
+  "note": "CARAVAN, FLEET, PARADE and TRAIN are all PROCESSIONS",
+  "clues": [
+    {
+      "answer": "CARAVAN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Vehicle",
+          "def"
+        ],
+        [
+          " takes a run through county",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Vehicle'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FLEET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Navy",
+          "def"
+        ],
+        [
+          " left in bases",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Navy'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PARADE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Walk",
+          "def"
+        ],
+        [
+          " is departing from heavenly garden",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Walk'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TRAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Exercise",
+          "def"
+        ],
+        [
+          " time, then shower",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Exercise'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

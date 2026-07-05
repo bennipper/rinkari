@@ -1,0 +1,94 @@
+{
+  "number": 284,
+  "date": "2027-04-10",
+  "link": "RUMMAGE",
+  "link_type": "category",
+  "compounds": "COMB · DIG · ROOT · SIFT",
+  "note": "COMB, DIG, ROOT and SIFT are all RUMMAGES",
+  "clues": [
+    {
+      "answer": "COMB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tease",
+          "def"
+        ],
+        [
+          " company doctor",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Tease'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DIG",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Like",
+          "def"
+        ],
+        [
+          " an ",
+          ""
+        ],
+        [
+          "archaeological excavation",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: like, and archaeological excavation."
+    },
+    {
+      "answer": "ROOT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Shout for",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "grub",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: shout for, and grub."
+    },
+    {
+      "answer": "SIFT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sort",
+          "def"
+        ],
+        [
+          " of condition that’s set in stone",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Sort'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "number": 17,
+  "date": "2026-07-17",
+  "link": "TOILET",
+  "link_type": "category",
+  "compounds": "CAN · HEAD · JOHN · THRONE",
+  "note": "CAN, HEAD, JOHN and THRONE are all slang words for TOILET",
+  "clues": [
+    {
+      "answer": "CAN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stick, almost all, in ",
+          "ind"
+        ],
+        [
+          "tin",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'tin'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HEAD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Nut",
+          "def"
+        ],
+        [
+          " was obliged to protect kernel in general",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Nut'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "JOHN",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Book",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "an office",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: book, and an office."
+    },
+    {
+      "answer": "THRONE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Reportedly dislodged ",
+          "ind"
+        ],
+        [
+          "ceremonial seat",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'ceremonial seat'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

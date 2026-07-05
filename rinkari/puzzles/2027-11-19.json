@@ -1,0 +1,94 @@
+{
+  "number": 507,
+  "date": "2027-11-19",
+  "link": "CONFECTION",
+  "compounds": "CANDY · LOLLY · SUCKER · SWEET",
+  "note": "CANDY, LOLLY, SUCKER and SWEET are all CONFECTIONS",
+  "clues": [
+    {
+      "answer": "CANDY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sweets",
+          "def"
+        ],
+        [
+          " in tin daddy emptied",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Sweets'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LOLLY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Bread",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "stick goes into this",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: bread, and stick goes into this."
+    },
+    {
+      "answer": "SUCKER",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Shoot",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "a person too easily led",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: shoot, and a person too easily led."
+    },
+    {
+      "answer": "SWEET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Angelic",
+          "def"
+        ],
+        [
+          " group you and I will appear in",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Angelic'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

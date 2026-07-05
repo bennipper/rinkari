@@ -1,0 +1,86 @@
+{
+  "number": 542,
+  "date": "2027-12-24",
+  "link": "EXHIBITION",
+  "link_type": "category",
+  "compounds": "CONVENTION · EXPOSITION · FAIR · SHOW",
+  "note": "CONVENTION, EXPOSITION, FAIR and SHOW are all EXHIBITIONS",
+  "clues": [
+    {
+      "answer": "CONVENTION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Deceive with lie, but not in ",
+          "ind"
+        ],
+        [
+          "meeting",
+          "def"
+        ],
+        [
+          " (10)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'meeting'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EXPOSITION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Account",
+          "def"
+        ],
+        [
+          " for where something used to be",
+          "ind"
+        ],
+        [
+          " (10)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Account'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FAIR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Reasonable",
+          "def"
+        ],
+        [
+          " travel cost announced",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Reasonable'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Playwright that’s taken round for a ",
+          "ind"
+        ],
+        [
+          "staged production",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'staged production'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

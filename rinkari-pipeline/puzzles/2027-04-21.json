@@ -1,0 +1,90 @@
+{
+  "number": 295,
+  "date": "2027-04-21",
+  "link": "ESCAPADE",
+  "link_type": "category",
+  "compounds": "ANTIC · CAPER · EXPLOIT · STUNT",
+  "note": "ANTIC, CAPER, EXPLOIT and STUNT are all ESCAPADES",
+  "clues": [
+    {
+      "answer": "ANTIC",
+      "device": "Charade",
+      "parts": [
+        [
+          "A little mischief",
+          "def"
+        ],
+        [
+          "'s not for Charlie",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'A little mischief'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CAPER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Carbon copier for ",
+          "ind"
+        ],
+        [
+          "skip",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'skip'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EXPLOIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Lover once and I getting in bed? It's ",
+          "ind"
+        ],
+        [
+          "a bold act",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a bold act'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STUNT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Check development",
+          "def"
+        ],
+        [
+          " of ",
+          ""
+        ],
+        [
+          "attention-seeking exploit",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: check development, and attention-seeking exploit."
+    }
+  ]
+}

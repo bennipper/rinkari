@@ -1,0 +1,98 @@
+{
+  "number": 233,
+  "date": "2027-02-18",
+  "link": "TRANSFER",
+  "link_type": "category",
+  "compounds": "GIVE · HAND · PASS · SEND",
+  "note": "GIVE, HAND, PASS and SEND are all TRANSFERS",
+  "clues": [
+    {
+      "answer": "GIVE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Provide",
+          "def"
+        ],
+        [
+          " / ",
+          ""
+        ],
+        [
+          "flexibility",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: provide, and flexibility."
+    },
+    {
+      "answer": "HAND",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Worker",
+          "def"
+        ],
+        [
+          " making ",
+          ""
+        ],
+        [
+          "clock component",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: worker, and clock component."
+    },
+    {
+      "answer": "PASS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "To go by",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "hand",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: to go by, and hand."
+    },
+    {
+      "answer": "SEND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dispatch",
+          "def"
+        ],
+        [
+          " son before death",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Dispatch'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

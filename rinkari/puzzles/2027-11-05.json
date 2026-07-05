@@ -1,0 +1,90 @@
+{
+  "number": 493,
+  "date": "2027-11-05",
+  "link": "BREADTH",
+  "compounds": "EXTENT · RANGE · SCALE · SCOPE",
+  "note": "EXTENT, RANGE, SCALE and SCOPE are all BREADTHS",
+  "clues": [
+    {
+      "answer": "EXTENT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Size",
+          "def"
+        ],
+        [
+          " of old canvas shelter",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Size'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RANGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Collection of products",
+          "def"
+        ],
+        [
+          " chimed with English",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Collection of products'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCALE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Encrustation",
+          "def"
+        ],
+        [
+          " to ",
+          ""
+        ],
+        [
+          "mount",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: encrustation, and mount."
+    },
+    {
+      "answer": "SCOPE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Son to manage ",
+          "ind"
+        ],
+        [
+          "range",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'range'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 529,
+  "date": "2027-12-11",
+  "link": "PROMISE",
+  "link_type": "category",
+  "compounds": "AGREEMENT · COMPACT · HANDSHAKE · UNDERSTANDING",
+  "note": "AGREEMENT, COMPACT, HANDSHAKE and UNDERSTANDING are all PROMISES",
+  "clues": [
+    {
+      "answer": "AGREEMENT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Green team working in ",
+          "ind"
+        ],
+        [
+          "harmony",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'harmony'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "COMPACT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Firm",
+          "def"
+        ],
+        [
+          " is business without any piece of legislation",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Firm'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HANDSHAKE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Passes fish, making ",
+          "ind"
+        ],
+        [
+          "gesture of greeting",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'gesture of greeting'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "UNDERSTANDING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mutual agreement",
+          "def"
+        ],
+        [
+          " subject to status?",
+          "ind"
+        ],
+        [
+          " (13)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Mutual agreement'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "number": 531,
+  "date": "2027-12-13",
+  "link": "THROW",
+  "compounds": "CAST · HURL · PELT · SLING",
+  "note": "CAST, HURL, PELT and SLING are all THROWS",
+  "clues": [
+    {
+      "answer": "CAST",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Actors",
+          "def"
+        ],
+        [
+          " / ",
+          ""
+        ],
+        [
+          "thrown",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: actors, and thrown."
+    },
+    {
+      "answer": "HURL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Launch",
+          "def"
+        ],
+        [
+          " hotel address online",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Launch'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PELT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Run",
+          "def"
+        ],
+        [
+          " and ",
+          ""
+        ],
+        [
+          "hide",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: run, and hide."
+    },
+    {
+      "answer": "SLING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Toss",
+          "def"
+        ],
+        [
+          " first of seals fish",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Toss'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

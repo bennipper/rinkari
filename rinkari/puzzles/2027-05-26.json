@@ -1,0 +1,90 @@
+{
+  "number": 330,
+  "date": "2027-05-26",
+  "link": "OPERATING",
+  "compounds": "ACTIVE · FUNCTIONAL · RUNNING · WORKING",
+  "note": "ACTIVE, FUNCTIONAL, RUNNING and WORKING are all OPERATINGS",
+  "clues": [
+    {
+      "answer": "ACTIVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "To perform on stage, I have to be ",
+          "ind"
+        ],
+        [
+          "brisk",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'brisk'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FUNCTIONAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Operative",
+          "def"
+        ],
+        [
+          " finds something oily in Cornish river",
+          "ind"
+        ],
+        [
+          " (10)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Operative'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RUNNING",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Supervising",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "healthy exercise",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: supervising, and healthy exercise."
+    },
+    {
+      "answer": "WORKING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Active",
+          "def"
+        ],
+        [
+          " leader of revolt in Surrey town",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Active'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

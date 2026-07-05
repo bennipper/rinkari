@@ -1,0 +1,94 @@
+{
+  "number": 465,
+  "date": "2027-10-08",
+  "link": "SURPASS",
+  "compounds": "BEAT · BEST · BETTER · TOP",
+  "note": "BEAT, BEST, BETTER and TOP are all SURPASS",
+  "clues": [
+    {
+      "answer": "BEAT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Hammer",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "time!",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: hammer, and time."
+    },
+    {
+      "answer": "BEST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Most successful",
+          "def"
+        ],
+        [
+          ", getting shilling in wager",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Most successful'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BETTER",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Gambler",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "showing improvement",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: gambler, and showing improvement."
+    },
+    {
+      "answer": "TOP",
+      "device": "Charade",
+      "parts": [
+        [
+          "First",
+          "def"
+        ],
+        [
+          " vessel to be capsized",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'First'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

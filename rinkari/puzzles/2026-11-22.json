@@ -1,0 +1,90 @@
+{
+  "number": 145,
+  "date": "2026-11-22",
+  "link": "PESTER",
+  "compounds": "BADGER · BUG · HOUND · NAG",
+  "note": "BADGER, BUG, HOUND and NAG are all PESTERS",
+  "clues": [
+    {
+      "answer": "BADGER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Evil King Edward blocked by good ",
+          "ind"
+        ],
+        [
+          "Harry",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Harry'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BUG",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Micro-organism",
+          "def"
+        ],
+        [
+          " found in ",
+          ""
+        ],
+        [
+          "creepy-crawly?",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: micro-organism, and creepy-crawly."
+    },
+    {
+      "answer": "HOUND",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Dog",
+          "def"
+        ],
+        [
+          " seen in Soho, undernourished",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Dog'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "NAG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Old Arab maybe",
+          "def"
+        ],
+        [
+          " hitches away from borders",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Old Arab maybe'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

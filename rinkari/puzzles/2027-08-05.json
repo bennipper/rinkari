@@ -1,0 +1,86 @@
+{
+  "number": 401,
+  "date": "2027-08-05",
+  "link": "DOPPELGÄNGER",
+  "compounds": "CLONE · DOUBLE · RINGER · TWIN",
+  "note": "CLONE, DOUBLE, RINGER and TWIN are all DOPPELGÄNGERS",
+  "clues": [
+    {
+      "answer": "CLONE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Caught, having left company, making ",
+          "ind"
+        ],
+        [
+          "illegal copy",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'illegal copy'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DOUBLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Hand-out covering upper-class bachelor’s ",
+          "ind"
+        ],
+        [
+          "drink",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'drink'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RINGER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Campanologist’s double",
+          "def"
+        ],
+        [
+          "?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Campanologist’s double'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TWIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Time to secure ",
+          "ind"
+        ],
+        [
+          "such a hotel room?",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'such a hotel room'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

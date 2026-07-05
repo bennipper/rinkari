@@ -1,0 +1,90 @@
+{
+  "number": 90,
+  "date": "2026-09-28",
+  "link": "YEARN",
+  "link_type": "category",
+  "compounds": "ACHE · LONG · PINE · THIRST",
+  "note": "ACHE, LONG, PINE and THIRST are all YEARNS",
+  "clues": [
+    {
+      "answer": "ACHE",
+      "device": "Charade",
+      "parts": [
+        [
+          "A guerrilla gets ",
+          "ind"
+        ],
+        [
+          "hurt",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'hurt'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LONG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Marathon",
+          "def"
+        ],
+        [
+          " record broken by Briton at last",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Marathon'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PINE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Long",
+          "def"
+        ],
+        [
+          "  ",
+          ""
+        ],
+        [
+          "evergreen tree",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: long, and evergreen tree."
+    },
+    {
+      "answer": "THIRST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Desire",
+          "def"
+        ],
+        [
+          " a bit of sunshine in most of the days of November",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Desire'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

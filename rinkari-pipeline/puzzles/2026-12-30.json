@@ -1,0 +1,94 @@
+{
+  "number": 183,
+  "date": "2026-12-30",
+  "link": "SECTION",
+  "link_type": "category",
+  "compounds": "CLASS · DIVISION · RANK · TIER",
+  "note": "CLASS, DIVISION, RANK and TIER are all SECTIONS",
+  "clues": [
+    {
+      "answer": "CLASS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Fine",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "form",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: fine, and form."
+    },
+    {
+      "answer": "DIVISION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Defence Intelligence seeing ",
+          "ind"
+        ],
+        [
+          "army unit",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'army unit'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RANK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Offensive",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "superiors may pull it",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: offensive, and superiors may pull it."
+    },
+    {
+      "answer": "TIER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Row",
+          "def"
+        ],
+        [
+          " concerning whose turn it is to catch up",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Row'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "number": 185,
+  "date": "2027-01-01",
+  "link": "DOG",
+  "compounds": "BOSTON · GOLDEN · LAB · PIT",
+  "note": "BOSTON, GOLDEN, LAB and PIT are all DOG breeds",
+  "clues": [
+    {
+      "answer": "BOSTON",
+      "device": "Charade",
+      "parts": [
+        [
+          "East Anglian town that’s ‘stumped’",
+          "def"
+        ],
+        [
+          " (stumped in time of prosperity)",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'East Anglian town that’s ‘stumped’'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GOLDEN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Good and ancient, ",
+          "ind"
+        ],
+        [
+          "this age?",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'this age?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LAB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Left a key for ",
+          "ind"
+        ],
+        [
+          "scientists' workroom",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'scientists' workroom'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Three-fifths of 17 dn is ",
+          "ind"
+        ],
+        [
+          "mine",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'mine'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

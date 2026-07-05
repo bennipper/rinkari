@@ -1,0 +1,86 @@
+{
+  "number": 482,
+  "date": "2027-10-25",
+  "link": "SUMMARY",
+  "link_type": "category",
+  "compounds": "BRIEF · DIGEST · OUTLINE · REVIEW",
+  "note": "BRIEF, DIGEST, OUTLINE and REVIEW are all SUMMARIES",
+  "clues": [
+    {
+      "answer": "BRIEF",
+      "device": "Charade",
+      "parts": [
+        [
+          "Short",
+          "def"
+        ],
+        [
+          " fibre spun",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Short'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DIGEST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fail to make joke, say, for ",
+          "ind"
+        ],
+        [
+          "periodical",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'periodical'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "OUTLINE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Plan",
+          "def"
+        ],
+        [
+          " unacceptable rail route",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Plan'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "REVIEW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Write critical assessment",
+          "def"
+        ],
+        [
+          " on Panorama?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Write critical assessment'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

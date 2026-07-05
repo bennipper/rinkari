@@ -1,0 +1,90 @@
+{
+  "number": 547,
+  "date": "2027-12-29",
+  "link": "AURA",
+  "link_type": "category",
+  "compounds": "AIR · IMPRESSION · MANNER · QUALITY",
+  "note": "AIR, IMPRESSION, MANNER and QUALITY are all AURAS",
+  "clues": [
+    {
+      "answer": "AIR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Song",
+          "def"
+        ],
+        [
+          " from duo without piano",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Song'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "IMPRESSION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Naughty promises in ",
+          "ind"
+        ],
+        [
+          "burlesque?",
+          "def"
+        ],
+        [
+          " (10)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'burlesque'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MANNER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fashion",
+          "def"
+        ],
+        [
+          " house, we hear?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Fashion'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "QUALITY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Type of street that’s demolished at Xmas",
+          "def"
+        ],
+        [
+          "? It’s ",
+          ""
+        ],
+        [
+          "cracking",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: type of street that’s demolished at xmas, and cracking."
+    }
+  ]
+}

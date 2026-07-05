@@ -1,0 +1,86 @@
+{
+  "number": 36,
+  "date": "2026-08-05",
+  "link": "DETERGENTS",
+  "compounds": "ALL · ERA · GAIN · TIDE",
+  "note": "ALL, ERA, GAIN and TIDE are all DETERGENTS",
+  "clues": [
+    {
+      "answer": "ALL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Everybody",
+          "def"
+        ],
+        [
+          " in a large lake",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Everybody'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ERA",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "One reigning over a ",
+          "ind"
+        ],
+        [
+          "long period",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'long period'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "GAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Win",
+          "def"
+        ],
+        [
+          " something Gateshead, Galashiels, Dungannon, Donegal and Reigate all have",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Win'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TIDE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Course",
+          "def"
+        ],
+        [
+          " change is reversed",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Course'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

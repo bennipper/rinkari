@@ -1,0 +1,90 @@
+{
+  "number": 356,
+  "date": "2027-06-21",
+  "link": "EXPENDITURE",
+  "link_type": "category",
+  "compounds": "CHARGE · COST · PRICE · RATE",
+  "note": "CHARGE, COST, PRICE and RATE are all EXPENDITURES",
+  "clues": [
+    {
+      "answer": "CHARGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Load",
+          "def"
+        ],
+        [
+          " of church silver, holy books missing",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Load'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "COST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Price",
+          "def"
+        ],
+        [
+          " of firm’s time",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Price'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PRICE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cost of",
+          "def"
+        ],
+        [
+          " penny cereal",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cost of'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RATE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Assess",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "speed",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: assess, and speed."
+    }
+  ]
+}

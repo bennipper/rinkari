@@ -1,0 +1,86 @@
+{
+  "number": 113,
+  "date": "2026-10-21",
+  "link": "SENSES",
+  "compounds": "SIGHT · SMELL · TASTE · TOUCH",
+  "note": "SIGHT, SMELL, TASTE and TOUCH are all SENSES",
+  "clues": [
+    {
+      "answer": "SIGHT",
+      "device": "Charade",
+      "parts": [
+        [
+          "What was taken from Samson and ",
+          "ind"
+        ],
+        [
+          "Lot",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Lot'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SMELL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Hum",
+          "def"
+        ],
+        [
+          " a few lines, omitting start of oratorio",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Hum'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TASTE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pinch",
+          "def"
+        ],
+        [
+          " mistress's bottom in gallery",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Pinch'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TOUCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Put finger on",
+          "def"
+        ],
+        [
+          " front of thigh: that hurt!",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Put finger on'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,90 @@
+{
+  "number": 194,
+  "date": "2027-01-10",
+  "link": "STURDY",
+  "link_type": "category",
+  "compounds": "FIRM · SOLID · SOUND · STABLE",
+  "note": "FIRM, SOLID, SOUND and STABLE are all STURDIES",
+  "clues": [
+    {
+      "answer": "FIRM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Strict",
+          "def"
+        ],
+        [
+          ", if retiring, resident magistrate",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Strict'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SOLID",
+      "device": "Charade",
+      "parts": [
+        [
+          "Firm",
+          "def"
+        ],
+        [
+          " one enters changed hands",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Firm'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SOUND",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Secure",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "area of the sea",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: secure, and area of the sea."
+    },
+    {
+      "answer": "STABLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fast",
+          "def"
+        ],
+        [
+          " turning the Spanish mad",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Fast'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

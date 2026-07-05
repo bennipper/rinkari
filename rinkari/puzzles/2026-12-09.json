@@ -1,0 +1,94 @@
+{
+  "number": 162,
+  "date": "2026-12-09",
+  "link": "DECEIVE",
+  "compounds": "CON · DUPE · FOOL · TRICK",
+  "note": "CON, DUPE, FOOL and TRICK are all DECEIVES",
+  "clues": [
+    {
+      "answer": "CON",
+      "device": "Charade",
+      "parts": [
+        [
+          "Company gets on top of new ",
+          "ind"
+        ],
+        [
+          "scam",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'scam'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DUPE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Chump",
+          "def"
+        ],
+        [
+          " expected to keep quiet",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Chump'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FOOL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Mug",
+          "def"
+        ],
+        [
+          " making ",
+          ""
+        ],
+        [
+          "fruit dessert",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: mug, and fruit dessert."
+    },
+    {
+      "answer": "TRICK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Ruse",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "that helps player secure contract",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: ruse, and that helps player secure contract."
+    }
+  ],
+  "linkType": "category"
+}

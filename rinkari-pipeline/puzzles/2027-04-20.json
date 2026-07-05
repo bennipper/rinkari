@@ -1,0 +1,90 @@
+{
+  "number": 294,
+  "date": "2027-04-20",
+  "link": "INDIVIDUALITY",
+  "link_type": "category",
+  "compounds": "BEING · CHARACTER · EGO · SELF",
+  "note": "BEING, CHARACTER, EGO and SELF are all INDIVIDUALITIES",
+  "clues": [
+    {
+      "answer": "BEING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Man maybe",
+          "def"
+        ],
+        [
+          " taking risks, losing races",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Man maybe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CHARACTER",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Disposition",
+          "def"
+        ],
+        [
+          " revealed in ",
+          ""
+        ],
+        [
+          "letter",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: disposition, and letter."
+    },
+    {
+      "answer": "EGO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Morale",
+          "def"
+        ],
+        [
+          ", say, on first of ops",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Morale'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SELF",
+      "device": "Charade",
+      "parts": [
+        [
+          "Identity",
+          "def"
+        ],
+        [
+          " of second Santa helper",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Identity'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

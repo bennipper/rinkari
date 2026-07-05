@@ -1,0 +1,94 @@
+{
+  "number": 39,
+  "date": "2026-08-08",
+  "link": "ANTI-VAMPIRE",
+  "link_type": "category",
+  "compounds": "CRUCIFIX · GARLIC · MIRROR · STAKE",
+  "note": "CRUCIFIX, GARLIC, MIRROR and STAKE are all ANTI-VAMPIRES",
+  "clues": [
+    {
+      "answer": "CRUCIFIX",
+      "device": "Charade",
+      "parts": [
+        [
+          "One spot on about force of old ",
+          "ind"
+        ],
+        [
+          "religious image",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'religious image'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GARLIC",
+      "device": "Charade",
+      "parts": [
+        [
+          "Line in exotic cigar ",
+          "ind"
+        ],
+        [
+          "that’s strongly flavoured",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'that’s strongly flavoured'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MIRROR",
+      "device": "Double definition",
+      "parts": [
+        [
+          "A daily",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "source of reflection?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: a daily, and source of reflection?."
+    },
+    {
+      "answer": "STAKE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Interest",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "post",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: interest, and post."
+    }
+  ]
+}

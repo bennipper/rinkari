@@ -1,0 +1,90 @@
+{
+  "number": 503,
+  "date": "2027-11-15",
+  "link": "TRICKY",
+  "link_type": "category",
+  "compounds": "COMPLEX · DELICATE · STICKY · TOUGH",
+  "note": "COMPLEX, DELICATE, STICKY and TOUGH are all TRICKIES",
+  "clues": [
+    {
+      "answer": "COMPLEX",
+      "device": "Charade",
+      "parts": [
+        [
+          "Comprehensive Roman law is ",
+          "ind"
+        ],
+        [
+          "Byzantine",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Byzantine'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DELICATE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Frail",
+          "def"
+        ],
+        [
+          " food store pet beginning to eat",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Frail'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STICKY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Difficult",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "adhesive",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: difficult, and adhesive."
+    },
+    {
+      "answer": "TOUGH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Demanding",
+          "def"
+        ],
+        [
+          " return of books: we’re disgusted",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Demanding'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

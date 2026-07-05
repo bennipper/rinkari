@@ -1,0 +1,94 @@
+{
+  "number": 332,
+  "date": "2027-05-28",
+  "link": "SPY",
+  "link_type": "category",
+  "compounds": "AGENT · ASSET · MOLE · PLANT",
+  "note": "AGENT, ASSET, MOLE and PLANT are all SPIES",
+  "clues": [
+    {
+      "answer": "AGENT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Author",
+          "def"
+        ],
+        [
+          " producing series of books after long time",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Author'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ASSET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Texan behind movie, ",
+          "ind"
+        ],
+        [
+          "valuable sort",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'valuable sort'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MOLE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Spot",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "undercover agent",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: spot, and undercover agent."
+    },
+    {
+      "answer": "PLANT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Source of cutting",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "gear and machinery",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: source of cutting, and gear and machinery."
+    }
+  ]
+}

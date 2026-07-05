@@ -1,0 +1,86 @@
+{
+  "number": 50,
+  "date": "2026-08-19",
+  "link": "HATS",
+  "link_type": "category",
+  "compounds": "BERET · BOWLER · FEDORA · FEZ",
+  "note": "BERET, BOWLER, FEDORA and FEZ are all HATS",
+  "clues": [
+    {
+      "answer": "BERET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Republican cutting vegetable ",
+          "ind"
+        ],
+        [
+          "cap in France?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'cap in France'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BOWLER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sportsman",
+          "def"
+        ],
+        [
+          " left in enclosure",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'sportsman'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FEDORA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Iron Lady’s ",
+          "ind"
+        ],
+        [
+          "felt hat",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'felt hat'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FEZ",
+      "device": "Charade",
+      "parts": [
+        [
+          "Something for the head",
+          "def"
+        ],
+        [
+          " chef? Some shiraz, at the end",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Something for the head'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

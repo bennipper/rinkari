@@ -1,0 +1,94 @@
+{
+  "number": 301,
+  "date": "2027-04-27",
+  "link": "CAREEN",
+  "compounds": "HEAVE · LURCH · PITCH · REEL",
+  "note": "HEAVE, LURCH, PITCH and REEL are all CAREENS",
+  "clues": [
+    {
+      "answer": "HEAVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Almost the perfect place for ",
+          "ind"
+        ],
+        [
+          "a fling",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a fling'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LURCH",
+      "device": "Double definition",
+      "parts": [
+        [
+          "One might be left in this",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "list",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: one might be left in this, and list."
+    },
+    {
+      "answer": "PITCH",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Playing area",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "perfect for some musicians",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: playing area, and perfect for some musicians."
+    },
+    {
+      "answer": "REEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Perth perv returned to ",
+          "ind"
+        ],
+        [
+          "dance",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'dance'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

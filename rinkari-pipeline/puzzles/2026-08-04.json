@@ -1,0 +1,90 @@
+{
+  "number": 35,
+  "date": "2026-08-04",
+  "link": "SHIP",
+  "link_type": "category",
+  "compounds": "BOW · PORT · STARBOARD · STERN",
+  "note": "BOW, PORT, STARBOARD and STERN are all SHIPS",
+  "clues": [
+    {
+      "answer": "BOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Greeting",
+          "def"
+        ],
+        [
+          " first parts of body of work",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Greeting'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PORT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Left",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "harbour",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: left, and harbour."
+    },
+    {
+      "answer": "STARBOARD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Celebrity died catching wild animal, ",
+          "ind"
+        ],
+        [
+          "right?",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'right'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STERN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Letters from schoolmaster never ",
+          "ind"
+        ],
+        [
+          "enforcing discipline",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'enforcing discipline'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

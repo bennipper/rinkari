@@ -1,0 +1,86 @@
+{
+  "number": 393,
+  "date": "2027-07-28",
+  "link": "AWESOME",
+  "link_type": "category",
+  "compounds": "DOPE · FIRE · LIT · SICK",
+  "note": "DOPE, FIRE, LIT and SICK are all AWESOMES",
+  "clues": [
+    {
+      "answer": "DOPE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Perform sport, or ",
+          "ind"
+        ],
+        [
+          "cheat thereat?",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'cheat thereat?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FIRE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sack",
+          "def"
+        ],
+        [
+          " female over anger",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Sack'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "In",
+          "def"
+        ],
+        [
+          " elevator with missing female",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'In'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SICK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Unwell",
+          "def"
+        ],
+        [
+          " and so weak in the end",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Unwell'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

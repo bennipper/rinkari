@@ -1,0 +1,86 @@
+{
+  "number": 214,
+  "date": "2027-01-30",
+  "link": "INAUGURAL",
+  "compounds": "FIRST · INITIAL · MAIDEN · PREMIER",
+  "note": "FIRST, INITIAL, MAIDEN and PREMIER are all INAUGURALS",
+  "clues": [
+    {
+      "answer": "FIRST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Initial",
+          "def"
+        ],
+        [
+          " \"R\" in one's own writing",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Initial'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "INITIAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "First letter",
+          "def"
+        ],
+        [
+          ", one I penned in ancient language going north",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'First letter'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MAIDEN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Untried",
+          "def"
+        ],
+        [
+          " troops accepting assistance",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Untried'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PREMIER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Film director with no good cut is ",
+          "ind"
+        ],
+        [
+          "top in Rank",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'top in Rank'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

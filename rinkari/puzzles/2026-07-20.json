@@ -1,0 +1,90 @@
+{
+  "number": 20,
+  "date": "2026-07-20",
+  "link": "FRUIT",
+  "compounds": "DATE · KIWI · LEMON · ORANGE",
+  "note": "DATE, KIWI, LEMON and ORANGE are all FRUITS",
+  "clues": [
+    {
+      "answer": "DATE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Court",
+          "def"
+        ],
+        [
+          " poet losing heart",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Court'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "KIWI",
+      "device": "Charade",
+      "parts": [
+        [
+          "New Zealander",
+          "def"
+        ],
+        [
+          "’s answer you and I heard",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'New Zealander'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LEMON",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Dud",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "shade",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: dud, and shade."
+    },
+    {
+      "answer": "ORANGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Zero scope for movement — and hence a ",
+          "ind"
+        ],
+        [
+          "squash?",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'squash'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

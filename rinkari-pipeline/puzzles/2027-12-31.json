@@ -1,0 +1,86 @@
+{
+  "number": 549,
+  "date": "2027-12-31",
+  "link": "PURSUE",
+  "link_type": "category",
+  "compounds": "HOUND · SHADOW · TAIL · TRACK",
+  "note": "HOUND, SHADOW, TAIL and TRACK are all PURSUES",
+  "clues": [
+    {
+      "answer": "HOUND",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Dog",
+          "def"
+        ],
+        [
+          " seen in Soho, undernourished",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Dog'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "SHADOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Closely follow",
+          "def"
+        ],
+        [
+          " play, having to put in notice",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Closely follow'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TAIL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Last few batsmen",
+          "def"
+        ],
+        [
+          " lie, so they say",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Last few batsmen'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TRACK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dog",
+          "def"
+        ],
+        [
+          " food without flavour ultimately",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Dog'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

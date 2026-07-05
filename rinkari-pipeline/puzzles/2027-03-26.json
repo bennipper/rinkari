@@ -1,0 +1,90 @@
+{
+  "number": 269,
+  "date": "2027-03-26",
+  "link": "DOOFUS",
+  "link_type": "category",
+  "compounds": "CLOWN · DWEEB · SAP · TURKEY",
+  "note": "CLOWN, DWEEB, SAP and TURKEY are all DOOFUS",
+  "clues": [
+    {
+      "answer": "CLOWN",
+      "device": "Charade",
+      "parts": [
+        [
+          "First couple of clubs to admit ",
+          "ind"
+        ],
+        [
+          "entertainer",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'entertainer'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DWEEB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Inadequate person",
+          "def"
+        ],
+        [
+          " finally found new life, some job",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Inadequate person'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SAP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dad's served up ",
+          "ind"
+        ],
+        [
+          "juice",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'juice'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TURKEY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Flop",
+          "def"
+        ],
+        [
+          " in the ",
+          ""
+        ],
+        [
+          "country",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: flop, and country."
+    }
+  ]
+}

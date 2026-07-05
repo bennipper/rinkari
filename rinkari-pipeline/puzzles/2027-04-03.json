@@ -1,0 +1,94 @@
+{
+  "number": 277,
+  "date": "2027-04-03",
+  "link": "EMBED",
+  "link_type": "category",
+  "compounds": "LODGE · PLANT · STICK · WEDGE",
+  "note": "LODGE, PLANT, STICK and WEDGE are all EMBEDS",
+  "clues": [
+    {
+      "answer": "LODGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "See director general close to some ",
+          "ind"
+        ],
+        [
+          "gatekeeper’s house",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'gatekeeper’s house'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PLANT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Source of cutting",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "gear and machinery",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: source of cutting, and gear and machinery."
+    },
+    {
+      "answer": "STICK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Put up with",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "verbal abuse",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: put up with, and verbal abuse."
+    },
+    {
+      "answer": "WEDGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Club",
+          "def"
+        ],
+        [
+          " where wife is on the brink",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Club'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

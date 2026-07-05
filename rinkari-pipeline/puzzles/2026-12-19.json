@@ -1,0 +1,86 @@
+{
+  "number": 172,
+  "date": "2026-12-19",
+  "link": "PURSUE",
+  "link_type": "category",
+  "compounds": "HUNT · TRACK · TRAIL · STALK",
+  "note": "HUNT, TRACK, TRAIL and STALK are all PURSUES",
+  "clues": [
+    {
+      "answer": "HUNT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Look for",
+          "def"
+        ],
+        [
+          " building to accommodate any number",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Look for'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TRACK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dog",
+          "def"
+        ],
+        [
+          " food without flavour ultimately",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Dog'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TRAIL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Track",
+          "def"
+        ],
+        [
+          " opening of the bar",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Track'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STALK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stealthily pursue",
+          "def"
+        ],
+        [
+          " long-legged wader in sound",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Stealthily pursue'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

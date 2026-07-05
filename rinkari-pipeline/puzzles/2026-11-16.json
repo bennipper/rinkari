@@ -1,0 +1,90 @@
+{
+  "number": 139,
+  "date": "2026-11-16",
+  "link": "ZODIAC",
+  "link_type": "category",
+  "compounds": "BULL · CRAB · SCALES · TWINS",
+  "note": "BULL, CRAB, SCALES and TWINS are all ZODIAC symbols",
+  "clues": [
+    {
+      "answer": "BULL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Back off cow or ",
+          "ind"
+        ],
+        [
+          "its mate",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'its mate'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CRAB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Seafood",
+          "def"
+        ],
+        [
+          ", cold, local sent back",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Seafood'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCALES",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Bits of fish",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "bits of music",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: bits of fish, and bits of music."
+    },
+    {
+      "answer": "TWINS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Simultaneous arrivals",
+          "def"
+        ],
+        [
+          " come first in empty trains",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Simultaneous arrivals'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

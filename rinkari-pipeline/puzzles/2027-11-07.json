@@ -1,0 +1,98 @@
+{
+  "number": 495,
+  "date": "2027-11-07",
+  "link": "ATTIRE",
+  "link_type": "category",
+  "compounds": "DUDS · FIT · GETUP · THREADS",
+  "note": "DUDS, FIT, GETUP and THREADS are all ATTIRES",
+  "clues": [
+    {
+      "answer": "DUDS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "They are not working",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "clothes",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: they are not working, and clothes."
+    },
+    {
+      "answer": "FIT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Strong",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "suit",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: strong, and suit."
+    },
+    {
+      "answer": "GETUP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Start the day in ",
+          "ind"
+        ],
+        [
+          "distinctive clothing?",
+          "def"
+        ],
+        [
+          " (3-2)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'distinctive clothing'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "THREADS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Passes thin line through",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "series of linked posts",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: passes thin line through, and series of linked posts."
+    }
+  ]
+}

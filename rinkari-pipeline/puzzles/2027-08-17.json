@@ -1,0 +1,94 @@
+{
+  "number": 413,
+  "date": "2027-08-17",
+  "link": "SQUARELY",
+  "link_type": "category",
+  "compounds": "DEAD · EXACTLY · RIGHT · SMACK",
+  "note": "DEAD, EXACTLY, RIGHT and SMACK are all SQUARELIES",
+  "clues": [
+    {
+      "answer": "DEAD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Lifeless",
+          "def"
+        ],
+        [
+          "? ",
+          ""
+        ],
+        [
+          "Exactly!",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: lifeless, and exactly."
+    },
+    {
+      "answer": "EXACTLY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Demand and get lavatory emptied ",
+          "ind"
+        ],
+        [
+          "on the spot",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'on the spot'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RIGHT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Just",
+          "def"
+        ],
+        [
+          " clever, having no need of book",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Just'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SMACK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Hit",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "sailing boat",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: hit, and sailing boat."
+    }
+  ]
+}

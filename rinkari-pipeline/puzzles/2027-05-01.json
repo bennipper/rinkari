@@ -1,0 +1,90 @@
+{
+  "number": 305,
+  "date": "2027-05-01",
+  "link": "FRAUDSTER",
+  "link_type": "category",
+  "compounds": "CHEAT · CON · FAKE · QUACK",
+  "note": "CHEAT, CON, FAKE and QUACK are all FRAUDSTERS",
+  "clues": [
+    {
+      "answer": "CHEAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fiddle",
+          "def"
+        ],
+        [
+          " about, in need of passion",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Fiddle'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CON",
+      "device": "Charade",
+      "parts": [
+        [
+          "Company gets on top of new ",
+          "ind"
+        ],
+        [
+          "scam",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'scam'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FAKE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Affected",
+          "def"
+        ],
+        [
+          " part of week after returning",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Affected'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "QUACK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Cry coming from Donald",
+          "def"
+        ],
+        [
+          ", ",
+          ""
+        ],
+        [
+          "possibly a charlatan",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: cry coming from donald, and possibly a charlatan."
+    }
+  ]
+}

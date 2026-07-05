@@ -1,0 +1,98 @@
+{
+  "number": 238,
+  "date": "2027-02-23",
+  "link": "INSULT",
+  "compounds": "BURN · DIG · JAB · SLIGHT",
+  "note": "BURN, DIG, JAB and SLIGHT are all INSULTS",
+  "clues": [
+    {
+      "answer": "BURN",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Feel very hot",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "running water?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: feel very hot, and running water?."
+    },
+    {
+      "answer": "DIG",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Like",
+          "def"
+        ],
+        [
+          " an ",
+          ""
+        ],
+        [
+          "archaeological excavation",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: like, and archaeological excavation."
+    },
+    {
+      "answer": "JAB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sailor supporting Judge in ",
+          "ind"
+        ],
+        [
+          "critical comment",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'critical comment'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SLIGHT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Trivial",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "affront",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: trivial, and affront."
+    }
+  ],
+  "linkType": "category"
+}

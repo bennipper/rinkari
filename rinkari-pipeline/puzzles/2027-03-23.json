@@ -1,0 +1,90 @@
+{
+  "number": 266,
+  "date": "2027-03-23",
+  "link": "BEHALF",
+  "link_type": "category",
+  "compounds": "ADVANTAGE · BENEFIT · INTEREST · SAKE",
+  "note": "ADVANTAGE, BENEFIT, INTEREST and SAKE are all BEHALFS",
+  "clues": [
+    {
+      "answer": "ADVANTAGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Commercial vehicle time after time making ",
+          "ind"
+        ],
+        [
+          "a profit",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a profit'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BENEFIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pope half suitable for ",
+          "ind"
+        ],
+        [
+          "welfare",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'welfare'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "INTEREST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Money to be made",
+          "def"
+        ],
+        [
+          " in half-term holiday",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Money to be made'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SAKE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Japanese drink",
+          "def"
+        ],
+        [
+          "’s ",
+          ""
+        ],
+        [
+          "benefit",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: japanese drink, and benefit."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "number": 236,
+  "date": "2027-02-21",
+  "link": "PROFESSION",
+  "link_type": "category",
+  "compounds": "BUSINESS · FIELD · LINE · TRADE",
+  "note": "BUSINESS, FIELD, LINE and TRADE are all PROFESSIONS",
+  "clues": [
+    {
+      "answer": "BUSINESS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Firm",
+          "def"
+        ],
+        [
+          " sort of wave in middle of kiss",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Firm'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FIELD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Participants",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "range",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: participants, and range."
+    },
+    {
+      "answer": "LINE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Business",
+          "def"
+        ],
+        [
+          " just ",
+          ""
+        ],
+        [
+          "one an actor must learn",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: business, and one an actor must learn."
+    },
+    {
+      "answer": "TRADE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Traffic",
+          "def"
+        ],
+        [
+          " needs to speed up heading for Edinburgh",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Traffic'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

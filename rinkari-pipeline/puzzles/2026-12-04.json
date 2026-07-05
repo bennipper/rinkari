@@ -1,0 +1,90 @@
+{
+  "number": 157,
+  "date": "2026-12-04",
+  "link": "HETERONYMS",
+  "link_type": "category",
+  "compounds": "BASS · DOVE · DESERT · WIND",
+  "note": "BASS, DOVE, DESERT and WIND are all HETERONYMS",
+  "clues": [
+    {
+      "answer": "BASS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Type of guitar",
+          "def"
+        ],
+        [
+          " graduate strums peripherally",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Type of guitar'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DOVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bird",
+          "def"
+        ],
+        [
+          " sank into water in America",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bird'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DESERT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Walk out on",
+          "def"
+        ],
+        [
+          " expanse of land without water",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Walk out on'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WIND",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Behave like a twister",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "a gale",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: behave like a twister, and a gale."
+    }
+  ]
+}

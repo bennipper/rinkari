@@ -1,0 +1,86 @@
+{
+  "number": 478,
+  "date": "2027-10-21",
+  "link": "SIGNIFICANT",
+  "compounds": "BIG · IMPORTANT · MAJOR · SERIOUS",
+  "note": "BIG, IMPORTANT, MAJOR and SERIOUS are all SIGNIFICANTS",
+  "clues": [
+    {
+      "answer": "BIG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sizeable",
+          "def"
+        ],
+        [
+          " British force on the ground",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Sizeable'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "IMPORTANT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Crucial",
+          "def"
+        ],
+        [
+          " to bring in worker",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Crucial'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MAJOR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Officer",
+          "def"
+        ],
+        [
+          " in spot of trouble retreating with men",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Officer'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SERIOUS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Concerned with component of blood containing iodine — that’s ",
+          "ind"
+        ],
+        [
+          "worrying",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'worrying'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

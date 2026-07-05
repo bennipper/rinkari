@@ -1,0 +1,90 @@
+{
+  "number": 516,
+  "date": "2027-11-28",
+  "link": "ATTRIBUTE",
+  "compounds": "CITE · CREDIT · NAME · REFERENCE",
+  "note": "CITE, CREDIT, NAME and REFERENCE are all ATTRIBUTES",
+  "clues": [
+    {
+      "answer": "CITE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Name",
+          "def"
+        ],
+        [
+          " location for hearing",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Name'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CREDIT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Believe",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "arrangement not requiring immediate payment",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: believe, and arrangement not requiring immediate payment."
+    },
+    {
+      "answer": "NAME",
+      "device": "Charade",
+      "parts": [
+        [
+          "Celebrity",
+          "def"
+        ],
+        [
+          " giving eastern servant a rise",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Celebrity'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "REFERENCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sports official not totally nice, not one to get",
+          "ind"
+        ],
+        [
+          "testimonial",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'testimonial'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

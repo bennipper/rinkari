@@ -1,0 +1,86 @@
+{
+  "number": 569,
+  "date": "2028-01-20",
+  "link": "AESTHETIC",
+  "link_type": "category",
+  "compounds": "DESIGN · LOOK · SCHEME · STYLE",
+  "note": "DESIGN, LOOK, SCHEME and STYLE are all AESTHETICS",
+  "clues": [
+    {
+      "answer": "DESIGN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stoop to collect small ",
+          "ind"
+        ],
+        [
+          "drawing",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'drawing'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LOOK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Take a dekko",
+          "def"
+        ],
+        [
+          " — and see all right",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Take a dekko'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCHEME",
+      "device": "Charade",
+      "parts": [
+        [
+          "Plan",
+          "def"
+        ],
+        [
+          " second church straddling border",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Plan'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STYLE",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "It bears a stigma",
+          "def"
+        ],
+        [
+          ", part of nasty lesion",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'It bears a stigma'; the answer is concealed in the surrounding wordplay."
+    }
+  ]
+}

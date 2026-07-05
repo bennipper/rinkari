@@ -1,0 +1,86 @@
+{
+  "number": 61,
+  "date": "2026-08-30",
+  "link": "RODENTS",
+  "compounds": "GERBIL · HAMSTER · RAT · VOLE",
+  "note": "GERBIL, HAMSTER, RAT and VOLE are all RODENTS",
+  "clues": [
+    {
+      "answer": "GERBIL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Ad-lib regularly about keeping ",
+          "ind"
+        ],
+        [
+          "pet",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'pet'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HAMSTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Meat back in short supply — ",
+          "ind"
+        ],
+        [
+          "only a comedian would eat it?!",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'only a comedian would eat it'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "One leaving sinking ship?",
+          "def"
+        ],
+        [
+          " Sailor’s returning",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'One leaving sinking ship?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "VOLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Little rodent",
+          "def"
+        ],
+        [
+          "’s new love",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Little rodent'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

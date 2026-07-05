@@ -1,0 +1,86 @@
+{
+  "number": 158,
+  "date": "2026-12-05",
+  "link": "ORGANIZATION",
+  "link_type": "category",
+  "compounds": "CLUB · GROUP · PARTY · TEAM",
+  "note": "CLUB, GROUP, PARTY and TEAM are all ORGANIZATIONS",
+  "clues": [
+    {
+      "answer": "CLUB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Novice boxes in learner ",
+          "ind"
+        ],
+        [
+          "driver?",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'driver'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GROUP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Where lots go in Scotland following grand ",
+          "ind"
+        ],
+        [
+          "mass",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'mass'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PARTY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Political organisation",
+          "def"
+        ],
+        [
+          " to some extent loses the left",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Political organisation'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TEAM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Squad",
+          "def"
+        ],
+        [
+          " initially merry after drink",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Squad'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

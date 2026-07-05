@@ -1,0 +1,94 @@
+{
+  "number": 208,
+  "date": "2027-01-24",
+  "link": "DURATION",
+  "link_type": "category",
+  "compounds": "PERIOD · SPELL · STRETCH · TIME",
+  "note": "PERIOD, SPELL, STRETCH and TIME are all DURATIONS",
+  "clues": [
+    {
+      "answer": "PERIOD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Part of school day",
+          "def"
+        ],
+        [
+          " — ",
+          ""
+        ],
+        [
+          "full stop!",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: part of school day, and full stop."
+    },
+    {
+      "answer": "SPELL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Write letters in",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "work period",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: write letters in, and work period."
+    },
+    {
+      "answer": "STRETCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Way to gag ",
+          "ind"
+        ],
+        [
+          "bird",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'bird'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TIME",
+      "device": "Charade",
+      "parts": [
+        [
+          "Period",
+          "def"
+        ],
+        [
+          " when discharge comes up",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Period'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

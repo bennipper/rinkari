@@ -1,0 +1,86 @@
+{
+  "number": 329,
+  "date": "2027-05-25",
+  "link": "CACHE",
+  "link_type": "category",
+  "compounds": "BANK · POOL · RESERVE · STORE",
+  "note": "BANK, POOL, RESERVE and STORE are all CACHES",
+  "clues": [
+    {
+      "answer": "BANK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Starts to boycott another North Korean ",
+          "ind"
+        ],
+        [
+          "financial institution",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'financial institution'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POOL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mere ",
+          "ind"
+        ],
+        [
+          "share",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'share'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RESERVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Once again hand out ",
+          "ind"
+        ],
+        [
+          "book",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'book'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STORE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Upset about time in ",
+          "ind"
+        ],
+        [
+          "shop",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'shop'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

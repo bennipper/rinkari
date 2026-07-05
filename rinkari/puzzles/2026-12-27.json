@@ -1,0 +1,90 @@
+{
+  "number": 180,
+  "date": "2026-12-27",
+  "link": "METHOD",
+  "compounds": "CHANNEL · MEANS · MEDIUM · VEHICLE",
+  "note": "CHANNEL, MEANS, MEDIUM and VEHICLE are all METHODS",
+  "clues": [
+    {
+      "answer": "CHANNEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "After church, former queen left a ",
+          "ind"
+        ],
+        [
+          "means of communication",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'means of communication'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MEANS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Intend initially sharing ",
+          "ind"
+        ],
+        [
+          "resources",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'resources'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MEDIUM",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Psychic",
+          "def"
+        ],
+        [
+          " found ",
+          ""
+        ],
+        [
+          "between Little and Large",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: psychic, and between little and large."
+    },
+    {
+      "answer": "VEHICLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Against hybrid lichee as ",
+          "ind"
+        ],
+        [
+          "jam ingredient?",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'jam ingredient?'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

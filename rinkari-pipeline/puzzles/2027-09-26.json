@@ -1,0 +1,86 @@
+{
+  "number": 453,
+  "date": "2027-09-26",
+  "link": "RIPPED",
+  "link_type": "category",
+  "compounds": "CLEFT · RENT · SPLIT · TORN",
+  "note": "CLEFT, RENT, SPLIT and TORN are all RIPPEDS",
+  "clues": [
+    {
+      "answer": "CLEFT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Socialists pursuing Conservative ",
+          "ind"
+        ],
+        [
+          "split",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'split'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RENT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pa leaves ma for one ",
+          "ind"
+        ],
+        [
+          "split",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'split'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPLIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Scottish League One team’s first in ",
+          "ind"
+        ],
+        [
+          "division",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'division'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TORN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Against main force becoming ",
+          "ind"
+        ],
+        [
+          "split",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'split'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

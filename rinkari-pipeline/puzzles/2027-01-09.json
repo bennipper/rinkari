@@ -1,0 +1,94 @@
+{
+  "number": 193,
+  "date": "2027-01-09",
+  "link": "COLLECTION",
+  "link_type": "category",
+  "compounds": "ARRAY · BATTERY · SET · SERIES",
+  "note": "ARRAY, BATTERY, SET and SERIES are all COLLECTIONS",
+  "clues": [
+    {
+      "answer": "ARRAY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Marshal",
+          "def"
+        ],
+        [
+          " calm when changing side repeatedly",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Marshal'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BATTERY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "It's no use if it's flat",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "as a pancake?",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: it's no use if it's flat, and as a pancake?."
+    },
+    {
+      "answer": "SET",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Ready",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "some tennis",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: ready, and some tennis."
+    },
+    {
+      "answer": "SERIES",
+      "device": "Charade",
+      "parts": [
+        [
+          "Run",
+          "def"
+        ],
+        [
+          " two sons across lake",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Run'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "number": 512,
+  "date": "2027-11-24",
+  "link": "FLUSH",
+  "link_type": "category",
+  "compounds": "EVEN · FLAT · LEVEL · PLANE",
+  "note": "EVEN, FLAT, LEVEL and PLANE are all FLUSHS",
+  "clues": [
+    {
+      "answer": "EVEN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Flat",
+          "def"
+        ],
+        [
+          " race is short",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Flat'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FLAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Unqualified",
+          "def"
+        ],
+        [
+          " character on the staff",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Unqualified'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LEVEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "The French versus the Spanish, ",
+          "ind"
+        ],
+        [
+          "with neither side leading?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'with neither side leading'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PLANE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "On which one might experience turbulence",
+          "def"
+        ],
+        [
+          " that's ",
+          ""
+        ],
+        [
+          "smoother",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: on which one might experience turbulence, and smoother."
+    }
+  ]
+}

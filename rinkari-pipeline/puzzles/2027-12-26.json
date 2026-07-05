@@ -1,0 +1,86 @@
+{
+  "number": 544,
+  "date": "2027-12-26",
+  "link": "DOWNRIGHT",
+  "link_type": "category",
+  "compounds": "PURE · SHEER · STARK · UTTER",
+  "note": "PURE, SHEER, STARK and UTTER are all DOWNRIGHTS",
+  "clues": [
+    {
+      "answer": "PURE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Utter",
+          "def"
+        ],
+        [
+          " excitedly about joining Royal Engineers",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Utter'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHEER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Utter",
+          "def"
+        ],
+        [
+          " hurrah with son for clubs",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Utter'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STARK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Time in Channel island is ",
+          "ind"
+        ],
+        [
+          "bleak",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'bleak'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "UTTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Speak indistinctly, losing marks at first, ",
+          "ind"
+        ],
+        [
+          "say",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'say'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

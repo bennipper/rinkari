@@ -1,0 +1,90 @@
+{
+  "number": 132,
+  "date": "2026-11-09",
+  "link": "CRITICIZE",
+  "link_type": "category",
+  "compounds": "KNOCK · PAN · ROAST · SLAM",
+  "note": "KNOCK, PAN, ROAST and SLAM are all CRITICIZES",
+  "clues": [
+    {
+      "answer": "KNOCK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Find fault with",
+          "def"
+        ],
+        [
+          " batsman's innings",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Find fault with'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PAN",
+      "device": "Charade",
+      "parts": [
+        [
+          "God",
+          "def"
+        ],
+        [
+          " is hurt, abandoned by one",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'God'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ROAST",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Pan",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "cook",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: pan, and cook."
+    },
+    {
+      "answer": "SLAM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Creed not one ",
+          "ind"
+        ],
+        [
+          "to criticise harshly",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'to criticise harshly'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

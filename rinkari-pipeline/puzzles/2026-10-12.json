@@ -1,0 +1,86 @@
+{
+  "number": 104,
+  "date": "2026-10-12",
+  "link": "TAUNTS",
+  "link_type": "category",
+  "compounds": "BOO · HISS · JEER · RASPBERRY",
+  "note": "BOO, HISS, JEER and RASPBERRY are all TAUNTS",
+  "clues": [
+    {
+      "answer": "BOO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Expression of dissent",
+          "def"
+        ],
+        [
+          " forbidden? No thanks!",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Expression of dissent'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HISS",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Urgently whisper",
+          "def"
+        ],
+        [
+          " part of this speech",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Urgently whisper'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "JEER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Full of energy, Yank’s brief ",
+          "ind"
+        ],
+        [
+          "catcall",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'catcall'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RASPBERRY",
+      "device": "Charade",
+      "parts": [
+        [
+          "British are out to block harsh ",
+          "ind"
+        ],
+        [
+          "brickbat",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'brickbat'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

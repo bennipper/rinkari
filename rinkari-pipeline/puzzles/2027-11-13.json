@@ -1,0 +1,94 @@
+{
+  "number": 501,
+  "date": "2027-11-13",
+  "link": "FLOP",
+  "link_type": "category",
+  "compounds": "BUST · LEMON · MISS · TURKEY",
+  "note": "BUST, LEMON, MISS and TURKEY are all FLOPS",
+  "clues": [
+    {
+      "answer": "BUST",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Ruined",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "a sculpture",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: ruined, and a sculpture."
+    },
+    {
+      "answer": "LEMON",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Fruit",
+          "def"
+        ],
+        [
+          " found in Jerusalem once",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Fruit'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "MISS",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Girl",
+          "def"
+        ],
+        [
+          " in film is seductive",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Girl'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "TURKEY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Land",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "bird",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: land, and bird."
+    }
+  ]
+}

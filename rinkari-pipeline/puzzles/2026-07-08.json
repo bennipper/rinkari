@@ -1,0 +1,90 @@
+{
+  "number": 8,
+  "date": "2026-07-08",
+  "link": "KEYBOARD",
+  "link_type": "category",
+  "compounds": "OPTION · RETURN · SHIFT · TAB",
+  "note": "OPTION, RETURN, SHIFT and TAB are all KEYBOARD keys",
+  "clues": [
+    {
+      "answer": "OPTION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Work on it ineptly for ",
+          "ind"
+        ],
+        [
+          "choice",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'choice'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RETURN",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Give back",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "profit",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: give back, and profit."
+    },
+    {
+      "answer": "SHIFT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stop remarking on very short ",
+          "ind"
+        ],
+        [
+          "dress?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'dress'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TAB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Flap",
+          "def"
+        ],
+        [
+          " about a bit — that's more than enough",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Flap'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

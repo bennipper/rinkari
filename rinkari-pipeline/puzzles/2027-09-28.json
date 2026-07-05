@@ -1,0 +1,90 @@
+{
+  "number": 455,
+  "date": "2027-09-28",
+  "link": "HETERONYMS",
+  "link_type": "category",
+  "compounds": "AXES · BASS · COORDINATE · DOES",
+  "note": "AXES, BASS, COORDINATE and DOES are all HETERONYMS",
+  "clues": [
+    {
+      "answer": "AXES",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Cuts",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "lines on graph?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: cuts, and lines on graph?."
+    },
+    {
+      "answer": "BASS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Type of guitar",
+          "def"
+        ],
+        [
+          " graduate strums peripherally",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Type of guitar'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "COORDINATE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Full of noise, harangue in support of county ",
+          "ind"
+        ],
+        [
+          "match",
+          "def"
+        ],
+        [
+          " (10)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'match'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DOES",
+      "device": "Charade",
+      "parts": [
+        [
+          "Deer",
+          "def"
+        ],
+        [
+          " is active",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Deer'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

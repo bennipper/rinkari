@@ -1,0 +1,90 @@
+{
+  "number": 179,
+  "date": "2026-12-26",
+  "link": "COLLEAGUE",
+  "link_type": "category",
+  "compounds": "ASSOCIATE · FELLOW · PARTNER · PEER",
+  "note": "ASSOCIATE, FELLOW, PARTNER and PEER are all COLLEAGUES",
+  "clues": [
+    {
+      "answer": "ASSOCIATE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Halfwit officer in charge I had as ",
+          "ind"
+        ],
+        [
+          "companion",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'companion'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FELLOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Academic",
+          "def"
+        ],
+        [
+          " stumbled over words at the outset",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Academic'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PARTNER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Associate",
+          "def"
+        ],
+        [
+          " returning about new carriage",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Associate'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PEER",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Look",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "equal",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: look, and equal."
+    }
+  ]
+}

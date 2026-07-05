@@ -1,0 +1,90 @@
+{
+  "number": 540,
+  "date": "2027-12-22",
+  "link": "DURATION",
+  "link_type": "category",
+  "compounds": "INTERVAL · PERIOD · SPAN · STRETCH",
+  "note": "INTERVAL, PERIOD, SPAN and STRETCH are all DURATIONS",
+  "clues": [
+    {
+      "answer": "INTERVAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Favoured travel abroad in ",
+          "ind"
+        ],
+        [
+          "break",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'break'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PERIOD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Part of school day",
+          "def"
+        ],
+        [
+          " — ",
+          ""
+        ],
+        [
+          "full stop!",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: part of school day, and full stop."
+    },
+    {
+      "answer": "SPAN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cross",
+          "def"
+        ],
+        [
+          " country from which I must be excluded",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cross'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STRETCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Way to gag ",
+          "ind"
+        ],
+        [
+          "bird",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'bird'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

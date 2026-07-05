@@ -1,0 +1,90 @@
+{
+  "number": 268,
+  "date": "2027-03-25",
+  "link": "DECREASE",
+  "link_type": "category",
+  "compounds": "DECLINE · DROP · DWINDLE · EBB",
+  "note": "DECLINE, DROP, DWINDLE and EBB are all DECREASES",
+  "clues": [
+    {
+      "answer": "DECLINE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Refuse",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "to come down",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: refuse, and to come down."
+    },
+    {
+      "answer": "DROP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Collapse",
+          "def"
+        ],
+        [
+          " in road held up work",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Collapse'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DWINDLE",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Die down",
+          "def"
+        ],
+        [
+          "? Some wretched wind lessens",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Die down'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "EBB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Finally lose black bishop, ",
+          "ind"
+        ],
+        [
+          "fall away",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'fall away'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

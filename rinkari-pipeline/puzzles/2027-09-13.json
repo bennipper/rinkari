@@ -1,0 +1,90 @@
+{
+  "number": 440,
+  "date": "2027-09-13",
+  "link": "TREES",
+  "link_type": "category",
+  "compounds": "BEECH · CEDAR · PINE · YEW",
+  "note": "BEECH, CEDAR, PINE and YEW are all TREES",
+  "clues": [
+    {
+      "answer": "BEECH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Beg to avoid two directions in ",
+          "ind"
+        ],
+        [
+          "wood",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'wood'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CEDAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Journalist trapped in vehicle ",
+          "ind"
+        ],
+        [
+          "that has cones all round it?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'that has cones all round it?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PINE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Long",
+          "def"
+        ],
+        [
+          "  ",
+          ""
+        ],
+        [
+          "evergreen tree",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: long, and evergreen tree."
+    },
+    {
+      "answer": "YEW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Churchyard tree",
+          "def"
+        ],
+        [
+          " the solver talked of",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Churchyard tree'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

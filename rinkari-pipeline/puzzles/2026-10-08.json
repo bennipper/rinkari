@@ -1,0 +1,86 @@
+{
+  "number": 100,
+  "date": "2026-10-08",
+  "link": "BUTT",
+  "link_type": "category",
+  "compounds": "BOTTOM · BUNS · SEAT · TAIL",
+  "note": "BOTTOM, BUNS, SEAT and TAIL are all BUTTS",
+  "clues": [
+    {
+      "answer": "BOTTOM",
+      "device": "Charade",
+      "parts": [
+        [
+          "In good times, teetotaller’s ",
+          "ind"
+        ],
+        [
+          "lowest point",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'lowest point'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BUNS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Slight lifting for ",
+          "ind"
+        ],
+        [
+          "buttocks",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'buttocks'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SEAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Main entrance to top ",
+          "ind"
+        ],
+        [
+          "stately home",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'stately home'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TAIL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Last few batsmen",
+          "def"
+        ],
+        [
+          " lie, so they say",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Last few batsmen'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

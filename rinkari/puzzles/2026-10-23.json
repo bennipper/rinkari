@@ -1,0 +1,90 @@
+{
+  "number": 115,
+  "date": "2026-10-23",
+  "link": "“AGREE!”",
+  "compounds": "DITTO · LIKEWISE · SAME · SECOND",
+  "note": "DITTO, LIKEWISE, SAME and SECOND are all “AGREE!”S",
+  "clues": [
+    {
+      "answer": "DITTO",
+      "device": "Charade",
+      "parts": [
+        [
+          "The same",
+          "def"
+        ],
+        [
+          " detective returned over the top",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'The same'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LIKEWISE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Just the same",
+          "def"
+        ],
+        [
+          " as Ernie, perhaps",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Just the same'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SAME",
+      "device": "Charade",
+      "parts": [
+        [
+          "Uniform",
+          "def"
+        ],
+        [
+          " Salvation Army made without padding",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Uniform'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SECOND",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Back",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "a short while",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: back, and a short while."
+    }
+  ],
+  "linkType": "category"
+}

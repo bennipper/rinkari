@@ -1,0 +1,90 @@
+{
+  "number": 582,
+  "date": "2028-02-02",
+  "link": "ENTREATY",
+  "link_type": "category",
+  "compounds": "APPEAL · BID · CALL · REQUEST",
+  "note": "APPEAL, BID, CALL and REQUEST are all ENTREATIES",
+  "clues": [
+    {
+      "answer": "APPEAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Attraction",
+          "def"
+        ],
+        [
+          " priests originally found in a set of bells",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Attraction'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BID",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tender",
+          "def"
+        ],
+        [
+          " chicken for one, not rook",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Tender'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CALL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Drop in",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "demand",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: drop in, and demand."
+    },
+    {
+      "answer": "REQUEST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Petition",
+          "def"
+        ],
+        [
+          " concerning hunt",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Petition'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

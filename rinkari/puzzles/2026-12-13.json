@@ -1,0 +1,90 @@
+{
+  "number": 166,
+  "date": "2026-12-13",
+  "link": "HURT",
+  "compounds": "ACHE · BURN · SMART · STING",
+  "note": "ACHE, BURN, SMART and STING are all HURTS",
+  "clues": [
+    {
+      "answer": "ACHE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Continuous pain?",
+          "def"
+        ],
+        [
+          " One must ring hospital",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Continuous pain?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BURN",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Feel very hot",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "running water?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: feel very hot, and running water?."
+    },
+    {
+      "answer": "SMART",
+      "device": "Charade",
+      "parts": [
+        [
+          "Well-kept",
+          "def"
+        ],
+        [
+          " small trading centre",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Well-kept'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Inform about time for ",
+          "ind"
+        ],
+        [
+          "swindle",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'swindle'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 205,
+  "date": "2027-01-21",
+  "link": "LENGTH",
+  "link_type": "category",
+  "compounds": "FATHOM · FOOT · LEAGUE · YARD",
+  "note": "FATHOM, FOOT, LEAGUE and YARD are all UNITS OF LENGTH",
+  "clues": [
+    {
+      "answer": "FATHOM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Understand",
+          "def"
+        ],
+        [
+          " fine party hasn’t finished",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Understand'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FOOT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Paper bags over old ",
+          "ind"
+        ],
+        [
+          "soldiers",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'soldiers'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LEAGUE",
+      "device": "Charade",
+      "parts": [
+        [
+          "The French taking over from Victor in leading obscure ",
+          "ind"
+        ],
+        [
+          "group",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'group'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "YARD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Quadrangle",
+          "def"
+        ],
+        [
+          " where low cart is reversing",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Quadrangle'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

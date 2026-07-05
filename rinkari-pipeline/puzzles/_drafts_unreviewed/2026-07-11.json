@@ -1,0 +1,66 @@
+{
+  "number": 9,
+  "date": "2026-07-11",
+  "link": "GEMSTONES",
+  "link_type": "category",
+  "compounds": "OPAL · RUBY · JADE · AMBER · PEARL",
+  "note": "A category day: five gemstones, no compounding — just five fair clues and a shared home in the jewellery box.",
+  "clues": [
+    {
+      "answer": "OPAL",
+      "device": "Hidden word",
+      "parts": [
+        ["Gem", "def"],
+        [" ", ""],
+        ["found in", "ind"],
+        [" a complexion so pale (4)", ""]
+      ],
+      "parse": "Hidden: so pALE — no, in 'so pale' itself: sO PALe conceals OPAL. 'Found in' marks the concealment."
+    },
+    {
+      "answer": "RUBY",
+      "device": "Charade",
+      "parts": [
+        ["Massage and an unknown quantity", "ind"],
+        [" — the ", ""],
+        ["fiery red gem", "def"],
+        [" (4)", ""]
+      ],
+      "parse": "Charade: RUB (massage) + Y (unknown quantity, as in algebra) = RUBY."
+    },
+    {
+      "answer": "JADE",
+      "device": "Double definition",
+      "parts": [
+        ["To tire", "def"],
+        [", ", ""],
+        ["a precious green stone", "ind"],
+        [" (4)", ""]
+      ],
+      "parse": "Double definition: to weary or tire, and the precious green stone."
+    },
+    {
+      "answer": "AMBER",
+      "device": "Anagram",
+      "parts": [
+        ["Bream ", ""],
+        ["battered", "ind"],
+        [" becomes the ", ""],
+        ["fossil gem", "def"],
+        [" (5)", ""]
+      ],
+      "parse": "Anagram: BREAM, battered, becomes AMBER."
+    },
+    {
+      "answer": "PEARL",
+      "device": "Double definition",
+      "parts": [
+        ["Oyster's gift", "def"],
+        [", ", ""],
+        ["a nugget of wisdom", "ind"],
+        [" (5)", ""]
+      ],
+      "parse": "Double definition: an oyster's gem, and a nugget of wisdom."
+    }
+  ]
+}

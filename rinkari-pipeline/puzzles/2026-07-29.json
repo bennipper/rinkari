@@ -1,0 +1,86 @@
+{
+  "number": 29,
+  "date": "2026-07-29",
+  "link": "GREEK",
+  "link_type": "category",
+  "compounds": "BETA · CHI · DELTA · IOTA",
+  "note": "BETA, CHI, DELTA and IOTA are all GREEK letters",
+  "clues": [
+    {
+      "answer": "BETA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Put money on a ",
+          "ind"
+        ],
+        [
+          "Greek character",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Greek character'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CHI",
+      "device": "Charade",
+      "parts": [
+        [
+          "Endlessly stylish ",
+          "ind"
+        ],
+        [
+          "Greek character",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Greek character'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DELTA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Greek character",
+          "def"
+        ],
+        [
+          " was first on return to get word of gratitude",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Greek character'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "IOTA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Volunteers to go after one old ",
+          "ind"
+        ],
+        [
+          "Greek character",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Greek character'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

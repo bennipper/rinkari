@@ -1,0 +1,94 @@
+{
+  "number": 397,
+  "date": "2027-08-01",
+  "link": "EVADE",
+  "compounds": "DODGE · DUCK · SHAKE · SKIRT",
+  "note": "DODGE, DUCK, SHAKE and SKIRT are all EVADES",
+  "clues": [
+    {
+      "answer": "DODGE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Get out of",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "a car",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: get out of, and a car."
+    },
+    {
+      "answer": "DUCK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "A batting failure",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "a famous Donald",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: a batting failure, and a famous donald."
+    },
+    {
+      "answer": "SHAKE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fish found beneath small ",
+          "ind"
+        ],
+        [
+          "rock",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'rock'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SKIRT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Go around",
+          "def"
+        ],
+        [
+          " clubs banned from turning tricks",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Go around'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

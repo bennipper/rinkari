@@ -1,0 +1,94 @@
+{
+  "number": 99,
+  "date": "2026-10-07",
+  "link": "CONCEAL",
+  "link_type": "category",
+  "compounds": "BLOCK · COVER · HIDE · MASK",
+  "note": "BLOCK, COVER, HIDE and MASK are all CONCEALS",
+  "clues": [
+    {
+      "answer": "BLOCK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Jam",
+          "def"
+        ],
+        [
+          " or ",
+          ""
+        ],
+        [
+          "cake?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: jam, and cake."
+    },
+    {
+      "answer": "COVER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Clubs finished ",
+          "ind"
+        ],
+        [
+          "top",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'top'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HIDE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Skin",
+          "def"
+        ],
+        [
+          " to ",
+          ""
+        ],
+        [
+          "keep dark",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: skin, and keep dark."
+    },
+    {
+      "answer": "MASK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Head of Mafia to request ",
+          "ind"
+        ],
+        [
+          "disguise",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'disguise'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "number": 339,
+  "date": "2027-06-04",
+  "link": "PUTDOWN",
+  "compounds": "BARB · CRACK · DIG · SLIGHT",
+  "note": "BARB, CRACK, DIG and SLIGHT are all PUTDOWNS",
+  "clues": [
+    {
+      "answer": "BARB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pub bore at first provokes ",
+          "ind"
+        ],
+        [
+          "sharp comment",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'sharp comment'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CRACK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Excellent",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "joke",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: excellent, and joke."
+    },
+    {
+      "answer": "DIG",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Like",
+          "def"
+        ],
+        [
+          " an ",
+          ""
+        ],
+        [
+          "archaeological excavation",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: like, and archaeological excavation."
+    },
+    {
+      "answer": "SLIGHT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Trivial",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "affront",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: trivial, and affront."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,94 @@
+{
+  "number": 68,
+  "date": "2026-09-06",
+  "link": "PAINTERS",
+  "link_type": "category",
+  "compounds": "BACON · CLOSE · MUNCH · WHISTLER",
+  "note": "BACON, CLOSE, MUNCH and WHISTLER are all PAINTERS",
+  "clues": [
+    {
+      "answer": "BACON",
+      "device": "Charade",
+      "parts": [
+        [
+          "Meat",
+          "def"
+        ],
+        [
+          " embargo broken by firm",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Meat'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CLOSE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Finish",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "alongside",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: finish, and alongside."
+    },
+    {
+      "answer": "MUNCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Champ",
+          "def"
+        ],
+        [
+          ", from German city one knocked out",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Champ'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WHISTLER",
+      "device": "Double definition",
+      "parts": [
+        [
+          "American painter",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "who uses wind instrument?",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: american painter, and who uses wind instrument."
+    }
+  ]
+}

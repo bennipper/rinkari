@@ -1,0 +1,86 @@
+{
+  "number": 299,
+  "date": "2027-04-25",
+  "link": "DEPLETE",
+  "link_type": "category",
+  "compounds": "DRAIN · EMPTY · EXHAUST · SAP",
+  "note": "DRAIN, EMPTY, EXHAUST and SAP are all DEPLETES",
+  "clues": [
+    {
+      "answer": "DRAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Duke drops ",
+          "ind"
+        ],
+        [
+          "pipe",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'pipe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EMPTY",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Vain",
+          "def"
+        ],
+        [
+          " attempt you keep hidden",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Vain'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "EXHAUST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Run out",
+          "def"
+        ],
+        [
+          " of Gold Street going after former husband",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Run out'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SAP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dad's served up ",
+          "ind"
+        ],
+        [
+          "juice",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'juice'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

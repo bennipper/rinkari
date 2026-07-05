@@ -1,0 +1,90 @@
+{
+  "number": 442,
+  "date": "2027-09-15",
+  "link": "PERFORATE",
+  "link_type": "category",
+  "compounds": "BORE · PIERCE · POKE · PUNCH",
+  "note": "BORE, PIERCE, POKE and PUNCH are all PERFORATES",
+  "clues": [
+    {
+      "answer": "BORE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stuck",
+          "def"
+        ],
+        [
+          " first of borrowed money in Oslo",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Stuck'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PIERCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Go through",
+          "def"
+        ],
+        [
+          " church under mass of stonework?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Go through'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POKE",
+      "device": "Charade",
+      "parts": [
+        [
+          "You've every right to steer clear of fattened pig in ",
+          "ind"
+        ],
+        [
+          "this!",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'this'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PUNCH",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Alcoholic drink",
+          "def"
+        ],
+        [
+          " is ",
+          ""
+        ],
+        [
+          "a hit",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: alcoholic drink, and a hit."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "number": 588,
+  "date": "2028-02-08",
+  "link": "RUPTURE",
+  "compounds": "BLOW · CRACK · POP · SPLIT",
+  "note": "BLOW, CRACK, POP and SPLIT are all RUPTURES",
+  "clues": [
+    {
+      "answer": "BLOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Setback",
+          "def"
+        ],
+        [
+          ": British crestfallen",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Setback'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CRACK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Excellent",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "joke",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: excellent, and joke."
+    },
+    {
+      "answer": "POP",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Dad",
+          "def"
+        ],
+        [
+          "’s ",
+          ""
+        ],
+        [
+          "sort of music?",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: dad, and sort of music."
+    },
+    {
+      "answer": "SPLIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Scottish League One team’s first in ",
+          "ind"
+        ],
+        [
+          "division",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'division'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

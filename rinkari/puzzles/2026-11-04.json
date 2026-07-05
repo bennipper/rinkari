@@ -1,0 +1,86 @@
+{
+  "number": 127,
+  "date": "2026-11-04",
+  "link": "HOMOPHONES",
+  "compounds": "PEAK · PEEK · PEKE · PIQUE",
+  "note": "PEAK, PEEK, PEKE and PIQUE are all HOMOPHONES",
+  "clues": [
+    {
+      "answer": "PEAK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Maximum",
+          "def"
+        ],
+        [
+          " fantasy author not reaching conclusion",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Maximum'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PEEK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Look",
+          "def"
+        ],
+        [
+          " to hold back",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Look'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PEKE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dog",
+          "def"
+        ],
+        [
+          " exercises round eastern parts of Hyde Park",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Dog'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PIQUE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Card player’s score ",
+          "ind"
+        ],
+        [
+          "put out?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'put out'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

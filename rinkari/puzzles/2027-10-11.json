@@ -1,0 +1,86 @@
+{
+  "number": 468,
+  "date": "2027-10-11",
+  "link": "MOVIE",
+  "compounds": "FEATURE · FILM · FLICK · PICTURE",
+  "note": "FEATURE, FILM, FLICK and PICTURE are all MOVIES",
+  "clues": [
+    {
+      "answer": "FEATURE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Charge around a country, missing key ",
+          "ind"
+        ],
+        [
+          "characteristic",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'characteristic'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FILM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Release",
+          "def"
+        ],
+        [
+          " group from slum life given lift",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Release'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FLICK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fine taste shown in ",
+          "ind"
+        ],
+        [
+          "film",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'film'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PICTURE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Ancient Scot on river ",
+          "ind"
+        ],
+        [
+          "shot",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'shot'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

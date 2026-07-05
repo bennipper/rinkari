@@ -1,0 +1,86 @@
+{
+  "number": 63,
+  "date": "2026-09-01",
+  "link": "ARACHNIDS",
+  "link_type": "category",
+  "compounds": "MITE · SCORPION · SPIDER · TICK",
+  "note": "MITE, SCORPION, SPIDER and TICK are all ARACHNIDS",
+  "clues": [
+    {
+      "answer": "MITE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Modest offering",
+          "def"
+        ],
+        [
+          " from overseas university: English",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Modest offering'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCORPION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Venomous creature",
+          "def"
+        ],
+        [
+          " seen in house, located by noon",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Venomous creature'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPIDER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Military group swims, coming up for a ",
+          "ind"
+        ],
+        [
+          "rest",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'rest'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TICK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mark",
+          "def"
+        ],
+        [
+          " brought by corporal punishment? Son avoids that",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Mark'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

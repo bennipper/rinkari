@@ -1,0 +1,86 @@
+{
+  "number": 313,
+  "date": "2027-05-09",
+  "link": "FISH",
+  "link_type": "category",
+  "compounds": "FLUKE · MULLET · SOLE · TANG",
+  "note": "FLUKE, MULLET, SOLE and TANG are all types of FISH",
+  "clues": [
+    {
+      "answer": "FLUKE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cause of liver rot",
+          "def"
+        ],
+        [
+          " initially foxed physician",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cause of liver rot'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MULLET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Ponder extraterrestrial ",
+          "ind"
+        ],
+        [
+          "form of sea life",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'form of sea life'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SOLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Only",
+          "def"
+        ],
+        [
+          " be doing this having put away volume",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Only'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TANG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Flipping insect ",
+          "ind"
+        ],
+        [
+          "bite",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'bite'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

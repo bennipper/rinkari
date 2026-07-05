@@ -1,0 +1,86 @@
+{
+  "number": 114,
+  "date": "2026-10-22",
+  "link": "APPEARANCE",
+  "compounds": "DRESS · LOOK · MANNER · STYLE",
+  "note": "DRESS, LOOK, MANNER and STYLE are all APPEARANCES",
+  "clues": [
+    {
+      "answer": "DRESS",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Gown",
+          "def"
+        ],
+        [
+          " kept in padre's sideboard",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Gown'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "LOOK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Take a dekko",
+          "def"
+        ],
+        [
+          " — and see all right",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Take a dekko'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MANNER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fashion",
+          "def"
+        ],
+        [
+          " house, we hear?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Fashion'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STYLE",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "It bears a stigma",
+          "def"
+        ],
+        [
+          ", part of nasty lesion",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'It bears a stigma'; the answer is concealed in the surrounding wordplay."
+    }
+  ],
+  "linkType": "category"
+}

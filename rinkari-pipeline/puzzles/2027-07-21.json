@@ -1,0 +1,86 @@
+{
+  "number": 386,
+  "date": "2027-07-21",
+  "link": "DOG",
+  "link_type": "category",
+  "compounds": "BULLY · CHOW · GOLDEN · LAB",
+  "note": "BULLY, CHOW, GOLDEN and LAB are all DOG breeds",
+  "clues": [
+    {
+      "answer": "BULLY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bribe takes in students ",
+          "ind"
+        ],
+        [
+          "beginning to game",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'beginning to game'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CHOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Heard cheers in Italy for ",
+          "ind"
+        ],
+        [
+          "a dog",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a dog'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GOLDEN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Good and ancient, ",
+          "ind"
+        ],
+        [
+          "this age?",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'this age?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LAB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Left a key for ",
+          "ind"
+        ],
+        [
+          "scientists' workroom",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'scientists' workroom'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

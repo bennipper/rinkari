@@ -1,0 +1,90 @@
+{
+  "number": 341,
+  "date": "2027-06-06",
+  "link": "CONTEMPLATE",
+  "link_type": "category",
+  "compounds": "BROOD · MUSE · PONDER · REFLECT",
+  "note": "BROOD, MUSE, PONDER and REFLECT are all CONTEMPLATES",
+  "clues": [
+    {
+      "answer": "BROOD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Family",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "think negatively",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: family, and think negatively."
+    },
+    {
+      "answer": "MUSE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Think",
+          "def"
+        ],
+        [
+          " rodent’s wanting what looks like Edam cheese?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Think'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PONDER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Think about",
+          "def"
+        ],
+        [
+          " area of water associated with Queen",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Think about'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "REFLECT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Umpire, about to block service hitting net, gets to ",
+          "ind"
+        ],
+        [
+          "ponder",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'ponder'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

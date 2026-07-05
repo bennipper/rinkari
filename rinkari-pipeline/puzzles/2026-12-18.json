@@ -1,0 +1,90 @@
+{
+  "number": 171,
+  "date": "2026-12-18",
+  "link": "BOATS",
+  "link_type": "category",
+  "compounds": "BARGE · DORY · SCOW · SLOOP",
+  "note": "BARGE, DORY, SCOW and SLOOP are all BOATS",
+  "clues": [
+    {
+      "answer": "BARGE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Lighter",
+          "def"
+        ],
+        [
+          " / ",
+          ""
+        ],
+        [
+          "force?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: lighter, and force."
+    },
+    {
+      "answer": "DORY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fish",
+          "def"
+        ],
+        [
+          " from front or stern of dinghy",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Fish'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Flat-bottomed boat",
+          "def"
+        ],
+        [
+          " made by firm in the Devon area",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Flat-bottomed boat'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SLOOP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Taking portside tack, a gamble for ",
+          "ind"
+        ],
+        [
+          "ship",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'ship'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

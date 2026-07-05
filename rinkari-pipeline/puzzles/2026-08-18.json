@@ -1,0 +1,86 @@
+{
+  "number": 49,
+  "date": "2026-08-18",
+  "link": "COPY",
+  "link_type": "category",
+  "compounds": "COPY · ECHO · MIMIC · PARROT",
+  "note": "COPY, ECHO, MIMIC and PARROT all mean to COPY",
+  "clues": [
+    {
+      "answer": "COPY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Imitate",
+          "def"
+        ],
+        [
+          " policeman going to Yard",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Imitate'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ECHO",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Repeat",
+          "def"
+        ],
+        [
+          " part of speech occasionally",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Repeat'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "MIMIC",
+      "device": "Charade",
+      "parts": [
+        [
+          "Ape",
+          "def"
+        ],
+        [
+          " tragic heroine beginning to cry",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Ape'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PARROT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mimic",
+          "def"
+        ],
+        [
+          " a bishop on board vessel",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Mimic'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

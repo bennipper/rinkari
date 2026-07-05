@@ -1,0 +1,90 @@
+{
+  "number": 343,
+  "date": "2027-06-08",
+  "link": "OWNED",
+  "link_type": "category",
+  "compounds": "BORE · HAD · HELD · POSSESSED",
+  "note": "BORE, HAD, HELD and POSSESSED are all OWNEDS",
+  "clues": [
+    {
+      "answer": "BORE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stuck",
+          "def"
+        ],
+        [
+          " first of borrowed money in Oslo",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Stuck'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HAD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Complex parts with radius ",
+          "ind"
+        ],
+        [
+          "taken in",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'taken in'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HELD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Borders of hostile land ",
+          "ind"
+        ],
+        [
+          "occupied",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'occupied'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POSSESSED",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Had",
+          "def"
+        ],
+        [
+          " to be ",
+          ""
+        ],
+        [
+          "in need of an exorcist?",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: had, and in need of an exorcist?."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "number": 281,
+  "date": "2027-04-07",
+  "link": "MOVIES",
+  "link_type": "category",
+  "compounds": "BIG · ELF · HER · SAW",
+  "note": "BIG, ELF, HER and SAW are all MOVIES",
+  "clues": [
+    {
+      "answer": "BIG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sizeable",
+          "def"
+        ],
+        [
+          " British force on the ground",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Sizeable'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ELF",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Sprite",
+          "def"
+        ],
+        [
+          " seen in hotel foyer",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Sprite'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "HER",
+      "device": "Charade",
+      "parts": [
+        [
+          "A woman’s",
+          "def"
+        ],
+        [
+          " idol? Not altogether",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'A woman’s'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SAW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Gnome",
+          "def"
+        ],
+        [
+          " used to be upside down",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Gnome'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

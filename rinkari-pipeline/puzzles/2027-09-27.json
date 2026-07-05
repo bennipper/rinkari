@@ -1,0 +1,90 @@
+{
+  "number": 454,
+  "date": "2027-09-27",
+  "link": "PESTER",
+  "link_type": "category",
+  "compounds": "BADGER · BUG · HARRY · RIDE",
+  "note": "BADGER, BUG, HARRY and RIDE are all PESTERS",
+  "clues": [
+    {
+      "answer": "BADGER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Evil King Edward blocked by good ",
+          "ind"
+        ],
+        [
+          "Harry",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Harry'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BUG",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Micro-organism",
+          "def"
+        ],
+        [
+          " found in ",
+          ""
+        ],
+        [
+          "creepy-crawly?",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: micro-organism, and creepy-crawly."
+    },
+    {
+      "answer": "HARRY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Hound",
+          "def"
+        ],
+        [
+          " dangerous when one’s going for run",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Hound'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RIDE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Travel",
+          "def"
+        ],
+        [
+          " free heading East",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Travel'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

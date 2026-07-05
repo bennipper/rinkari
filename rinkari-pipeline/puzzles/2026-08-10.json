@@ -1,0 +1,86 @@
+{
+  "number": 41,
+  "date": "2026-08-10",
+  "link": "ROYAL",
+  "link_type": "category",
+  "compounds": "BARON · EARL · KING · PRINCE",
+  "note": "BARON, EARL, KING and PRINCE are all ROYAL titles",
+  "clues": [
+    {
+      "answer": "BARON",
+      "device": "Charade",
+      "parts": [
+        [
+          "Noble",
+          "def"
+        ],
+        [
+          " Oscar shed clothes",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Noble'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EARL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Peer",
+          "def"
+        ],
+        [
+          " in organ loft, but not very many times",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Peer'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "KING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Family joined by grand ",
+          "ind"
+        ],
+        [
+          "royal personage",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'royal personage'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PRINCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Image-promotion in church for ",
+          "ind"
+        ],
+        [
+          "resident at palace?",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'resident at palace'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

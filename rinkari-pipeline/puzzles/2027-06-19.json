@@ -1,0 +1,90 @@
+{
+  "number": 354,
+  "date": "2027-06-19",
+  "link": "ALERT",
+  "link_type": "category",
+  "compounds": "ALARM · FLARE · SIGNAL · SOS",
+  "note": "ALARM, FLARE, SIGNAL and SOS are all ALERTS",
+  "clues": [
+    {
+      "answer": "ALARM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Warning",
+          "def"
+        ],
+        [
+          " a member about lake",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Warning'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FLARE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Spread",
+          "def"
+        ],
+        [
+          " of food with litres for drinking",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Spread'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SIGNAL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Noteworthy",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "contributor to rail safety",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: noteworthy, and contributor to rail safety."
+    },
+    {
+      "answer": "SOS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Notes ",
+          "ind"
+        ],
+        [
+          "help me!",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'help me'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

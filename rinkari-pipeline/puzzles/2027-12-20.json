@@ -1,0 +1,86 @@
+{
+  "number": 538,
+  "date": "2027-12-20",
+  "link": "IMITATION",
+  "link_type": "category",
+  "compounds": "DUMMY · MOCK · PRETEND · SHAM",
+  "note": "DUMMY, MOCK, PRETEND and SHAM are all IMITATIONS",
+  "clues": [
+    {
+      "answer": "DUMMY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mummy’s rhyme ",
+          "ind"
+        ],
+        [
+          "that soothes baby",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'that soothes baby'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MOCK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Make fun of",
+          "def"
+        ],
+        [
+          " dress? Don't start!",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Make fun of'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PRETEND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Put on",
+          "def"
+        ],
+        [
+          " pressure dealing with nurse",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Put on'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHAM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pretend",
+          "def"
+        ],
+        [
+          " to be quiet in the morning",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Pretend'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

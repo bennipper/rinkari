@@ -1,0 +1,90 @@
+{
+  "number": 449,
+  "date": "2027-09-22",
+  "link": "INTREPIDITY",
+  "link_type": "category",
+  "compounds": "FORTITUDE · GRIT · PLUCK · RESOLVE",
+  "note": "FORTITUDE, GRIT, PLUCK and RESOLVE are all INTREPIDITIES",
+  "clues": [
+    {
+      "answer": "FORTITUDE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Determination",
+          "def"
+        ],
+        [
+          " shown by pro with pain in the arse – due to be operated on",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'determination'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GRIT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Guzzler emptied wine ",
+          "ind"
+        ],
+        [
+          "bottle",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'bottle'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PLUCK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Line included by Shakespearean character shows ",
+          "ind"
+        ],
+        [
+          "courage",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'courage'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RESOLVE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Decide",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "to do the crossword again?",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: decide, and to do the crossword again."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "number": 370,
+  "date": "2027-07-05",
+  "link": "AVERAGE",
+  "link_type": "category",
+  "compounds": "MEAN · NORM · PAR · STANDARD",
+  "note": "MEAN, NORM, PAR and STANDARD are all AVERAGES",
+  "clues": [
+    {
+      "answer": "MEAN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Petty",
+          "def"
+        ],
+        [
+          " bloke hiding key",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Petty'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "NORM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Choice of adjacent letters seen as ",
+          "ind"
+        ],
+        [
+          "benchmark",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'benchmark'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Standard",
+          "def"
+        ],
+        [
+          " cut reduced",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Standard'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STANDARD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Stock",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "colours",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: stock, and colours."
+    }
+  ]
+}

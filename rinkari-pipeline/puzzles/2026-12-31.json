@@ -1,0 +1,90 @@
+{
+  "number": 184,
+  "date": "2026-12-31",
+  "link": "INCLUDING",
+  "link_type": "category",
+  "compounds": "AND · ALSO · PLUS · WITH",
+  "note": "AND, ALSO, PLUS and WITH are all INCLUDINGS",
+  "clues": [
+    {
+      "answer": "AND",
+      "device": "Double definition",
+      "parts": [
+        [
+          "It’s a plus",
+          "def"
+        ],
+        [
+          " but ",
+          ""
+        ],
+        [
+          "often comes between partners",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: it’s a plus, and often comes between partners."
+    },
+    {
+      "answer": "ALSO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Further",
+          "def"
+        ],
+        [
+          " a London orchestra",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Further'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PLUS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Promotes eradicating source of Government ",
+          "ind"
+        ],
+        [
+          "benefit",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'benefit'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WITH",
+      "device": "Charade",
+      "parts": [
+        [
+          "In spite of",
+          "def"
+        ],
+        [
+          " horse, humorist gets up on it",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'In spite of'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

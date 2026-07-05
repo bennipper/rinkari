@@ -1,0 +1,90 @@
+{
+  "number": 380,
+  "date": "2027-07-15",
+  "link": "PRICK",
+  "link_type": "category",
+  "compounds": "JAB · PIERCE · POKE · STICK",
+  "note": "JAB, PIERCE, POKE and STICK are all PRICKS",
+  "clues": [
+    {
+      "answer": "JAB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sailor supporting Judge in ",
+          "ind"
+        ],
+        [
+          "critical comment",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'critical comment'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PIERCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Go through",
+          "def"
+        ],
+        [
+          " church under mass of stonework?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Go through'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POKE",
+      "device": "Charade",
+      "parts": [
+        [
+          "You've every right to steer clear of fattened pig in ",
+          "ind"
+        ],
+        [
+          "this!",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'this'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STICK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Put up with",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "verbal abuse",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: put up with, and verbal abuse."
+    }
+  ]
+}

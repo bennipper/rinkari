@@ -1,0 +1,86 @@
+{
+  "number": 494,
+  "date": "2027-11-06",
+  "link": "SPORTS",
+  "link_type": "category",
+  "compounds": "GOLF · JUDO · POLO · SUMO",
+  "note": "GOLF, JUDO, POLO and SUMO are all SPORTS",
+  "clues": [
+    {
+      "answer": "GOLF",
+      "device": "Charade",
+      "parts": [
+        [
+          "Whip up ",
+          "ind"
+        ],
+        [
+          "gee",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'gee'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "JUDO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Judge duo performing ",
+          "ind"
+        ],
+        [
+          "martial art",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'martial art'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POLO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Game",
+          "def"
+        ],
+        [
+          " found by river — deep but not wide",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Game'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SUMO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Problem over ",
+          "ind"
+        ],
+        [
+          "a style of wresting",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a style of wresting'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

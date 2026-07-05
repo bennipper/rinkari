@@ -1,0 +1,86 @@
+{
+  "number": 447,
+  "date": "2027-09-20",
+  "link": "DERRIERE",
+  "compounds": "BACKSIDE · CABOOSE · SEAT · TAIL",
+  "note": "BACKSIDE, CABOOSE, SEAT and TAIL are all DERRIERES",
+  "clues": [
+    {
+      "answer": "BACKSIDE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Party after support gaining ",
+          "ind"
+        ],
+        [
+          "seat",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'seat'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CABOOSE",
+      "device": "Charade",
+      "parts": [
+        [
+          "American at the rear",
+          "def"
+        ],
+        [
+          " gets derisive cheer in state",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'American at the rear'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SEAT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Main entrance to top ",
+          "ind"
+        ],
+        [
+          "stately home",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'stately home'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TAIL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Last few batsmen",
+          "def"
+        ],
+        [
+          " lie, so they say",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Last few batsmen'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

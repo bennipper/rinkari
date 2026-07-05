@@ -1,0 +1,90 @@
+{
+  "number": 53,
+  "date": "2026-08-22",
+  "link": "TREES",
+  "compounds": "ASH · CEDAR · MAPLE · PINE",
+  "note": "ASH, CEDAR, MAPLE and PINE are all TREES",
+  "clues": [
+    {
+      "answer": "ASH",
+      "device": "Charade",
+      "parts": [
+        [
+          "A silencing word ",
+          "ind"
+        ],
+        [
+          "remains",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'remains'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CEDAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Journalist trapped in vehicle ",
+          "ind"
+        ],
+        [
+          "that has cones all round it?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'that has cones all round it?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MAPLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fellow must keep quiet in ",
+          "ind"
+        ],
+        [
+          "wood",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'wood'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PINE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Long",
+          "def"
+        ],
+        [
+          "  ",
+          ""
+        ],
+        [
+          "evergreen tree",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: long, and evergreen tree."
+    }
+  ],
+  "linkType": "category"
+}

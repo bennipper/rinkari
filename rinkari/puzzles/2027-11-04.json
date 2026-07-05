@@ -1,0 +1,86 @@
+{
+  "number": 492,
+  "date": "2027-11-04",
+  "link": "COST",
+  "compounds": "AMOUNT · FIGURE · PRICE · VALUE",
+  "note": "AMOUNT, FIGURE, PRICE and VALUE are all COSTS",
+  "clues": [
+    {
+      "answer": "AMOUNT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Measure",
+          "def"
+        ],
+        [
+          " a horse",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Measure'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FIGURE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Illustration",
+          "def"
+        ],
+        [
+          " of tree overlooking northern river",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Illustration'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PRICE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cost of",
+          "def"
+        ],
+        [
+          " penny cereal",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cost of'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "VALUE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Put a price on",
+          "def"
+        ],
+        [
+          " uranium discovered in glen",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Put a price on'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

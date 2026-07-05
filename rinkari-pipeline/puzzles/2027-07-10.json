@@ -1,0 +1,86 @@
+{
+  "number": 375,
+  "date": "2027-07-10",
+  "link": "MAGAZINES",
+  "link_type": "category",
+  "compounds": "BILLBOARD · PEOPLE · STAR · TIME",
+  "note": "BILLBOARD, PEOPLE, STAR and TIME are all MAGAZINES",
+  "clues": [
+    {
+      "answer": "BILLBOARD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Invoice committee for ",
+          "ind"
+        ],
+        [
+          "hoarding",
+          "def"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'hoarding'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PEOPLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "US writer in recording backing European ",
+          "ind"
+        ],
+        [
+          "nation",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'nation'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Briefly look for ",
+          "ind"
+        ],
+        [
+          "the Sun, say",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'the Sun, say'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TIME",
+      "device": "Charade",
+      "parts": [
+        [
+          "Period",
+          "def"
+        ],
+        [
+          " when discharge comes up",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Period'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

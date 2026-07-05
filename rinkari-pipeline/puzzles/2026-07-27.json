@@ -1,0 +1,86 @@
+{
+  "number": 27,
+  "date": "2026-07-27",
+  "link": "SLOW",
+  "link_type": "category",
+  "compounds": "LORIS · SLOTH · SNAIL · TORTOISE",
+  "note": "LORIS, SLOTH, SNAIL and TORTOISE are all SLOWS",
+  "clues": [
+    {
+      "answer": "LORIS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Primate",
+          "def"
+        ],
+        [
+          " is following God for the most part",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Primate'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SLOTH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Opening hotel, displaying ",
+          "ind"
+        ],
+        [
+          "sluggishness",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'sluggishness'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SNAIL",
+      "device": "Charade",
+      "parts": [
+        [
+          "One in no hurry",
+          "def"
+        ],
+        [
+          " to whizz round north",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'One in no hurry'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TORTOISE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tories to reform: ",
+          "ind"
+        ],
+        [
+          "one’s slow to move!",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'one’s slow to move'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

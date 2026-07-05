@@ -1,0 +1,86 @@
+{
+  "number": 532,
+  "date": "2027-12-14",
+  "link": "DESTROY",
+  "link_type": "category",
+  "compounds": "BREAK · DAMAGE · TOTAL · WRECK",
+  "note": "BREAK, DAMAGE, TOTAL and WRECK are all DESTROIES",
+  "clues": [
+    {
+      "answer": "BREAK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stop on road, we hear, to get ",
+          "ind"
+        ],
+        [
+          "rest",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'res'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DAMAGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Harm",
+          "def"
+        ],
+        [
+          " caused by eg a crazy reversal",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Harm'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TOTAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Complete",
+          "def"
+        ],
+        [
+          " stop as outsiders leave — speech unfinished",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Complete'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WRECK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Loss at sea",
+          "def"
+        ],
+        [
+          " with not taking care? Not half",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Loss at sea'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

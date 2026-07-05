@@ -1,0 +1,90 @@
+{
+  "number": 302,
+  "date": "2027-04-28",
+  "link": "ATTAIN",
+  "link_type": "category",
+  "compounds": "EARN · LAND · SCORE · WIN",
+  "note": "EARN, LAND, SCORE and WIN are all ATTAINS",
+  "clues": [
+    {
+      "answer": "EARN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Attention needed at first to ",
+          "ind"
+        ],
+        [
+          "make money",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'make money'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LAND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Initially locked and ",
+          "ind"
+        ],
+        [
+          "secure",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'secure'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCORE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Find the net",
+          "def"
+        ],
+        [
+          "?  ",
+          ""
+        ],
+        [
+          "One can be composed!",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: find the net, and one can be composed."
+    },
+    {
+      "answer": "WIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Victory",
+          "def"
+        ],
+        [
+          " almost a breeze",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Victory'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

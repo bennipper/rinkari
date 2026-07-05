@@ -1,0 +1,86 @@
+{
+  "number": 421,
+  "date": "2027-08-25",
+  "link": "JOHNS",
+  "link_type": "category",
+  "compounds": "CANDY · CARPENTER · LEGEND · MAJOR",
+  "note": "CANDY, CARPENTER, LEGEND and MAJOR are all JOHNS",
+  "clues": [
+    {
+      "answer": "CANDY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sweets",
+          "def"
+        ],
+        [
+          " in tin daddy emptied",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Sweets'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CARPENTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Craftsman",
+          "def"
+        ],
+        [
+          "'s moan: tenant has blocked off entrance",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Craftsman'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LEGEND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Aim to follow member’s ",
+          "ind"
+        ],
+        [
+          "story",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'story'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MAJOR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Officer",
+          "def"
+        ],
+        [
+          " in spot of trouble retreating with men",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Officer'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "number": 296,
+  "date": "2027-04-22",
+  "link": "GUIDE",
+  "link_type": "category",
+  "compounds": "PILOT · USHER · SHEPHERD · STEER",
+  "note": "PILOT, USHER, SHEPHERD and STEER are all GUIDES",
+  "clues": [
+    {
+      "answer": "PILOT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sanctimonious bunch producing ",
+          "ind"
+        ],
+        [
+          "TV try-out?",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'TV try-out'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "USHER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Ancient city adopting female ",
+          "ind"
+        ],
+        [
+          "doorkeeper",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'doorkeeper'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHEPHERD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tender",
+          "def"
+        ],
+        [
+          " and soft on that woman in shelter",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Tender'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STEER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Usher",
+          "def"
+        ],
+        [
+          " is quiet and always under contract",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Usher'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

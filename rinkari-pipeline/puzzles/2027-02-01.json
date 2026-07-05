@@ -1,0 +1,86 @@
+{
+  "number": 216,
+  "date": "2027-02-01",
+  "link": "PILOT",
+  "link_type": "category",
+  "compounds": "DIRECT · GUIDE · LEAD · STEER",
+  "note": "DIRECT, GUIDE, LEAD and STEER are all PILOTS",
+  "clues": [
+    {
+      "answer": "DIRECT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Frank",
+          "def"
+        ],
+        [
+          " having credit renewed",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Frank'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GUIDE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Reporter's sent up ",
+          "ind"
+        ],
+        [
+          "handbook",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'handbook'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LEAD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Perhaps metal from church roof ",
+          "ind"
+        ],
+        [
+          "in the van",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'in the van'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STEER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Usher",
+          "def"
+        ],
+        [
+          " is quiet and always under contract",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Usher'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "number": 225,
+  "date": "2027-02-10",
+  "link": "PURSUIT",
+  "compounds": "CHASE · HUNT · QUEST · SEARCH",
+  "note": "CHASE, HUNT, QUEST and SEARCH are all PURSUITS",
+  "clues": [
+    {
+      "answer": "CHASE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pursue",
+          "def"
+        ],
+        [
+          " legal action around hospital",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Pursue'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HUNT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Look for",
+          "def"
+        ],
+        [
+          " building to accommodate any number",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Look for'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "QUEST",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Search",
+          "def"
+        ],
+        [
+          " for something in the baroque style",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Search'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "SEARCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Examination",
+          "def"
+        ],
+        [
+          ": one needed to listen in school",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Examination'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

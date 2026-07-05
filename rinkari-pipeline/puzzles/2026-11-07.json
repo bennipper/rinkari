@@ -1,0 +1,86 @@
+{
+  "number": 130,
+  "date": "2026-11-07",
+  "link": "PRIMATES",
+  "link_type": "category",
+  "compounds": "BABOON · BONOBO · GIBBON · GORILLA",
+  "note": "BABOON, BONOBO, GIBBON and GORILLA are all PRIMATES",
+  "clues": [
+    {
+      "answer": "BABOON",
+      "device": "Charade",
+      "parts": [
+        [
+          "Prohibition involving shout that startles ",
+          "ind"
+        ],
+        [
+          "monkey",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'monkey'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BONOBO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Voice disapproval about wealthy man, ",
+          "ind"
+        ],
+        [
+          "a relative of ours",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a relative of ours'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GIBBON",
+      "device": "Charade",
+      "parts": [
+        [
+          "In circulation, not a single book by great ",
+          "ind"
+        ],
+        [
+          "historian",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'historian'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GORILLA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Go by stream with a ",
+          "ind"
+        ],
+        [
+          "fierce guy",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'fierce guy'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

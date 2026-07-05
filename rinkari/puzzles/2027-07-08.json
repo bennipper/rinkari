@@ -1,0 +1,86 @@
+{
+  "number": 373,
+  "date": "2027-07-08",
+  "link": "WILLIAMSES",
+  "compounds": "HANK · ROBIN · TENNESSEE · VENUS",
+  "note": "HANK, ROBIN, TENNESSEE and VENUS are all WILLIAMSES",
+  "clues": [
+    {
+      "answer": "HANK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Henry",
+          "def"
+        ],
+        [
+          " sort of cross with horse coming first",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Henry'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ROBIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bird",
+          "def"
+        ],
+        [
+          " with rook and duck on waste container",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bird'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TENNESSEE",
+      "device": "Charade",
+      "parts": [
+        [
+          "State",
+          "def"
+        ],
+        [
+          " game needs energy for one to learn",
+          "ind"
+        ],
+        [
+          " (9)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'State'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "VENUS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Goddess",
+          "def"
+        ],
+        [
+          " of certain vessels, you could say",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Goddess'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

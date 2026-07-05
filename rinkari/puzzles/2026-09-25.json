@@ -1,0 +1,86 @@
+{
+  "number": 87,
+  "date": "2026-09-25",
+  "link": "LINGERIE",
+  "compounds": "GARTER · SLIP · TEDDY · THONG",
+  "note": "GARTER, SLIP, TEDDY and THONG are all LINGERIES",
+  "clues": [
+    {
+      "answer": "GARTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Band",
+          "def"
+        ],
+        [
+          ": T Rex up wearing outrageous gear",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Band'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SLIP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Lose balance",
+          "def"
+        ],
+        [
+          ", beer knocked over",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Lose balance'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TEDDY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bear",
+          "def"
+        ],
+        [
+          " first sign of tailspin",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bear'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "THONG",
+      "device": "Charade",
+      "parts": [
+        [
+          "It's not right to pack ",
+          "ind"
+        ],
+        [
+          "flip-flop",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'flip-flop'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

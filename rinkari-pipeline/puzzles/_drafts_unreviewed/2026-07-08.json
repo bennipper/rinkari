@@ -1,0 +1,66 @@
+{
+  "number": 6,
+  "date": "2026-07-08",
+  "link": "LINE",
+  "link_type": "compound",
+  "compounds": "HOTLINE · PIPELINE · COASTLINE · STORYLINE · FINISHLINE",
+  "note": "A rare all-suffix set — every partner attaches before LINE, from the urgent (HOTLINE) to the narrative (STORYLINE).",
+  "clues": [
+    {
+      "answer": "HOT",
+      "device": "Double definition",
+      "parts": [
+        ["Fiery", "def"],
+        [", ", ""],
+        ["nicked", "ind"],
+        [" (3)", ""]
+      ],
+      "parse": "Double definition: fiery (spicy), and stolen — slang for 'nicked' goods."
+    },
+    {
+      "answer": "PIPE",
+      "device": "Charade",
+      "parts": [
+        ["Circle's ratio and a games lesson", "ind"],
+        [" — a ", ""],
+        ["tube", "def"],
+        [" (4)", ""]
+      ],
+      "parse": "Charade: PI (circle's ratio) + PE (games lesson) = PIPE."
+    },
+    {
+      "answer": "COAST",
+      "device": "Anagram",
+      "parts": [
+        ["Coats ", ""],
+        ["rearranged", "ind"],
+        [" along the ", ""],
+        ["shoreline", "def"],
+        [" (5)", ""]
+      ],
+      "parse": "Anagram: COATS, rearranged, becomes COAST."
+    },
+    {
+      "answer": "STORY",
+      "device": "Hidden word",
+      "parts": [
+        ["Tale", "def"],
+        [" ", ""],
+        ["found in", "ind"],
+        [" history books (5)", ""]
+      ],
+      "parse": "Hidden: hiSTORY. 'Found in' marks the concealment."
+    },
+    {
+      "answer": "FINISH",
+      "device": "Double definition",
+      "parts": [
+        ["Conclusion", "def"],
+        [", ", ""],
+        ["a glossy coat of varnish", "ind"],
+        [" (6)", ""]
+      ],
+      "parse": "Double definition: the conclusion, and a glossy surface coat, as in a varnish finish."
+    }
+  ]
+}

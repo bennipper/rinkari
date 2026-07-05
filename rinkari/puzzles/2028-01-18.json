@@ -1,0 +1,86 @@
+{
+  "number": 567,
+  "date": "2028-01-18",
+  "link": "INTEREST",
+  "compounds": "CLAIM · CONCERN · SHARE · STAKE",
+  "note": "CLAIM, CONCERN, SHARE and STAKE are all INTERESTS",
+  "clues": [
+    {
+      "answer": "CLAIM",
+      "device": "Charade",
+      "parts": [
+        [
+          "Profess",
+          "def"
+        ],
+        [
+          " intention to oust idiot from class",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Profess'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CONCERN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tory heading European research centre? It’s ",
+          "ind"
+        ],
+        [
+          "a worry",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a worry'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHARE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Move fast chasing second ",
+          "ind"
+        ],
+        [
+          "allocation",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'allocation'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STAKE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Son has to acquire ",
+          "ind"
+        ],
+        [
+          "money for a bet",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'money for a bet'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 452,
+  "date": "2027-09-25",
+  "link": "OPPORTUNITY",
+  "link_type": "category",
+  "compounds": "BREAK · CHANCE · OPENING · SHOT",
+  "note": "BREAK, CHANCE, OPENING and SHOT are all OPPORTUNITIES",
+  "clues": [
+    {
+      "answer": "BREAK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stop on road, we hear, to get ",
+          "ind"
+        ],
+        [
+          "rest",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'res'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CHANCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "I must leave Riviera resort after tea ",
+          "ind"
+        ],
+        [
+          "break",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'break'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "OPENING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Round figure doctor holds up in ",
+          "ind"
+        ],
+        [
+          "window, perhaps",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'window, perhaps'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHOT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Try",
+          "def"
+        ],
+        [
+          " second helping of this? Just starters",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Try'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

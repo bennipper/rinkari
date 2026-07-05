@@ -1,0 +1,94 @@
+{
+  "number": 325,
+  "date": "2027-05-21",
+  "link": "EARN",
+  "link_type": "category",
+  "compounds": "GROSS · MAKE · NET · YIELD",
+  "note": "GROSS, MAKE, NET and YIELD are all EARNS",
+  "clues": [
+    {
+      "answer": "GROSS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Make altogether",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "disgusting",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: make altogether, and disgusting."
+    },
+    {
+      "answer": "MAKE",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Prepare",
+          "def"
+        ],
+        [
+          " some korma kebabs",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Prepare'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "NET",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Clear",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "goal",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: clear, and goal."
+    },
+    {
+      "answer": "YIELD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Product",
+          "def"
+        ],
+        [
+          " that’s widely drunk without whisky",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Product'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

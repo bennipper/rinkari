@@ -1,0 +1,90 @@
+{
+  "number": 262,
+  "date": "2027-03-19",
+  "link": "OBTAIN",
+  "compounds": "BAG · LAND · SCORE · SNAG",
+  "note": "BAG, LAND, SCORE and SNAG are all OBTAINS",
+  "clues": [
+    {
+      "answer": "BAG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Black and silver ",
+          "ind"
+        ],
+        [
+          "container",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'container'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LAND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Initially locked and ",
+          "ind"
+        ],
+        [
+          "secure",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'secure'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCORE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Find the net",
+          "def"
+        ],
+        [
+          "?  ",
+          ""
+        ],
+        [
+          "One can be composed!",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: find the net, and one can be composed."
+    },
+    {
+      "answer": "SNAG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Obstacle",
+          "def"
+        ],
+        [
+          " found by small horse",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Obstacle'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

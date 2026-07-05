@@ -1,0 +1,86 @@
+{
+  "number": 77,
+  "date": "2026-09-15",
+  "link": "MUSICALS",
+  "link_type": "category",
+  "compounds": "COMPANY · GREASE · HAIR · RENT",
+  "note": "COMPANY, GREASE, HAIR and RENT are all MUSICALS",
+  "clues": [
+    {
+      "answer": "COMPANY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Actors",
+          "def"
+        ],
+        [
+          " wary about start of major review in a negative way",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Actors'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GREASE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Slippery stuff",
+          "def"
+        ],
+        [
+          " country reported?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Slippery stuff'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HAIR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Hot wind causes ",
+          "ind"
+        ],
+        [
+          "shock",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'shock'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RENT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pa leaves ma for one ",
+          "ind"
+        ],
+        [
+          "split",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'split'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

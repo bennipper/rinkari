@@ -1,0 +1,94 @@
+{
+  "number": 539,
+  "date": "2027-12-21",
+  "link": "PUBLICIZE",
+  "link_type": "category",
+  "compounds": "BOOST · HYPE · PITCH · PLUG",
+  "note": "BOOST, HYPE, PITCH and PLUG are all PUBLICIZES",
+  "clues": [
+    {
+      "answer": "BOOST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Encourage",
+          "def"
+        ],
+        [
+          " sounds of disapproval? Terrible at first",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Encourage'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HYPE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Build up",
+          "def"
+        ],
+        [
+          " healthily, filling out with exercise",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Build up'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PITCH",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Playing area",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "perfect for some musicians",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: playing area, and perfect for some musicians."
+    },
+    {
+      "answer": "PLUG",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Bung",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "favourable publicity",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: bung, and favourable publicity."
+    }
+  ]
+}

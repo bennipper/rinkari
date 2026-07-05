@@ -1,0 +1,86 @@
+{
+  "number": 124,
+  "date": "2026-11-01",
+  "link": "OBTAIN",
+  "compounds": "GET · LAND · SECURE · WIN",
+  "note": "GET, LAND, SECURE and WIN are all OBTAINS",
+  "clues": [
+    {
+      "answer": "GET",
+      "device": "Charade",
+      "parts": [
+        [
+          "See",
+          "def"
+        ],
+        [
+          " odd parts of Ghent",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'See'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LAND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Initially locked and ",
+          "ind"
+        ],
+        [
+          "secure",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'secure'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SECURE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Certain to keep city ",
+          "ind"
+        ],
+        [
+          "safe",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'safe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Victory",
+          "def"
+        ],
+        [
+          " almost a breeze",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Victory'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

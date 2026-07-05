@@ -1,0 +1,98 @@
+{
+  "number": 209,
+  "date": "2027-01-25",
+  "link": "CHUTZPAH",
+  "link_type": "category",
+  "compounds": "BRASS · CHEEK · GALL · NERVE",
+  "note": "BRASS, CHEEK, GALL and NERVE are all CHUTZPAHS",
+  "clues": [
+    {
+      "answer": "BRASS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "The cheek",
+          "def"
+        ],
+        [
+          " of ",
+          ""
+        ],
+        [
+          "some musicians!",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: the cheek, and some musicians."
+    },
+    {
+      "answer": "CHEEK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Lip",
+          "def"
+        ],
+        [
+          " — ",
+          ""
+        ],
+        [
+          "part of the face",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: lip, and part of the face."
+    },
+    {
+      "answer": "GALL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bitterness",
+          "def"
+        ],
+        [
+          " of everyone after end of squabbling",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bitterness'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "NERVE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Sauce",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "bottle?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: sauce, and bottle."
+    }
+  ]
+}

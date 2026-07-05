@@ -1,0 +1,94 @@
+{
+  "number": 537,
+  "date": "2027-12-19",
+  "link": "EXPLOIT",
+  "link_type": "category",
+  "compounds": "DRAIN · FLEECE · MILK · SQUEEZE",
+  "note": "DRAIN, FLEECE, MILK and SQUEEZE are all EXPLOITS",
+  "clues": [
+    {
+      "answer": "DRAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Duke drops ",
+          "ind"
+        ],
+        [
+          "pipe",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'pipe'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FLEECE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Garment",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "to take to the cleaners",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: garment, and to take to the cleaners."
+    },
+    {
+      "answer": "MILK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Use",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "white liquid",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: use, and white liquid."
+    },
+    {
+      "answer": "SQUEEZE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Hug",
+          "def"
+        ],
+        [
+          " cat mostly unknown in Kent area?",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Hug'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

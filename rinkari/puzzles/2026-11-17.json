@@ -1,0 +1,90 @@
+{
+  "number": 140,
+  "date": "2026-11-17",
+  "link": "DECLINE",
+  "compounds": "EBB · FADE · FLAG · WANE",
+  "note": "EBB, FADE, FLAG and WANE are all DECLINES",
+  "clues": [
+    {
+      "answer": "EBB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Finally lose black bishop, ",
+          "ind"
+        ],
+        [
+          "fall away",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'fall away'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FADE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fashion house's finale, ",
+          "ind"
+        ],
+        [
+          "dull",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'dull'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FLAG",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Standard",
+          "def"
+        ],
+        [
+          " / ",
+          ""
+        ],
+        [
+          "paving slab",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: standard, and paving slab."
+    },
+    {
+      "answer": "WANE",
+      "device": "Charade",
+      "parts": [
+        [
+          "We hear farm wagon ",
+          "ind"
+        ],
+        [
+          "lose power",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'lose power'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

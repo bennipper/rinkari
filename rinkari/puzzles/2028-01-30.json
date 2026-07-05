@@ -1,0 +1,86 @@
+{
+  "number": 579,
+  "date": "2028-01-30",
+  "link": "CHEEKY",
+  "compounds": "ARCH · FRESH · SASSY · WISE",
+  "note": "ARCH, FRESH, SASSY and WISE are all CHEEKIES",
+  "clues": [
+    {
+      "answer": "ARCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bow",
+          "def"
+        ],
+        [
+          " made of wood, initially pound off",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bow'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FRESH",
+      "device": "Charade",
+      "parts": [
+        [
+          "New",
+          "def"
+        ],
+        [
+          " farmer oddly quiet",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'New'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SASSY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cheeky American",
+          "def"
+        ],
+        [
+          ", for example, grabbing seconds",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cheeky American'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WISE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Erudite",
+          "def"
+        ],
+        [
+          " letters read out",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Erudite'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

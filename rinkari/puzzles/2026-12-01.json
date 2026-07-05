@@ -1,0 +1,94 @@
+{
+  "number": 154,
+  "date": "2026-12-01",
+  "link": "DARLING",
+  "compounds": "BABY · BOO · DEAR · LOVE",
+  "note": "BABY, BOO, DEAR and LOVE are all DARLINGS",
+  "clues": [
+    {
+      "answer": "BABY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Very young child",
+          "def"
+        ],
+        [
+          " born in creek",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Very young child'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BOO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Expression of dissent",
+          "def"
+        ],
+        [
+          " forbidden? No thanks!",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Expression of dissent'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DEAR",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Costly",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "ducks",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: costly, and ducks."
+    },
+    {
+      "answer": "LOVE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Adoration",
+          "def"
+        ],
+        [
+          " is ",
+          ""
+        ],
+        [
+          "nothing",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: adoration, and nothing."
+    }
+  ],
+  "linkType": "category"
+}

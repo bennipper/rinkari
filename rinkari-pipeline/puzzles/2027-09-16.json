@@ -1,0 +1,86 @@
+{
+  "number": 443,
+  "date": "2027-09-16",
+  "link": "AMASS",
+  "link_type": "category",
+  "compounds": "CLUSTER · COLLECT · CONCENTRATE · GROUP",
+  "note": "CLUSTER, COLLECT, CONCENTRATE and GROUP are all AMASS",
+  "clues": [
+    {
+      "answer": "CLUSTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "American general gathers large ",
+          "ind"
+        ],
+        [
+          "group together",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'group together'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "COLLECT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Get",
+          "def"
+        ],
+        [
+          " end of blunt instrument caught up",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Get'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CONCENTRATE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Focus",
+          "def"
+        ],
+        [
+          " on money put in box",
+          "ind"
+        ],
+        [
+          " (11)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Focus'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GROUP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Where lots go in Scotland following grand ",
+          "ind"
+        ],
+        [
+          "mass",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'mass'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

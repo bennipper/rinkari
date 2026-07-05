@@ -1,0 +1,86 @@
+{
+  "number": 402,
+  "date": "2027-08-06",
+  "link": "LINGERIE",
+  "link_type": "category",
+  "compounds": "GARTER · HOSE · SLIP · TEDDY",
+  "note": "GARTER, HOSE, SLIP and TEDDY are all LINGERIES",
+  "clues": [
+    {
+      "answer": "GARTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Band",
+          "def"
+        ],
+        [
+          ": T Rex up wearing outrageous gear",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Band'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HOSE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Prophet without hint of any ",
+          "ind"
+        ],
+        [
+          "foot protection",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'foot protection'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SLIP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Lose balance",
+          "def"
+        ],
+        [
+          ", beer knocked over",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Lose balance'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TEDDY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bear",
+          "def"
+        ],
+        [
+          " first sign of tailspin",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bear'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

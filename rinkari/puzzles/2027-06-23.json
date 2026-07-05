@@ -1,0 +1,90 @@
+{
+  "number": 358,
+  "date": "2027-06-23",
+  "link": "PERIPHERY",
+  "compounds": "BORDER · EDGE · FRINGE · SKIRT",
+  "note": "BORDER, EDGE, FRINGE and SKIRT are all PERIPHERIES",
+  "clues": [
+    {
+      "answer": "BORDER",
+      "device": "Charade",
+      "parts": [
+        [
+          "British directive for ",
+          "ind"
+        ],
+        [
+          "march",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'march'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EDGE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Boundary",
+          "def"
+        ],
+        [
+          " giving us the ",
+          ""
+        ],
+        [
+          "upper hand?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: boundary, and upper hand?."
+    },
+    {
+      "answer": "FRINGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bang",
+          "def"
+        ],
+        [
+          " bell cast in iron",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bang'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SKIRT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Go around",
+          "def"
+        ],
+        [
+          " clubs banned from turning tricks",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Go around'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

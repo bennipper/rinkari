@@ -1,0 +1,94 @@
+{
+  "number": 331,
+  "date": "2027-05-27",
+  "link": "LACKING",
+  "compounds": "LIGHT · LOW · SHORT · SHY",
+  "note": "LIGHT, LOW, SHORT and SHY are all LACKINGS",
+  "clues": [
+    {
+      "answer": "LIGHT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Amusing",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "free gift from The Sun",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: amusing, and free gift from the sun."
+    },
+    {
+      "answer": "LOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pooh’s chum moving his tail ",
+          "ind"
+        ],
+        [
+          "down",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'down'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHORT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Attempt to contain resistance is ",
+          "ind"
+        ],
+        [
+          "of limited duration",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'of limited duration'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHY",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Backward",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "throw",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: backward, and throw."
+    }
+  ],
+  "linkType": "category"
+}

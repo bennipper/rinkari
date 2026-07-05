@@ -1,0 +1,86 @@
+{
+  "number": 260,
+  "date": "2027-03-17",
+  "link": "EXCESSIVELY",
+  "link_type": "category",
+  "compounds": "BEYOND · EXTRA · OVER · TOO",
+  "note": "BEYOND, EXTRA, OVER and TOO are all EXCESSIVELIES",
+  "clues": [
+    {
+      "answer": "BEYOND",
+      "device": "Charade",
+      "parts": [
+        [
+          "More than",
+          "def"
+        ],
+        [
+          " 500 following pop diva out of church",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'More than'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EXTRA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Rate adjusted to accommodate ten ",
+          "ind"
+        ],
+        [
+          "more",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'more'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "OVER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Finished",
+          "def"
+        ],
+        [
+          " disguise, except the front",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Finished'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TOO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Also",
+          "def"
+        ],
+        [
+          " accepted king must go",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Also'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

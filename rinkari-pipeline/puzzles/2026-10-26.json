@@ -1,0 +1,86 @@
+{
+  "number": 118,
+  "date": "2026-10-26",
+  "link": "INFORMATION",
+  "link_type": "category",
+  "compounds": "DATA · INFO · INTEL · NEWS",
+  "note": "DATA, INFO, INTEL and NEWS are all INFORMATIONS",
+  "clues": [
+    {
+      "answer": "DATA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Figures perhaps",
+          "def"
+        ],
+        [
+          " slightly raised",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Figures perhaps'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "INFO",
+      "device": "Charade",
+      "parts": [
+        [
+          "News",
+          "def"
+        ],
+        [
+          " concerning most of Ulster sent up",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'News'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "INTEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dope",
+          "def"
+        ],
+        [
+          "'s home telephone",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Dope'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "NEWS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Word",
+          "def"
+        ],
+        [
+          " from card-playing quartet",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Word'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

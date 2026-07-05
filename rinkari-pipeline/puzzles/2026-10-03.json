@@ -1,0 +1,86 @@
+{
+  "number": 95,
+  "date": "2026-10-03",
+  "link": "CROPS",
+  "link_type": "category",
+  "compounds": "CORN · CUCUMBER · PEPPER · TOMATO",
+  "note": "CORN, CUCUMBER, PEPPER and TOMATO are all CROPS",
+  "clues": [
+    {
+      "answer": "CORN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cereal",
+          "def"
+        ],
+        [
+          " company supported by sailors",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cereal'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CUCUMBER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Two coppers, married, live on river — ",
+          "ind"
+        ],
+        [
+          "it's cool!",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'it's cool!'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PEPPER",
+      "device": "Charade",
+      "parts": [
+        [
+          "A spice",
+          "def"
+        ],
+        [
+          " very quietly eaten by noble",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'A spice'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TOMATO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Returning bird loses minutes eating a ",
+          "ind"
+        ],
+        [
+          "fruit",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'fruit'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

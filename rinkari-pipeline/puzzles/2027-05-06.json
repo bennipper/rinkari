@@ -1,0 +1,90 @@
+{
+  "number": 310,
+  "date": "2027-05-06",
+  "link": "CURSE",
+  "link_type": "category",
+  "compounds": "HEX · JINX · POX · SPELL",
+  "note": "HEX, JINX, POX and SPELL are all CURSES",
+  "clues": [
+    {
+      "answer": "HEX",
+      "device": "Charade",
+      "parts": [
+        [
+          "Spell",
+          "def"
+        ],
+        [
+          " cast by the fellow with kiss",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Spell'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "JINX",
+      "device": "Charade",
+      "parts": [
+        [
+          "Put the mockers on",
+          "def"
+        ],
+        [
+          " jounalist’s debut in Times",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Put the mockers on'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "POX",
+      "device": "Charade",
+      "parts": [
+        [
+          "Disease",
+          "def"
+        ],
+        [
+          " often connected to small cow or chicken",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Disease'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPELL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Write letters in",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "work period",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: write letters in, and work period."
+    }
+  ]
+}

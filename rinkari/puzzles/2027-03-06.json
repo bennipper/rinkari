@@ -1,0 +1,90 @@
+{
+  "number": 249,
+  "date": "2027-03-06",
+  "link": "SUPPORTER",
+  "compounds": "ADVOCATE · CHAMPION · CHEERLEADER · EXPONENT",
+  "note": "ADVOCATE, CHAMPION, CHEERLEADER and EXPONENT are all SUPPORTERS",
+  "clues": [
+    {
+      "answer": "ADVOCATE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Recommend",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "a Scottish lawyer",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: recommend, and a scottish lawyer."
+    },
+    {
+      "answer": "CHAMPION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Back",
+          "def"
+        ],
+        [
+          " from church with claim to devotion -- touching!",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Back'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CHEERLEADER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Assertive supporter",
+          "def"
+        ],
+        [
+          "'s revolutionary songs heard by Queen",
+          "ind"
+        ],
+        [
+          " (11)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Assertive supporter'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EXPONENT",
+      "device": "Charade",
+      "parts": [
+        [
+          "No longer confined, holding on for ",
+          "ind"
+        ],
+        [
+          "advocate?",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'advocate'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

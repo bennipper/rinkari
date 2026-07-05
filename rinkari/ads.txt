@@ -1,0 +1,5 @@
+# ads.txt for Rinkari - authorised digital sellers
+# After AdSense approval, replace the line below with your real publisher ID
+# (keep the DIRECT relationship and Google's certification authority ID as-is):
+#
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

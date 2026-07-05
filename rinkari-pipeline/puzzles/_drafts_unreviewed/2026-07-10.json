@@ -1,0 +1,66 @@
+{
+  "number": 8,
+  "date": "2026-07-10",
+  "link": "WORK",
+  "link_type": "compound",
+  "compounds": "NETWORK · WOODWORK · TEAMWORK · PAPERWORK · GROUNDWORK",
+  "note": "WORK sits reliably at the end of English's most productive compounds — five very different kinds of labour.",
+  "clues": [
+    {
+      "answer": "NET",
+      "device": "Double definition",
+      "parts": [
+        ["Fishing mesh", "def"],
+        [", ", ""],
+        ["the final profit", "ind"],
+        [" (3)", ""]
+      ],
+      "parse": "Double definition: a fishing mesh, and the final profit after deductions."
+    },
+    {
+      "answer": "WOOD",
+      "device": "Double definition",
+      "parts": [
+        ["Timber", "def"],
+        [", ", ""],
+        ["a golfer's long club", "ind"],
+        [" (4)", ""]
+      ],
+      "parse": "Double definition: timber, and a golf club used for long shots."
+    },
+    {
+      "answer": "TEAM",
+      "device": "Anagram",
+      "parts": [
+        ["Meat ", ""],
+        ["cooked", "ind"],
+        [" becomes ", ""],
+        ["the squad", "def"],
+        [" (4)", ""]
+      ],
+      "parse": "Anagram: MEAT, cooked, becomes TEAM."
+    },
+    {
+      "answer": "PAPER",
+      "device": "Hidden word",
+      "parts": [
+        ["Essay", "def"],
+        [" ", ""],
+        ["found in", "ind"],
+        [" the newspaper stand (5)", ""]
+      ],
+      "parse": "Hidden: newsPAPER. 'Found in' marks the concealment."
+    },
+    {
+      "answer": "GROUND",
+      "device": "Charade",
+      "parts": [
+        ["Grand circuit", "ind"],
+        [" — the ", ""],
+        ["sports pitch", "def"],
+        [" (6)", ""]
+      ],
+      "parse": "Charade: G (grand, slang for a thousand pounds) + ROUND (a circuit) = GROUND."
+    }
+  ]
+}

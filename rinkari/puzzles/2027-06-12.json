@@ -1,0 +1,90 @@
+{
+  "number": 347,
+  "date": "2027-06-12",
+  "link": "DELICATE",
+  "compounds": "FAINT · LIGHT · MILD · SOFT",
+  "note": "FAINT, LIGHT, MILD and SOFT are all DELICATES",
+  "clues": [
+    {
+      "answer": "FAINT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Force isn't commonly ",
+          "ind"
+        ],
+        [
+          "weak",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'weak'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LIGHT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Amusing",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "free gift from The Sun",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: amusing, and free gift from the sun."
+    },
+    {
+      "answer": "MILD",
+      "device": "Charade",
+      "parts": [
+        [
+          "Beer?",
+          "def"
+        ],
+        [
+          " Doctor swallows one litre",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Beer?'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SOFT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Liberal",
+          "def"
+        ],
+        [
+          " very pink paper",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Liberal'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

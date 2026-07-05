@@ -1,0 +1,90 @@
+{
+  "number": 577,
+  "date": "2028-01-28",
+  "link": "TEASE",
+  "link_type": "category",
+  "compounds": "NEEDLE · RIB · RIDE · ROAST",
+  "note": "NEEDLE, RIB, RIDE and ROAST are all TEASES",
+  "clues": [
+    {
+      "answer": "NEEDLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Conflict",
+          "def"
+        ],
+        [
+          " not required to see off a group of Nazis",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Conflict'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RIB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Guy",
+          "def"
+        ],
+        [
+          " is vulgar and funny, not half",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Guy'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RIDE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Travel",
+          "def"
+        ],
+        [
+          " free heading East",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Travel'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ROAST",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Pan",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "cook",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: pan, and cook."
+    }
+  ]
+}

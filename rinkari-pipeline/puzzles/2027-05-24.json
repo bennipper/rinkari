@@ -1,0 +1,94 @@
+{
+  "number": 328,
+  "date": "2027-05-24",
+  "link": "TEACH",
+  "link_type": "category",
+  "compounds": "COACH · GUIDE · SCHOOL · TRAIN",
+  "note": "COACH, GUIDE, SCHOOL and TRAIN are all TEACHS",
+  "clues": [
+    {
+      "answer": "COACH",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Transport",
+          "def"
+        ],
+        [
+          " for ",
+          ""
+        ],
+        [
+          "team's trainer",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: transport, and team's trainer."
+    },
+    {
+      "answer": "GUIDE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Reporter's sent up ",
+          "ind"
+        ],
+        [
+          "handbook",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'handbook'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCHOOL",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Train",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "group of dolphins",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: train, and group of dolphins."
+    },
+    {
+      "answer": "TRAIN",
+      "device": "Charade",
+      "parts": [
+        [
+          "Exercise",
+          "def"
+        ],
+        [
+          " time, then shower",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Exercise'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

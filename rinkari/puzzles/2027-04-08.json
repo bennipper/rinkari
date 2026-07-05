@@ -1,0 +1,98 @@
+{
+  "number": 282,
+  "date": "2027-04-08",
+  "link": "BRASHNESS",
+  "compounds": "BRASS · CHEEK · NERVE · SAUCE",
+  "note": "BRASS, CHEEK, NERVE and SAUCE are all BRASHNESS",
+  "clues": [
+    {
+      "answer": "BRASS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "The cheek",
+          "def"
+        ],
+        [
+          " of ",
+          ""
+        ],
+        [
+          "some musicians!",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: the cheek, and some musicians."
+    },
+    {
+      "answer": "CHEEK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Lip",
+          "def"
+        ],
+        [
+          " — ",
+          ""
+        ],
+        [
+          "part of the face",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: lip, and part of the face."
+    },
+    {
+      "answer": "NERVE",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Sauce",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "bottle?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: sauce, and bottle."
+    },
+    {
+      "answer": "SAUCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Impudence",
+          "def"
+        ],
+        [
+          " that does for each of a pair of geese?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Impudence'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

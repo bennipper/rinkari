@@ -1,0 +1,86 @@
+{
+  "number": 92,
+  "date": "2026-09-30",
+  "link": "“POINTERS”",
+  "link_type": "category",
+  "compounds": "ARROW · DOG · FINGER · HINT",
+  "note": "ARROW, DOG, FINGER and HINT are all “POINTERS”S",
+  "clues": [
+    {
+      "answer": "ARROW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Weapon",
+          "def"
+        ],
+        [
+          " taking top off simple cart",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Weapon'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DOG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Setter perhaps",
+          "def"
+        ],
+        [
+          " is to make good",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Setter perhaps'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FINGER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Good to enter better ",
+          "ind"
+        ],
+        [
+          "digit",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'digit'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HINT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Tip",
+          "def"
+        ],
+        [
+          ": horse is not trying, just starting",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Tip'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

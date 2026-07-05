@@ -1,0 +1,90 @@
+{
+  "number": 204,
+  "date": "2027-01-20",
+  "link": "NIGHTSPOTS",
+  "link_type": "category",
+  "compounds": "BAR · CLUB · DISCO · LOUNGE",
+  "note": "BAR, CLUB, DISCO and LOUNGE are all NIGHTSPOTS",
+  "clues": [
+    {
+      "answer": "BAR",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Place selling drinks",
+          "def"
+        ],
+        [
+          " in ",
+          ""
+        ],
+        [
+          "Prohibition",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: place selling drinks, and prohibition."
+    },
+    {
+      "answer": "CLUB",
+      "device": "Charade",
+      "parts": [
+        [
+          "Novice boxes in learner ",
+          "ind"
+        ],
+        [
+          "driver?",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'driver'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DISCO",
+      "device": "Charade",
+      "parts": [
+        [
+          "Party music",
+          "def"
+        ],
+        [
+          ", something that's found very lacking",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Party music'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LOUNGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bar",
+          "def"
+        ],
+        [
+          " in spring having nothing to eat",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bar'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

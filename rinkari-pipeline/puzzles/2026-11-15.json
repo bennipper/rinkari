@@ -1,0 +1,90 @@
+{
+  "number": 138,
+  "date": "2026-11-15",
+  "link": "ENORMOUS",
+  "link_type": "category",
+  "compounds": "BIG · GIANT · GREAT · HUGE",
+  "note": "BIG, GIANT, GREAT and HUGE are all ENORMOUS",
+  "clues": [
+    {
+      "answer": "BIG",
+      "device": "Charade",
+      "parts": [
+        [
+          "Sizeable",
+          "def"
+        ],
+        [
+          " British force on the ground",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Sizeable'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GIANT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Two soldiers, ",
+          "ind"
+        ],
+        [
+          "one huge",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'one huge'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GREAT",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Magic",
+          "def"
+        ],
+        [
+          " / ",
+          ""
+        ],
+        [
+          "giant",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: magic, and giant."
+    },
+    {
+      "answer": "HUGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Keep close to English ",
+          "ind"
+        ],
+        [
+          "giant",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'giant'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

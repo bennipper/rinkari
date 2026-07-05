@@ -1,0 +1,86 @@
+{
+  "number": 515,
+  "date": "2027-11-27",
+  "link": "INFLUX",
+  "link_type": "category",
+  "compounds": "RASH · RUSH · SURGE · WAVE",
+  "note": "RASH, RUSH, SURGE and WAVE are all INFLUXS",
+  "clues": [
+    {
+      "answer": "RASH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Precipitate",
+          "def"
+        ],
+        [
+          " of arsenic introduced to rhodium",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Precipitate'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "RUSH",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Some crushed in ",
+          "ind"
+        ],
+        [
+          "stampede",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'stampede'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "SURGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Swell",
+          "def"
+        ],
+        [
+          " certainly to consume gallons",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Swell'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WAVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fail to apply for audition, and ",
+          "ind"
+        ],
+        [
+          "flourish",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'flourish'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

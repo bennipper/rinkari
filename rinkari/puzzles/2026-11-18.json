@@ -1,0 +1,86 @@
+{
+  "number": 141,
+  "date": "2026-11-18",
+  "link": "ABSOLUTE",
+  "compounds": "PURE · SHEER · TOTAL · UTTER",
+  "note": "PURE, SHEER, TOTAL and UTTER are all ABSOLUTES",
+  "clues": [
+    {
+      "answer": "PURE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Utter",
+          "def"
+        ],
+        [
+          " excitedly about joining Royal Engineers",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Utter'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHEER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Downright",
+          "def"
+        ],
+        [
+          " eccentricity",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Downright'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TOTAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Complete",
+          "def"
+        ],
+        [
+          " stop as outsiders leave — speech unfinished",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Complete'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "UTTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Speak indistinctly, losing marks at first, ",
+          "ind"
+        ],
+        [
+          "say",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'say'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

@@ -1,0 +1,86 @@
+{
+  "number": 377,
+  "date": "2027-07-12",
+  "link": "UTILITIES",
+  "compounds": "CABLE · GAS · TRASH · WATER",
+  "note": "CABLE, GAS, TRASH and WATER are all UTILITIES",
+  "clues": [
+    {
+      "answer": "CABLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Urgent message",
+          "def"
+        ],
+        [
+          " in taxi left half hidden",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Urgent message'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GAS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Endlessly pant for ",
+          "ind"
+        ],
+        [
+          "air",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'air'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TRASH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Scraps",
+          "def"
+        ],
+        [
+          " expert conclusion? Unwise",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Scraps'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WATER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Server missing one ",
+          "ind"
+        ],
+        [
+          "essential liquid",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'essential liquid'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

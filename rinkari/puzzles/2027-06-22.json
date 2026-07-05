@@ -1,0 +1,90 @@
+{
+  "number": 357,
+  "date": "2027-06-22",
+  "link": "ONETIME",
+  "compounds": "FORMER · LATE · PAST · PRIOR",
+  "note": "FORMER, LATE, PAST and PRIOR are all ONETIMES",
+  "clues": [
+    {
+      "answer": "FORMER",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Old",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "Creator?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: old, and creator."
+    },
+    {
+      "answer": "LATE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Behind schedule",
+          "def"
+        ],
+        [
+          ", learner driver worried",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Behind schedule'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PAST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Rather glib about Society in ",
+          "ind"
+        ],
+        [
+          "historical times",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'historical times'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PRIOR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Leader of House",
+          "def"
+        ],
+        [
+          ", one asking too much of Speaker",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Leader of House'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

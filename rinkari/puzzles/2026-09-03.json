@@ -1,0 +1,86 @@
+{
+  "number": 65,
+  "date": "2026-09-03",
+  "link": "JEWELRY",
+  "compounds": "ANKLET · BANGLE · BROOCH · PENDANT",
+  "note": "ANKLET, BANGLE, BROOCH and PENDANT are all JEWELRIES",
+  "clues": [
+    {
+      "answer": "ANKLET",
+      "device": "Charade",
+      "parts": [
+        [
+          "Chain",
+          "def"
+        ],
+        [
+          ", one that’s six feet, keeping large mammals back",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Chain'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BANGLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "A Sikh has one",
+          "def"
+        ],
+        [
+          " billion fish",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'A Sikh has one'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "BROOCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Reportedly bring up ",
+          "ind"
+        ],
+        [
+          "ornamental clasp",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'ornamental clasp'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PENDANT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Writer and Italian poet mostly ",
+          "ind"
+        ],
+        [
+          "hanging ornament",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'hanging ornament'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

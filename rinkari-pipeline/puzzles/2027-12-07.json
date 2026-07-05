@@ -1,0 +1,90 @@
+{
+  "number": 525,
+  "date": "2027-12-07",
+  "link": "DOPPELGÄNGER",
+  "link_type": "category",
+  "compounds": "CLONE · DOUBLE · MIRROR · RINGER",
+  "note": "CLONE, DOUBLE, MIRROR and RINGER are all DOPPELGÄNGERS",
+  "clues": [
+    {
+      "answer": "CLONE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Caught, having left company, making ",
+          "ind"
+        ],
+        [
+          "illegal copy",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'illegal copy'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DOUBLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Hand-out covering upper-class bachelor’s ",
+          "ind"
+        ],
+        [
+          "drink",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'drink'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MIRROR",
+      "device": "Double definition",
+      "parts": [
+        [
+          "A daily",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "source of reflection?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: a daily, and source of reflection?."
+    },
+    {
+      "answer": "RINGER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Campanologist’s double",
+          "def"
+        ],
+        [
+          "?",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Campanologist’s double'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

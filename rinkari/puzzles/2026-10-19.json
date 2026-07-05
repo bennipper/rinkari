@@ -1,0 +1,86 @@
+{
+  "number": 111,
+  "date": "2026-10-19",
+  "link": "PARADIGMATIC",
+  "compounds": "CLASSIC · DEFINITIVE · MODEL · TEXTBOOK",
+  "note": "CLASSIC, DEFINITIVE, MODEL and TEXTBOOK are all PARADIGMATICS",
+  "clues": [
+    {
+      "answer": "CLASSIC",
+      "device": "Charade",
+      "parts": [
+        [
+          "Conservative girl in charge — ",
+          "ind"
+        ],
+        [
+          "top quality!",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'top quality'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DEFINITIVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Conclusive",
+          "def"
+        ],
+        [
+          " final absorbs four",
+          "ind"
+        ],
+        [
+          " (10)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Conclusive'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MODEL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Perfect",
+          "def"
+        ],
+        [
+          " lines to fill little volume",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Perfect'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TEXTBOOK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Exemplary",
+          "def"
+        ],
+        [
+          " message: secure?",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Exemplary'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

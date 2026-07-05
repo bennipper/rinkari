@@ -1,0 +1,90 @@
+{
+  "number": 559,
+  "date": "2028-01-10",
+  "link": "DESPICABLE",
+  "compounds": "BASE · LOW · MEAN · VILE",
+  "note": "BASE, LOW, MEAN and VILE are all DESPICABLES",
+  "clues": [
+    {
+      "answer": "BASE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Found",
+          "def"
+        ],
+        [
+          " plough removed from Parisian fortress",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Found'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "LOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Pooh’s chum moving his tail ",
+          "ind"
+        ],
+        [
+          "down",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'down'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MEAN",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Average",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "is low",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: average, and is low."
+    },
+    {
+      "answer": "VILE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Base",
+          "def"
+        ],
+        [
+          " in small community from which convict’s escaped",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Base'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

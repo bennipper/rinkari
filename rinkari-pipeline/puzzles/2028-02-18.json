@@ -1,0 +1,90 @@
+{
+  "number": 598,
+  "date": "2028-02-18",
+  "link": "ENDORSE",
+  "link_type": "category",
+  "compounds": "BACK · BOLSTER · CHAMPION · SUPPORT",
+  "note": "BACK, BOLSTER, CHAMPION and SUPPORT are all ENDORSES",
+  "clues": [
+    {
+      "answer": "BACK",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Support",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "vertebral area",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: support, and vertebral area."
+    },
+    {
+      "answer": "BOLSTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "One running away receives small ",
+          "ind"
+        ],
+        [
+          "support",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'support'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CHAMPION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Back",
+          "def"
+        ],
+        [
+          " from church with claim to devotion -- touching!",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Back'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SUPPORT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Two types of drink ",
+          "ind"
+        ],
+        [
+          "one used to give strength?",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'one used to give strength'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

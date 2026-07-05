@@ -1,0 +1,125 @@
+{
+  "number": 1,
+  "date": "2026-07-01",
+  "link": "FIRE",
+  "compounds": "CAMPFIRE · SUREFIRE · SPITFIRE · CEASEFIRE · CROSSFIRE",
+  "note": "The FIRE family is one of English's richest compound sets — this puzzle uses five of at least nine.",
+  "clues": [
+    {
+      "answer": "CAMP",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Over-the-top",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "place for tents",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: theatrically over-the-top, and where the tents go."
+    },
+    {
+      "answer": "SURE",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Certain",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "amount of",
+          "ind"
+        ],
+        [
+          " pleasure (4)",
+          ""
+        ]
+      ],
+      "parse": "Hidden: pleaSUREs. ‘Amount of’ marks the concealment."
+    },
+    {
+      "answer": "SPIT",
+      "device": "Reversal",
+      "parts": [
+        [
+          "Skewer",
+          "def"
+        ],
+        [
+          " gratuities ",
+          ""
+        ],
+        [
+          "returned",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Reversal: TIPS (gratuities) returned reads SPIT."
+    },
+    {
+      "answer": "CEASE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Stop",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "about to relax",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Charade: C (about, as in circa) + EASE (relax) = CEASE."
+    },
+    {
+      "answer": "CROSS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Angry",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "hybrid",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: angry, and a hybrid — a crossbreed."
+    }
+  ],
+  "linkType": "compound"
+}

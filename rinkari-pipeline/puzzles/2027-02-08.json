@@ -1,0 +1,90 @@
+{
+  "number": 223,
+  "date": "2027-02-08",
+  "link": "MULTITUDE",
+  "link_type": "category",
+  "compounds": "DROVE · HOST · PACK · SEA",
+  "note": "DROVE, HOST, PACK and SEA are all MULTITUDES",
+  "clues": [
+    {
+      "answer": "DROVE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Army",
+          "def"
+        ],
+        [
+          " doctor has done with cut",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Army'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HOST",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Organiser of party",
+          "def"
+        ],
+        [
+          " — ",
+          ""
+        ],
+        [
+          "lots of people",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: organiser of party, and lots of people."
+    },
+    {
+      "answer": "PACK",
+      "device": "Charade",
+      "parts": [
+        [
+          "Put lots of people on ",
+          "ind"
+        ],
+        [
+          "deck",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'deck'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SEA",
+      "device": "Charade",
+      "parts": [
+        [
+          "Mammal abandoning lake for ",
+          "ind"
+        ],
+        [
+          "bigger expanse of water",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'bigger expanse of water'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

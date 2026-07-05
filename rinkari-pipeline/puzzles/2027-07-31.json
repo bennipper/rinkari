@@ -1,0 +1,86 @@
+{
+  "number": 396,
+  "date": "2027-07-31",
+  "link": "WITHOUT",
+  "link_type": "category",
+  "compounds": "ABSENT · MINUS · SANS · WANTING",
+  "note": "ABSENT, MINUS, SANS and WANTING are all WITHOUTS",
+  "clues": [
+    {
+      "answer": "ABSENT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bovine disease in insect ",
+          "ind"
+        ],
+        [
+          "not there",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'not there'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MINUS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Negative",
+          "def"
+        ],
+        [
+          " male in America",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Negative'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SANS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Bar",
+          "def"
+        ],
+        [
+          "? Better rooms therein but lacking inside toilet",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Bar'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "WANTING",
+      "device": "Charade",
+      "parts": [
+        [
+          "Short",
+          "def"
+        ],
+        [
+          " worker brought into section",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Short'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "number": 198,
+  "date": "2027-01-14",
+  "link": "SUPERFICIAL",
+  "link_type": "category",
+  "compounds": "COSMETIC · EXTERNAL · SHALLOW · SURFACE",
+  "note": "COSMETIC, EXTERNAL, SHALLOW and SURFACE are all SUPERFICIALS",
+  "clues": [
+    {
+      "answer": "COSMETIC",
+      "device": "Charade",
+      "parts": [
+        [
+          "Firms paid in charge ",
+          "ind"
+        ],
+        [
+          "for appearances only",
+          "def"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'for appearances only'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "EXTERNAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Outward-looking",
+          "def"
+        ],
+        [
+          ", not stopping to accept mark of censure",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Outward-looking'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHALLOW",
+      "device": "Charade",
+      "parts": [
+        [
+          "Frivolous",
+          "def"
+        ],
+        [
+          " conduct entertains everyone",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Frivolous'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SURFACE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Rise",
+          "def"
+        ],
+        [
+          "of brilliant sportsperson on board",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Rise'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "number": 246,
+  "date": "2027-03-03",
+  "link": "KIDDO",
+  "link_type": "category",
+  "compounds": "BUDDY · CHAMP · SPORT · TIGER",
+  "note": "BUDDY, CHAMP, SPORT and TIGER are all KIDDOS",
+  "clues": [
+    {
+      "answer": "BUDDY",
+      "device": "Charade",
+      "parts": [
+        [
+          "Friend",
+          "def"
+        ],
+        [
+          " has bishop purchase round",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Friend'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "CHAMP",
+      "device": "Charade",
+      "parts": [
+        [
+          "Husband in holiday area — ",
+          "ind"
+        ],
+        [
+          "a winner",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a winner'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SPORT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Game",
+          "def"
+        ],
+        [
+          " one of four card players has left",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Game'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TIGER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Dynamic person",
+          "def"
+        ],
+        [
+          " is good in bank",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Dynamic person'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

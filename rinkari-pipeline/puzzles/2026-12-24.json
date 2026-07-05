@@ -1,0 +1,86 @@
+{
+  "number": 177,
+  "date": "2026-12-24",
+  "link": "PERIOD",
+  "link_type": "category",
+  "compounds": "AGE · DAY · ERA · TIME",
+  "note": "AGE, DAY, ERA and TIME are all PERIODS",
+  "clues": [
+    {
+      "answer": "AGE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Era",
+          "def"
+        ],
+        [
+          " of silver finally gone",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Era'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "DAY",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Period of time",
+          "def"
+        ],
+        [
+          " in Chad, a year",
+          "ind"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'Period of time'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "ERA",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "One reigning over a ",
+          "ind"
+        ],
+        [
+          "long period",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "Hidden word — the definition is 'long period'; the answer is concealed in the surrounding wordplay."
+    },
+    {
+      "answer": "TIME",
+      "device": "Charade",
+      "parts": [
+        [
+          "Measure duration of",
+          "def"
+        ],
+        [
+          " two notes",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Measure duration of'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

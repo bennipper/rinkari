@@ -1,0 +1,90 @@
+{
+  "number": 407,
+  "date": "2027-08-11",
+  "link": "EVERYDAY",
+  "link_type": "category",
+  "compounds": "COMMON · REGULAR · ROUTINE · STANDARD",
+  "note": "COMMON, REGULAR, ROUTINE and STANDARD are all EVERYDAIES",
+  "clues": [
+    {
+      "answer": "COMMON",
+      "device": "Charade",
+      "parts": [
+        [
+          "Butterfly with tail flying about ",
+          "ind"
+        ],
+        [
+          "open piece of land",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'open piece of land'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "REGULAR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Controller loses to ",
+          "ind"
+        ],
+        [
+          "orderly",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'orderly'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ROUTINE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Money drawn in by rake, as ",
+          "ind"
+        ],
+        [
+          "standard procedure",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'standard procedure'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "STANDARD",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Stock",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "colours",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: stock, and colours."
+    }
+  ]
+}

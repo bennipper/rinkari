@@ -1,0 +1,66 @@
+{
+  "number": 7,
+  "date": "2026-07-09",
+  "link": "EYE",
+  "link_type": "compound",
+  "compounds": "EYELID · FISHEYE · SHUTEYE · EYESIGHT · EYEWITNESS",
+  "note": "EYE takes both positions with ease, from the anatomical (EYELID, EYESIGHT) to the legal (EYEWITNESS).",
+  "clues": [
+    {
+      "answer": "LID",
+      "device": "Double definition",
+      "parts": [
+        ["Cover", "def"],
+        [", ", ""],
+        ["slang for a hat", "ind"],
+        [" (3)", ""]
+      ],
+      "parse": "Double definition: a cover, and informal slang for a hat."
+    },
+    {
+      "answer": "FISH",
+      "device": "Hidden word",
+      "parts": [
+        ["Catch", "def"],
+        [" ", ""],
+        ["part of", "ind"],
+        [" a selfish act (4)", ""]
+      ],
+      "parse": "Hidden: selFISH. 'Part of' marks the concealment; fish also means to catch."
+    },
+    {
+      "answer": "SHUT",
+      "device": "Anagram",
+      "parts": [
+        ["Huts ", ""],
+        ["reworked", "ind"],
+        [", ", ""],
+        ["closed for the night", "def"],
+        [" (4)", ""]
+      ],
+      "parse": "Anagram: HUTS, reworked, becomes SHUT."
+    },
+    {
+      "answer": "SIGHT",
+      "device": "Charade",
+      "parts": [
+        ["Wistful breath and time", "ind"],
+        [" — quite a ", ""],
+        ["spectacle", "def"],
+        [" (5)", ""]
+      ],
+      "parse": "Charade: SIGH (wistful breath) + T (time) = SIGHT, quite a spectacle."
+    },
+    {
+      "answer": "WITNESS",
+      "device": "Double definition",
+      "parts": [
+        ["One who watches", "def"],
+        [", ", ""],
+        ["attests to it", "ind"],
+        [" (7)", ""]
+      ],
+      "parse": "Double definition: one who watches an event, and to formally attest to it."
+    }
+  ]
+}

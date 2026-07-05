@@ -1,0 +1,90 @@
+{
+  "number": 399,
+  "date": "2027-08-03",
+  "link": "RATIONALE",
+  "link_type": "category",
+  "compounds": "BASIS · FOUNDATION · GROUNDS · REASON",
+  "note": "BASIS, FOUNDATION, GROUNDS and REASON are all RATIONALES",
+  "clues": [
+    {
+      "answer": "BASIS",
+      "device": "Charade",
+      "parts": [
+        [
+          "Current breaking up fish ",
+          "ind"
+        ],
+        [
+          "grounds",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'grounds'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "FOUNDATION",
+      "device": "Charade",
+      "parts": [
+        [
+          "Discovered Everyman wearing large amount of ",
+          "ind"
+        ],
+        [
+          "make-up",
+          "def"
+        ],
+        [
+          " (10)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'make-up'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GROUNDS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Sediment",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "area around house",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: sediment, and area around house."
+    },
+    {
+      "answer": "REASON",
+      "device": "Charade",
+      "parts": [
+        [
+          "Think",
+          "def"
+        ],
+        [
+          " about a child",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Think'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "number": 211,
+  "date": "2027-01-27",
+  "link": "PHOTO",
+  "compounds": "PIC · SHOT · SNAP · STILL",
+  "note": "PIC, SHOT, SNAP and STILL are all PHOTOS",
+  "clues": [
+    {
+      "answer": "PIC",
+      "device": "Charade",
+      "parts": [
+        [
+          "Head erased from colossal ",
+          "ind"
+        ],
+        [
+          "image",
+          "def"
+        ],
+        [
+          " (3)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'image'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHOT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Try",
+          "def"
+        ],
+        [
+          " second helping of this? Just starters",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Try'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SNAP",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Picture",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "that's a match!",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: picture, and that's a match!."
+    },
+    {
+      "answer": "STILL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Quiet",
+          "def"
+        ],
+        [
+          " store's opening place for cash deposits",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Quiet'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

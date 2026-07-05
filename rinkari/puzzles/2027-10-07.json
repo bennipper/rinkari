@@ -1,0 +1,86 @@
+{
+  "number": 464,
+  "date": "2027-10-07",
+  "link": "ENTRYWAY",
+  "compounds": "DOOR · GATE · HATCH · PORTAL",
+  "note": "DOOR, GATE, HATCH and PORTAL are all ENTRYWAIES",
+  "clues": [
+    {
+      "answer": "DOOR",
+      "device": "Charade",
+      "parts": [
+        [
+          "Opener",
+          "def"
+        ],
+        [
+          " dropped on one, relieved initially",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Opener'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "GATE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Money paid for access",
+          "def"
+        ],
+        [
+          " ending in scandal?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Money paid for access'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "HATCH",
+      "device": "Charade",
+      "parts": [
+        [
+          "Covering",
+          "def"
+        ],
+        [
+          " needed by thatcher",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Covering'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PORTAL",
+      "device": "Charade",
+      "parts": [
+        [
+          "Left in front of a large ",
+          "ind"
+        ],
+        [
+          "entrance",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'entrance'; the rest of the clue builds the answer as wordplay."
+    }
+  ],
+  "linkType": "category"
+}

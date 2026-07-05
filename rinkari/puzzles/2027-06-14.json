@@ -1,0 +1,90 @@
+{
+  "number": 349,
+  "date": "2027-06-14",
+  "link": "SPRINKLE",
+  "compounds": "DUST · PEPPER · SCATTER · SHOWER",
+  "note": "DUST, PEPPER, SCATTER and SHOWER are all SPRINKLES",
+  "clues": [
+    {
+      "answer": "DUST",
+      "device": "Charade",
+      "parts": [
+        [
+          "Remains",
+          "def"
+        ],
+        [
+          " of the French Saint",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Remains'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "PEPPER",
+      "device": "Charade",
+      "parts": [
+        [
+          "A spice",
+          "def"
+        ],
+        [
+          " very quietly eaten by noble",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'A spice'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SCATTER",
+      "device": "Charade",
+      "parts": [
+        [
+          "Broadcast",
+          "def"
+        ],
+        [
+          " exotic arts etc",
+          "ind"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Broadcast'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHOWER",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Pelt",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "despicable group",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: pelt, and despicable group."
+    }
+  ],
+  "linkType": "category"
+}

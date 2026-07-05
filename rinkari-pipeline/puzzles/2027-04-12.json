@@ -1,0 +1,90 @@
+{
+  "number": 286,
+  "date": "2027-04-12",
+  "link": "OPPORTUNITY",
+  "link_type": "category",
+  "compounds": "CHANCE · SHOT · TIME · TURN",
+  "note": "CHANCE, SHOT, TIME and TURN are all OPPORTUNITIES",
+  "clues": [
+    {
+      "answer": "CHANCE",
+      "device": "Charade",
+      "parts": [
+        [
+          "I must leave Riviera resort after tea ",
+          "ind"
+        ],
+        [
+          "break",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'break'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "SHOT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Try",
+          "def"
+        ],
+        [
+          " second helping of this? Just starters",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Try'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TIME",
+      "device": "Charade",
+      "parts": [
+        [
+          "Period",
+          "def"
+        ],
+        [
+          " when discharge comes up",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Period'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "TURN",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Change",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "one’s act?",
+          "ind"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: change, and one’s act?."
+    }
+  ]
+}

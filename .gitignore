@@ -1,0 +1,17 @@
+# Local-only puzzle source database (real copyrighted crossword clues) and
+# personal review-progress state — never published, kept off GitHub.
+puzzle-creator-app/
+
+# Claude Code local settings (per-developer permission grants)
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Node (if puzzle-creator-app is ever un-ignored locally)
+node_modules/
+
+# OS cruft
+.DS_Store
+Thumbs.db

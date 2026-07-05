@@ -1,0 +1,86 @@
+{
+  "number": 434,
+  "date": "2027-09-07",
+  "link": "MEANS",
+  "link_type": "category",
+  "compounds": "INSTRUMENT · MEDIUM · ORGAN · VEHICLE",
+  "note": "INSTRUMENT, MEDIUM, ORGAN and VEHICLE are all MEANS",
+  "clues": [
+    {
+      "answer": "INSTRUMENT",
+      "device": "Charade",
+      "parts": [
+        [
+          "Orchestrate",
+          "def"
+        ],
+        [
+          " popular support to billet troops",
+          "ind"
+        ],
+        [
+          " (10)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Orchestrate'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "MEDIUM",
+      "device": "Charade",
+      "parts": [
+        [
+          "This writer slow to introduce uniform ",
+          "ind"
+        ],
+        [
+          "method",
+          "def"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'method'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "ORGAN",
+      "device": "Charade",
+      "parts": [
+        [
+          "No rag, badly edited, may be considered ",
+          "ind"
+        ],
+        [
+          "a newspaper",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'a newspaper'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "VEHICLE",
+      "device": "Charade",
+      "parts": [
+        [
+          "Against hybrid lichee as ",
+          "ind"
+        ],
+        [
+          "jam ingredient?",
+          "def"
+        ],
+        [
+          " (7)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'jam ingredient?'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}

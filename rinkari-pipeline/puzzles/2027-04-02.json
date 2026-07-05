@@ -1,0 +1,94 @@
+{
+  "number": 276,
+  "date": "2027-04-02",
+  "link": "COMPOSITE",
+  "link_type": "category",
+  "compounds": "BLEND · COMPOUND · CROSS · HYBRID",
+  "note": "BLEND, COMPOUND, CROSS and HYBRID are all COMPOSITES",
+  "clues": [
+    {
+      "answer": "BLEND",
+      "device": "Charade",
+      "parts": [
+        [
+          "Fit in",
+          "def"
+        ],
+        [
+          " curve round lake",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Fit in'; the rest of the clue builds the answer as wordplay."
+    },
+    {
+      "answer": "COMPOUND",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Enclosure",
+          "def"
+        ],
+        [
+          " is ",
+          ""
+        ],
+        [
+          "not simple",
+          "ind"
+        ],
+        [
+          " (8)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: enclosure, and not simple."
+    },
+    {
+      "answer": "CROSS",
+      "device": "Double definition",
+      "parts": [
+        [
+          "Mongrel",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "likely to snap?",
+          "ind"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Double definition: mongrel, and likely to snap?."
+    },
+    {
+      "answer": "HYBRID",
+      "device": "Charade",
+      "parts": [
+        [
+          "Cross",
+          "def"
+        ],
+        [
+          " in past hour, upset, then relieved",
+          "ind"
+        ],
+        [
+          " (6)",
+          ""
+        ]
+      ],
+      "parse": "The definition is 'Cross'; the rest of the clue builds the answer as wordplay."
+    }
+  ]
+}
