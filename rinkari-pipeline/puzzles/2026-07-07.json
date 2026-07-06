@@ -1,90 +1,66 @@
 {
   "number": 7,
   "date": "2026-07-07",
-  "link": "NBA",
-  "link_type": "category",
-  "compounds": "BUCKS · HEAT · JAZZ · NETS",
-  "note": "BUCKS, HEAT, JAZZ and NETS are all NBA teams",
+  "link": "HAND",
+  "link_type": "compound",
+  "compounds": "HANDBAG · HANDCUFF · HANDSHAKE · FARMHAND · SECONDHAND",
+  "note": "HAND grips from either end — leading in HANDBAG, HANDCUFF and HANDSHAKE, trailing in FARMHAND and SECONDHAND. 'Female weapon' turning out to be a farm is the pivot I'd frame.",
   "clues": [
     {
-      "answer": "BUCKS",
-      "device": "Double definition",
-      "parts": [
-        [
-          "Funds in Madison",
-          "def"
-        ],
-        [
-          " ",
-          ""
-        ],
-        [
-          "County",
-          "ind"
-        ],
-        [
-          " (5)",
-          ""
-        ]
-      ],
-      "parse": "Double definition: funds in madison, and county."
-    },
-    {
-      "answer": "HEAT",
+      "answer": "BAG",
       "device": "Hidden word",
       "parts": [
-        [
-          "Passion",
-          "def"
-        ],
-        [
-          " displayed in theatre",
-          "ind"
-        ],
-        [
-          " (4)",
-          ""
-        ]
+        ["Sack", "def"],
+        [" ", ""],
+        ["found in", "ind"],
+        [" cabbage patch (3)", ""]
       ],
-      "parse": "Hidden word — the definition is 'Passion'; the answer is concealed in the surrounding wordplay."
+      "parse": "Hidden: caBBAGe conceals BAG — a sack. 'Found in' marks the concealment."
     },
     {
-      "answer": "JAZZ",
-      "device": "Reversal",
+      "answer": "CUFF",
+      "device": "Double definition",
       "parts": [
-        [
-          "What’s often traditional",
-          "def"
-        ],
-        [
-          " filling for pizza just returned",
-          "ind"
-        ],
-        [
-          " (4)",
-          ""
-        ]
+        ["Belt", "def"],
+        [" ", ""],
+        ["part of a shirt", "ind"],
+        [" (4)", ""]
       ],
-      "parse": "Reversal — the definition is 'What’s often traditional'; the wordplay reversed gives the answer."
+      "parse": "Double definition: to belt someone — a cuff round the ear — and the end of a shirt sleeve. 'Belt' reads as clothing but works as a verb."
     },
     {
-      "answer": "NETS",
+      "answer": "SHAKE",
+      "device": "Anagram",
+      "parts": [
+        ["Hakes ", ""],
+        ["off", "ind"],
+        [" — ", ""],
+        ["tremble", "def"],
+        [" (5)", ""]
+      ],
+      "parse": "Anagram: HAKES, off (gone bad, so rearranged), makes SHAKE — to tremble. Fish past its best would make anyone shudder."
+    },
+    {
+      "answer": "FARM",
       "device": "Charade",
       "parts": [
-        [
-          "Acquire small ",
-          "ind"
-        ],
-        [
-          "area for training bats?",
-          "def"
-        ],
-        [
-          " (4)",
-          ""
-        ]
+        ["Female weapon", "ind"],
+        [" — a ", ""],
+        ["growing concern", "def"],
+        ["? (4)", ""]
       ],
-      "parse": "The definition is 'area for training bats?'; the rest of the clue builds the answer as wordplay."
+      "parse": "Charade: F (female) + ARM (weapon) = FARM — quite literally a growing concern."
+    },
+    {
+      "answer": "SECOND",
+      "device": "Double definition",
+      "parts": [
+        ["Moment", "def"],
+        [" to ", ""],
+        ["support the motion", "ind"],
+        [" (6)", ""]
+      ],
+      "parse": "Double definition: a moment — just a second — and to second a motion, as in a meeting."
     }
   ]
 }
