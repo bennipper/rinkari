@@ -869,7 +869,7 @@ async function boot(){
   } catch (err){
     document.getElementById("view").innerHTML =
       '<div class="view-head"><h2 class="view-title">Couldn’t load today’s puzzle</h2>'+
-      '<p class="view-sub">Check your connection and reload. If this keeps happening, puzzles/manifest.json or today’s puzzle file may not be uploaded yet.</p></div>';
+      '<p class="view-sub">Check your connection and reload. If this keeps happening, the puzzle database may be temporarily unreachable — try again in a minute.</p></div>';
     return;
   }
   renderBanner();

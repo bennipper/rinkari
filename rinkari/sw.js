@@ -4,7 +4,7 @@
    request to a different origin than this page falls straight through to
    the network, so the daily puzzle always reflects what's actually in the
    CMS rather than a stale cached copy. */
-const CACHE = "rinkari-v6";
+const CACHE = "rinkari-v7";
 const SHELL = ["./index.html", "./manifest.webmanifest", "./rinkari_logo.svg"];
 
 self.addEventListener("install", e => {
