@@ -12,6 +12,12 @@ __pycache__/
 # Node (if puzzle-creator-app is ever un-ignored locally)
 node_modules/
 
+# Secrets — Sanity API tokens etc. Never commit these.
+.env
+.env.*
+*.token
+.sanity-token.json
+
 # OS cruft
 .DS_Store
 Thumbs.db

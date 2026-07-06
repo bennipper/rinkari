@@ -28,9 +28,15 @@ link mechanic.
 - `data/indicators.json` — known fair indicator words per cryptic device
 - `scripts/mine_links.py` — finds Link candidates, both types (`--mode compound|category|both`)
 - `scripts/lint_clues.py` — mechanical fairness checks on a puzzle JSON
-- `scripts/build_puzzles.py` — validates all puzzles and publishes per-day
-  JSON + manifest.json into the site's `puzzles/` folder (the site fetches
-  these at runtime; `index.html` is never touched by this script)
+- `scripts/build_puzzles.py` — validates all puzzles and can publish per-day
+  JSON + manifest.json to a local folder (kept for offline export/backup;
+  no longer what the live site reads from — see below)
+- `scripts/publish_to_sanity.py` — the real publish step. Lints, then
+  `createOrReplace`s each puzzle as a document in the Sanity project (the
+  site's CMS backend) via its write API. Requires `.env` in this directory
+  (gitignored — never commit it) with `SANITY_PROJECT_ID`, `SANITY_DATASET`,
+  `SANITY_WRITE_TOKEN`. Idempotent: rerunning after editing one puzzle file
+  is safe.
 - `puzzles/YYYY-MM-DD.json` — one puzzle per file, filename is the release date
 - `prompts/clue-style-guide.md` — REQUIRED READING before drafting any clue
 - `review/` — generated review sheets for the human ear-test
@@ -52,13 +58,17 @@ link mechanic.
    Leave WARNs with a one-line justification in the review sheet.
 6. Generate `review/batch-<date>.md`: one line per clue with both candidates, the
    parse, and lint status, for the human to mark keep/swap.
-7. After human edits land, run `python3 scripts/build_puzzles.py --out ../rinkari/puzzles`
-   to validate the full set and publish it. This writes one `<date>.json` per
-   puzzle plus `manifest.json` into the site's `puzzles/` folder — the site
-   fetches these at runtime (anchored to Europe/London for the daily
-   rollover), so `index.html` itself never needs to be re-uploaded again
-   after its first deploy. Never hand-edit anything under the site's
-   `puzzles/` folder — it's generated output.
+7. After human edits land, run `python3 scripts/publish_to_sanity.py` to
+   validate the full set and push it into Sanity (the CMS backing the live
+   site). The site queries Sanity directly at runtime (anchored to
+   Europe/London for the daily rollover) via its public read API, so
+   `index.html` itself never needs to change again after its first deploy —
+   publishing a new day is just: draft the JSON here, lint it, run this
+   script. Puzzles can also be hand-edited directly in Sanity Studio
+   (`sanity-studio/`, run `npm run dev` there) for quick one-off fixes, but
+   `puzzles/*.json` here remains the source of truth for anything drafted
+   through this pipeline — re-running publish_to_sanity.py will overwrite a
+   Studio-only edit for that date.
 
 ## Puzzle JSON schema (must match exactly)
 {

@@ -6,6 +6,12 @@
       "runtimeExecutable": "py",
       "runtimeArgs": ["-m", "http.server", "8080", "--directory", "rinkari"],
       "port": 8080
+    },
+    {
+      "name": "sanity-studio",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "sanity-studio"],
+      "port": 3333
     }
   ]
 }

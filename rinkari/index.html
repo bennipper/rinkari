@@ -321,31 +321,56 @@ function addDaysToKey(key, n){
 function parseISODateLocal(iso){ const [y,mo,da] = iso.split("-").map(Number); return new Date(y, mo-1, da); }
 
 /* ------------------------------------------------------------------ data
-   Puzzles are fetched at runtime, not embedded in this file. index.html is
-   uploaded once; publishing a new day means dropping <date>.json plus a
-   refreshed manifest.json into puzzles/ next to this file — see
-   scripts/build_puzzles.py. The manifest deliberately carries only
-   {number,date} for every puzzle (including ones queued for the future) so
-   this page can work out what "today" is without shipping tomorrow's
-   answers to every visitor; full clue data for a given date is fetched only
-   once that date is actually needed (today's puzzle, or a past date someone
-   opens from the archive). */
-const PUZZLE_DIR = "puzzles/";
+   Puzzles live in Sanity (a headless CMS), not embedded in or shipped
+   alongside this file. index.html is uploaded once; publishing a new day
+   means adding/editing a puzzle document in Sanity Studio (or via the
+   pipeline's publish_to_sanity.py) — this page never needs to change again.
+   The dataset is public-read, so no API token is needed here, only for
+   writes. Manifest queries deliberately fetch only {number,date} for every
+   puzzle (including ones dated in the future) so this page can work out
+   what "today" is without pulling full clue/answer data for days that
+   haven't arrived yet into every visitor's browser; full puzzle data for a
+   given date is fetched only once that date is actually needed (today's
+   puzzle, or a past date someone opens from the archive). */
+const SANITY_PROJECT_ID = "uhde7616";
+const SANITY_DATASET = "production";
+const SANITY_API = "https://" + SANITY_PROJECT_ID + ".api.sanity.io/v2024-01-01/data/query/" + SANITY_DATASET;
+
+async function sanityQuery(query, params){
+  const url = new URL(SANITY_API);
+  url.searchParams.set("query", query);
+  if (params) for (const k in params) url.searchParams.set("$"+k, JSON.stringify(params[k]));
+  const res = await fetch(url.toString(), {cache:"no-store"});
+  if (!res.ok) throw new Error("Sanity query failed: "+res.status);
+  return (await res.json()).result;
+}
+
+function normalizePuzzle(doc){
+  if (!doc) return null;
+  return {
+    number: doc.number, date: doc.date, link: doc.link, linkType: doc.linkType,
+    compounds: doc.compounds, note: doc.note,
+    clues: (doc.clues||[]).map(c => ({
+      answer: c.answer, device: c.device, parse: c.parse,
+      parts: (c.parts||[]).map(p => [p.text, p.role||""])
+    }))
+  };
+}
+
 const puzzleCache = new Map();
 async function fetchPuzzle(date){
   if (puzzleCache.has(date)) return puzzleCache.get(date);
-  const res = await fetch(PUZZLE_DIR + date + ".json", {cache:"no-store"});
-  if (!res.ok) throw new Error("puzzle fetch failed: "+date);
-  const p = await res.json();
+  const doc = await sanityQuery('*[_type == "puzzle" && date == $date][0]', {date});
+  if (!doc) throw new Error("puzzle fetch failed: "+date);
+  const p = normalizePuzzle(doc);
   puzzleCache.set(date, p);
   return p;
 }
 
 let MANIFEST = [], RELEASED_META = [], TODAY_META = null, PAST_META = [], TODAY = null;
 async function loadManifest(){
-  const res = await fetch(PUZZLE_DIR + "manifest.json", {cache:"no-store"});
-  if (!res.ok) throw new Error("manifest fetch failed");
-  MANIFEST = (await res.json()).sort((a,b)=> a.date < b.date ? -1 : 1);
+  MANIFEST = await sanityQuery('*[_type == "puzzle"]{number, date} | order(date asc)');
+  if (!MANIFEST || !MANIFEST.length) throw new Error("manifest fetch failed");
   const today = londonDateKey();
   RELEASED_META = MANIFEST.filter(p => p.date <= today);
   TODAY_META = RELEASED_META.length ? RELEASED_META[RELEASED_META.length-1] : MANIFEST[0];
