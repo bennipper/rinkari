@@ -1,63 +1,102 @@
 {
   "number": 6,
   "date": "2026-07-06",
-  "link": "WEATHER",
-  "link_type": "category",
-  "compounds": "HAIL · RAIN · SLEET · SNOW",
-  "note": "HAIL, RAIN, SLEET and SNOW are all types of WET WEATHER",
+  "link": "BACK",
+  "link_type": "compound",
+  "compounds": "BACKLOG · DRAWBACK · BACKSTAGE · HORSEBACK · QUARTERBACK",
+  "note": "BACK attaches at either end without complaint — ahead in BACKLOG and BACKSTAGE, behind in DRAWBACK, HORSEBACK and QUARTERBACK. The ogre guarding his diary is the clue I'd frame.",
   "clues": [
     {
-      "answer": "HAIL",
+      "answer": "LOG",
+      "device": "Hidden word",
+      "parts": [
+        [
+          "Diary",
+          "def"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "held by",
+          "ind"
+        ],
+        [
+          " loyal ogre (3)",
+          ""
+        ]
+      ],
+      "parse": "Hidden: loyaL OGre conceals LOG — a diary or record. 'Held by' marks the concealment, and the answer spans both words."
+    },
+    {
+      "answer": "DRAW",
+      "device": "Reversal",
+      "parts": [
+        [
+          "Ward ",
+          ""
+        ],
+        [
+          "rejected",
+          "ind"
+        ],
+        [
+          " ",
+          ""
+        ],
+        [
+          "sketch",
+          "def"
+        ],
+        [
+          " (4)",
+          ""
+        ]
+      ],
+      "parse": "Reversal: WARD, rejected (sent back), reads DRAW — to sketch. The surface wants you to picture a Mr Ward turning down artwork."
+    },
+    {
+      "answer": "STAGE",
+      "device": "Container",
+      "parts": [
+        [
+          "Wise man ",
+          ""
+        ],
+        [
+          "about",
+          "ind"
+        ],
+        [
+          " time — ",
+          ""
+        ],
+        [
+          "where to perform",
+          "def"
+        ],
+        [
+          " (5)",
+          ""
+        ]
+      ],
+      "parse": "Container: SAGE (wise man) about T (time) gives S(T)AGE — where to perform."
+    },
+    {
+      "answer": "HORSE",
       "device": "Double definition",
       "parts": [
         [
-          "Icy shower",
+          "Charger",
           "def"
         ],
         [
-          " is ",
+          " — ",
           ""
         ],
         [
-          "welcome",
-          "ind"
-        ],
-        [
-          " (4)",
-          ""
-        ]
-      ],
-      "parse": "Double definition: icy shower, and welcome."
-    },
-    {
-      "answer": "RAIN",
-      "device": "Charade",
-      "parts": [
-        [
-          "Reportedly, be in power ",
-          "ind"
-        ],
-        [
-          "shower",
-          "def"
-        ],
-        [
-          " (4)",
-          ""
-        ]
-      ],
-      "parse": "The definition is 'shower'; the rest of the clue builds the answer as wordplay."
-    },
-    {
-      "answer": "SLEET",
-      "device": "Charade",
-      "parts": [
-        [
-          "Form of precipitation",
-          "def"
-        ],
-        [
-          " making sesame plants shoot up",
+          "gym equipment",
           "ind"
         ],
         [
@@ -65,26 +104,30 @@
           ""
         ]
       ],
-      "parse": "The definition is 'Form of precipitation'; the rest of the clue builds the answer as wordplay."
+      "parse": "Double definition: a charger is a warhorse, and the vaulting horse is gym equipment. If you reached for your phone cable, that was the plan."
     },
     {
-      "answer": "SNOW",
-      "device": "Charade",
+      "answer": "QUARTER",
+      "device": "Double definition",
       "parts": [
         [
-          "Precipitation",
+          "Mercy",
           "def"
         ],
         [
-          " small, at the moment",
+          " shown by ",
+          ""
+        ],
+        [
+          "part of town",
           "ind"
         ],
         [
-          " (4)",
+          " (7)",
           ""
         ]
       ],
-      "parse": "The definition is 'Precipitation'; the rest of the clue builds the answer as wordplay."
+      "parse": "Double definition: quarter is mercy — as in 'no quarter given' — and a district, like the Latin Quarter."
     }
   ]
 }
